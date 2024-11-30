@@ -1,4 +1,6 @@
-# Canción 5
+# Śrī Śikṣāṣṭakam, Canción 5
+
+> **śrī** — adorable; **śikṣa** — instrucciones; **aṣṭakam** — ocho versos.
 
 ### Śrīla Bhakti Vinod Ṭhākur
 

@@ -9,7 +9,7 @@
     jaya guru mahārāj karuṇā-sāgara
     śrī-bhakti-rakṣaka deva-gosvāmī śrīdhara
 
-> **jaya** — toda gloria; **‘guru-mahārāj’** — Guru Mahārāj; **karuṇa** — de misericordia; **sāgara** — océano; **śrī-bhakti-rakṣaka deva-goswāmī śrīdhara** — Śrīla Bhakti Rakṣak Śrīdhar Dev-Goswāmī.
+> **jaya** — toda gloria; **‘guru-mahārāj’** — a Guru Mahārāj; **karuṇa** — de misericordia; **sāgara** — océano; **śrī-bhakti-rakṣaka deva-goswāmī śrīdhara** — Śrīla Bhakti Rakṣak Śrīdhar Dev-Goswāmī.
 
 Todas las glorias a Śrīla Guru Mahārāj, Śrīla Bhakti Rakṣak Śrīdhar Dev-Goswāmī Mahārāj, quien es como un océano de misericordia.
 
@@ -18,16 +18,16 @@ Todas las glorias a Śrīla Guru Mahārāj, Śrīla Bhakti Rakṣak Śrīdhar De
     prakāśile nīlāchale bhuvana-maṅgala
     nitāi-chaitanya-deva-sevā samujjvala
 
-> **prakāśile** — revelado; **nīlāchale** — en Nīlāchal (Purī Dhām); **bhuvana** — el mundo; **maṅgala** — auspicioso; **nitāi-chaitanya** — Nitāi y Chaitanya; **deva** — señores; **sevā** — servicio; **sama-ujjvala** — igual de radiante.
+> **prakāśile** — manifestado, revelado; **nīlāchale** — en Nīlāchal (Purī Dhām); **bhuvana** — el mundo; **maṅgala** — auspicioso; **nitāi-chaitanya** — Nitāi y Chaitanya; **deva** — señores; **sevā** — servicio; **sama-ujjvala** — igual de radiante.
 
-Mediante Su misericordia, Śrī Śrī Nitāi-Chaitanyadev se han manifestado en Puri Dhām dispensando lo auspicioso sobre todo el mundo y revelando que radiante es el servicio devocional a Ellos.
+Mediante Su misericordia, Śrī Śrī Nitāi-Chaitanyadev se han manifestado en Purī Dhām dispensando lo auspicioso sobre todo el mundo y revelando que radiante es el servicio devocional a Ellos.
 
 #### 3
 
     gorāpreme mātoyārā nityānanda-rūpa
     rasarāja mahābhāva chaitanya-svarūpa
 
-> **gorā-preme** — amor divino por Gaura; **mātoyārā** — enloquece; **nityānanda-rūpa** — la forma de Nityānanda; **rasa-rāja** — el rey de las melosidades (Kṛṣṇa); **mahābhāva** — el éxtasis trascendental (Rādhārāṇī); **chaitanya-svarūpa** — la forma no diferente de Chaitanya.
+> **gorā-preme** — amor divino por Gaura; **mātoyārā** — enloquece; **nityānanda-rūpa** — la forma de Nityānanda; **rasa-rāja** — el rey de las melosidades (Kṛṣṇa); **mahābhāva** — éxtasis trascendental (Rādhārāṇī); **chaitanya-svarūpa** — la forma no diferente de Chaitanya.
 
 La forma de Śrī Nityānanda Prabhu baila extáticamente embriagada del amor divino por Śrī Gaura, cuya manifestación es la de Rasarāj Śrī Kṛṣṇa, llevando el corazón y el halo de Mahābhāva, Śrīmatī Rādhārāṇī.
 
@@ -38,14 +38,14 @@ La forma de Śrī Nityānanda Prabhu baila extáticamente embriagada del amor di
 
 > **kasita** — brillo; **kāñchana** — hecho de oro; **jini** — quienes; **śrī-aṅga** — sus adorables cuerpos; **lābaṇi** — elegante; **dū̐hū̐gale** — en Sus cuellos; **vana-mālā** — guirnalda del bosque; **bhāvera** — de éxtasis; **dolanī** — mecerse.
 
-Ambos Señores se encuentran de pie, completamente resplandecientes, y brillan como oro puro, mientras guirnaldas con diversas hermosas flores del bosque se mecen en Sus cuellos.
+Ambos Señores se encuentran de pie, completamente resplandecientes, y brillan como el oro natural, mientras guirnaldas con diversas hermosas flores del bosque se mecen en Sus cuellos.
 
 #### 5
 
     murachita koṭīkāma rūparāsaraṅge
     madhūra narttana-bhāva varābhaya bhaṅge
 
-> **murachita** — desmayarse; **koṭī** — millones; **kāma** — de Cupido; **rūpa-rāsa-raṅge** — forma de melosidad  colorida; **madhūra** — de la dulzura; **narttana** — danzando; **bhāva** — éxtasis; **varābhaya** — generosidad; **bhaṅge** — conmueve.
+> **murachita** — desmayarse; **koṭī** — millones; **kāma** — de Cupido; **rūpa-rāsa-raṅge** — una forma de melosidad y muy colorida; **madhūra** — de la dulzura; **narttana** — danzando; **bhāva** — éxtasis; **varābhaya** — generosidad; **bhaṅge** — conmueve.
 
 Millones y millones de cupidos caen inconscientes ante los divinos pies de Sus Señorías al contemplar Su belleza y Sus divinas formas, que juguetonamente se balancean de aquí para allá. Ellos bailan, conmoviendo los corazones de todos y derramando liberalmente Su misericordia sobre las almas condicionadas.
 
@@ -54,7 +54,7 @@ Millones y millones de cupidos caen inconscientes ante los divinos pies de Sus S
     koṭi-chandra-bhānuśobhā ratna-siṁhāsane
     prema netre dekhe mahā-bhāgyavāna jane
 
-> **koṭi-chandra** — miles de lunas; **bhānu** — un rayo; **śobhā** — esplendor; **ratna** — joya; **siṁhāsane** — en el trono; **prema** — amor divino; **netre** — de ojos; **dekhe** — ven; **mahā-bhāgyavāna** — muy afortunado; **jane** — de personas.
+> **koṭi-chandra** — millones de lunas; **bhānu** — un rayo; **śobhā** — esplendor; **ratna** — joya; **siṁhāsane** — en el trono; **prema** — amor divino; **netre** — de ojos; **dekhe** — ven; **mahā-bhāgyavāna** — muy afortunado; **jane** — de personas.
 
 Brillantes como millones de lunas, se yerguen radiantes sobre Su trono enjoyado. Las almas afortunadas, con ojos devocionales llenos de amor y afecto, pueden ver Sus formas divinas.
 
@@ -63,7 +63,7 @@ Brillantes como millones de lunas, se yerguen radiantes sobre Su trono enjoyado.
     mṛdaṅga mandirā bāje suśaṅkha-dhvanita
     śruti-mauli-ratnamālā-dīpa-nirājita
 
-> **mṛdaṅga** — el tambor *mṛdaṅga*; (**mṛda** — barro; **aṅga** — cuerpo); **mandirā** — el templo; **bāje** — suena; **su-śaṅkha** — la gloriosa caracola; **dhvanita** — el sonido; **śruti** — las escrituras; **mauli** — guirnaldas; **ratna-mālā** — collar de perlas; **dīpa** — lámpara; **nirājita** — adorado así.
+> **mṛdaṅga** — el tambor *mṛdaṅga*; (**mṛda** — arcilla; **aṅga** — cuerpo); **mandirā** — el templo; **bāje** — suena; **su-śaṅkha** — la gloriosa caracola; **dhvanita** — el sonido; **śruti** — las escrituras; **mauli** — guirnaldas; **ratna-mālā** — collar de perlas; **dīpa** — lámpara; **nirājita** — adorado de esa manera.
 
 En el templo, durante el *ārati*, las *mṛdaṅgas* suenan dulcemente mientras que son sopladas las caracolas y es ofrecida la lámpara de *guee*. En el *ārati*, las diferentes partes de los *Vedas* dentro del *bhakti-yoga *adoptaron forma en cada flama como una flama de *bhakti-yoga*, y adoran de ese modo a Sus Señorías.
 
@@ -90,18 +90,18 @@ Los queridos asociados de Śrī Chaitanya: Śrī Svarūp Dāmodar, Rāmānanda R
     sārvabhauma gopīnātha jīvānuga-jana
     dekhena ārati-śobha durllabha-darśana
 
-> **sārvabhauma** — Sārvabhauma Bhaṭṭāchārya; **gopīnātha** — Gopīnāth Āchārya; **jīvānuga** — de la línea de Jīva Goswāmī; **jana** — las personas; **dekhe-na** — no ven; **ārati-śobha** — ceremonia esplendorosa; **durllabha** — raro; **darśana** — visión.
+> **sārvabhauma** — Sārvabhauma Bhaṭṭāchārya; **gopīnātha** — Gopīnāth Āchārya; **jīvānuga** — de la línea de Jīva Goswāmī; **jana** — las personas; **dekhe-na** — no es visto (por otros); **ārati-śobha** — ceremonia esplendorosa; **durllabha** — raro; **darśana** — visión.
 
 Sārvabhauma Bhaṭṭāchārya, Gopīnāth Āchārya y los seguidores en la *sampradāya* de Jīva Goswāmī, todos miran este *ārati*, el cual no puede ser visto por otros.
 
 #### 11
 
     nadīyā prakāśe nityānanda-gauranidhi
-    patita-pavana-kṣetre milāila vidhi
+    patita-pāvana-kṣetre milāila vidhi*
 
-> **nadīyā** — de Nadia; **prakāśe** — la manifestación; **nityānanda** — Nityānanda; **gaura-nidhi** — el tesoro Gaura; **patita** — de los caídos; **pavana** — el salvador; **kṣetre** — en Jagannāth Purī; **milāila** — concedido; **vidhi** — arreglo.
+> **nadīyā** — del distrito de Nadia; **prakāśe** — la manifestación; **nityānanda** — Nityānanda; **gaura-nidhi** — el tesoro Gaura; **patita** — de los caídos; **pavana** — el salvador; **kṣetre** — en Jagannāth Purī; **milāila** — concedido; **vidhi** — arreglo.
 
-Śrī Nityānanda y Śrī Gaura Mahāprabhu se han manifestado eternamente en Nabadwīp Dhām, Nadia. Y ahora Sus formas divinas se manifestaron en Purī Dhām, lo cual ha sido misericordiosamente concedido por el hacedor de nuestra fortuna, Śrī Gurudev.
+Śrī Nityānanda y Śrī Gaurāṅga Mahāprabhu se han manifestado eternamente en Nabadwīp Dhām, Nadia. Y ahora Sus formas divinas se manifestaron en Purī Dhām, lo cual ha sido misericordiosamente concedido por el hacedor de nuestra fortuna, Śrī Gurudev.
 
 #### 12
 
@@ -109,9 +109,39 @@ Sārvabhauma Bhaṭṭāchārya, Gopīnāth Āchārya y los seguidores en la *sa
     śrī guru-prasāde dekhe ei adhama dāsa
     (śrī guru-prasāde dekhe śrī govinda dāsa)
 
-> **avichintya** — incebiblemente; **nityānanda** — de Nityānanda; **chaitanya** — de Chaitanya; **prakāśa** — manifestación; **śrī guru** — de Śrī Gurudev; **prasāde** — por la misericordia; **dekhe** — ve; **ei** — este; **adhama** — bajo; **dāsa** — sirviente; **śrī guru** — de Śrī Gurudev; **prasāde** — por la misericordia; **dekhe** — ve; **ei** — este; **śrī** — adorable; **govinda** — de Nombre Govinda; **dāsa** — sirviente.
+> **avichintya** — inconcebiblemente; **nityānanda** — de Nityānanda; **chaitanya** — de Chaitanya; **prakāśa** — manifestación; **śrī guru** — de Śrī Gurudev; **prasāde** — por la misericordia; **dekhe** — ve; **ei** — este; **adhama** — bajo; **dāsa** — sirviente; **śrī guru** — de Śrī Gurudev; **prasāde** — por la misericordia; **dekhe** — ve; **ei** — este; **śri** — adorable; **govinda** — de nombre Govinda; **dāsa** — sirviente.
 
 Inconcebiblemente, Śrī Śrī Nitāi-Chaitanya se han manifestado y, gracias a la misericordia de Śrī Gurudev, esta alma caída observa Su *ārati* y se une al *saṅkīrtan*.
+
+* Nota: Existen cuatro canciones más para el *ārati* de Sus Señorías Nitāi Chaitanya basadas en la original de Purī Dhām; en Ekachakrā Dhām, en Nṛsingha Palli, en Caracas Venezuela, y en Medellín Colombia. La estrofa que varía se presenta a continuación:
+
+Para Śrī Śrī Guru Gaura Nityānanda en Śrī Ekachakrā Dhām, India:
+
+#### 10
+
+    nadīyā līlāra nityānanda-gauranidhi
+    patita-pāvana-kṣetre milāila vidhi
+
+Para Śrī Śrī Nitāi Gaurāṅga en Śrī Nṛisingha Palli Dhām, India:
+
+#### 11
+
+    nadīyā prakāśe nityānanda-gauranidhi
+    patita-pāvana-dhāme milāila vidhi
+
+Para Parama Karuṇa Nitāi Gaurachandra en Caracas, Venezuela:
+
+#### 10
+
+    nadīyā prakāśe nityānanda-gauranidhi
+    caracas-bhakta-saṅge milāila vidhi
+
+Para Śrī Śrī Guru Gaura Nityānanda Jiu en Medellín, Colombia:
+
+#### 11
+
+    nadīyā līlāra nityānanda-gauranidhi
+    medellín-bhakta-saṅge milāila viddhi
 
 
 > page = 46

@@ -1,5 +1,7 @@
 # Aruṇodoya-kīrtan
 
+> **aruṇodoya** — del amanecer; **kīrtan** — canto.
+
 ## Parte 2
 
 ### Śrīla Bhakti Vinod Ṭhākur
