@@ -17,7 +17,7 @@ El Señor Kṛṣṇa es el amado hijo de Madre Yaśodā, el amante trascendenta
 
 #### 2
 
-            amala hari-nāma amiya-vilāsā
+        amala hari-nāma amiya-vilāsā
     vipina-purandara    navīna nāgara-vara
         vaṁśī-vadana suvāsā
 
