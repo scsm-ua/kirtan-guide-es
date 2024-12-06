@@ -1,15 +1,19 @@
-# Śrī Śikṣāṣṭakam, Canción 6
+# Śrī Śikṣāṣṭakam
 
 > **śrī** — adorable; **śikṣa** — instrucciones; **aṣṭakam** — ocho versos.
 
 ### Śrīla Bhakti Vinod Ṭhākur
 
-## Śrī Śikṣāṣṭakam: 6
+## Canción 6
 
     nayanaṁ galad-aśru-dhārayā
     vadanaṁ gadgada-ruddhayā girā
     pulakair nichitaṁ vapuḥ kadā
     tava nāma-grahaṇe bhaviṣyati
+
+> **nayanaṁ** — mis ojos; **galad-aśru-dhārayā** — por ríos de lágrimas que caen; **vadanaṁ** — mi boca; **gad-gada** — vacilante; **ruddhayā** — siendo ahogado; **girā** — mis palabras; **pulakaiḥ** — por vellos que se erizan; **nichitaṁ** — cubierto; **vapuḥ** — mi cuerpo; **kadā** — ¿cuándo?; **tava** — tu; **nāma-grahaṇe** — al cantar el Santo Nombre; **bhaviṣyati** — será.
+
+¡Oh, Señor! ¿Cuándo las lágrimas fluirán de mis ojos como olas y mi voz temblará de éxtasis? ¿Cuándo los vellos de mi cuerpo se erizarán mientras canto Tu Santo Nombre?
 
 #### 1
 

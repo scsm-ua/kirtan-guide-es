@@ -1,13 +1,17 @@
-# Śrī Śikṣāṣṭakam, Canción 3
+# Śrī Śikṣāṣṭakam
 
 > **śrī** — adorable; **śikṣa** — instrucciones; **aṣṭakam** — ocho versos.
 
 ### Śrīla Bhakti Vinod Ṭhākur
 
-## Śrī Śikṣāṣṭakam: 3
+## Canción 3
 
     tṛṇād api sunīchena taror api sahiṣṇunā
     amāninā mānadena kīrtanīyaḥ sadā hariḥ
+
+> **tṛṇād api** — más que la hierba pisoteada; **su-nīchena** — sintiéndose mucho más bajo; **taror** — que un árbol; **api** — más que; **sahiṣṇunā** — siendo tolerante; **amāninā** — al no aceptar respeto; **mānadena** — respetando a todos los demás; **kīrtanīyaḥ** — debe cantarse; **sadā** — siempre; **hariḥ** — el Santo Nombre de Hari.
+
+Aquel que es más humilde que una brizna de hierba, más tolerante que un árbol, que le ofrece el debido honor a los demás sin desearlo para sí mismo, está capacitado para cantar siempre el Santo Nombre de Kṛṣṇa.
 
 #### 1
 

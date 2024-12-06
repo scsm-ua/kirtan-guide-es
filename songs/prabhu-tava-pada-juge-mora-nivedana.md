@@ -1,15 +1,19 @@
-# Śrī Śikṣāṣṭakam, Canción 4
+# Śrī Śikṣāṣṭakam
 
 > **śrī** — adorable; **śikṣa** — instrucciones; **aṣṭakam** — ocho versos.
 
 ### Śrīla Bhakti Vinod Ṭhākur
 
-## Śrī Śikṣāṣṭakam: 4
+## Canción 4
 
     na dhanaṁ na janaṁ na sundarīṁ
     kavitāṁ vā jagad-īśa kāmaye
     mama janmani-janmanīśvare
     bhavatād bhaktir ahaitukī tvayi
+
+> **na dhanaṁ** — no riqueza; **na janaṁ** — no seguidores; **na sundarīṁ** — no mujeres hermosas; **kavitāṁ** — actividades fruitivas descritas en lenguaje florido; **va** — o; **jagat-īśa** — ¡oh, Señor del universo!; **kāmaye** — deseo; **mama** — mi; **janmani janmani** — nacimiento tras nacimiento; **īśvare** — a la Suprema Personalidad de Dios; **bhavatāt** — que haya; **bhaktiḥ** — servicio devocional; **ahaitukī** — sin motivación; **tvayi** — a Ti.
+
+¡Oh, Señor! No tengo deseo de acumular riquezas, seguidores, mujeres bellas o salvación. Lo único que imploro es el servicio devocional inmotivado a Ti, nacimiento tras nacimiento.
 
 #### 1
 

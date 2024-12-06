@@ -60,11 +60,11 @@ Aquel que es más humilde que una brizna de hierba, más tolerante que un árbol
 #### 6
 
     nayanaṁ galad-aśru-dhārayā
-    vadanaṁ gad-gada-ruddhayā girā
+    vadanaṁ gadgada-ruddhayā girā
     pulakair nichitaṁ vapuḥ kadā
     tava nāma-grahaṇe bhaviṣyati
 
-> **nayanaṁ** — mis ojos; **galad-aśru-dhārayā** — por ríos de lágrimas que caen; **vadanaṁ** — mi boca; **gad-gada** — vacilante; **ruddhayā** — siendo ahogado; **girā** — mis palabras; **pulakaiḥ** — por vellos que se erizan; **nichitaṁ** — cubierto; **vapuḥ** — mi cuerpo; **kadā** — ¿cuándo?; **tava** — tu; **nāma-grahaṇe** — al cantar el Santo Nombre; **bhaviṣyati** — será.
+> **nayanaṁ** — mis ojos; **galad-aśru-dhārayā** — por ríos de lágrimas que caen; **vadanaṁ** — mi boca; **gadgada** — vacilante; **ruddhayā** — siendo ahogado; **girā** — mis palabras; **pulakaiḥ** — por vellos que se erizan; **nichitaṁ** — cubierto; **vapuḥ** — mi cuerpo; **kadā** — ¿cuándo?; **tava** — tu; **nāma-grahaṇe** — al cantar el Santo Nombre; **bhaviṣyati** — será.
 
 ¡Oh, Señor! ¿Cuándo las lágrimas fluirán de mis ojos como olas y mi voz temblará de éxtasis? ¿Cuándo los vellos de mi cuerpo se erizarán mientras canto Tu Santo Nombre?
 

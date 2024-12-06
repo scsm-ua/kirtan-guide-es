@@ -113,7 +113,7 @@ Sārvabhauma Bhaṭṭāchārya, Gopīnāth Āchārya y los seguidores en la *sa
 
 Inconcebiblemente, Śrī Śrī Nitāi-Chaitanya se han manifestado y, gracias a la misericordia de Śrī Gurudev, esta alma caída observa Su *ārati* y se une al *saṅkīrtan*.
 
-* Nota: Existen cuatro canciones más para el *ārati* de Sus Señorías Nitāi Chaitanya basadas en la original de Purī Dhām; en Ekachakrā Dhām, en Nṛsingha Palli, en Caracas Venezuela, y en Medellín Colombia. La estrofa que varía se presenta a continuación:
+**Nota:** Existen cuatro canciones más para el *ārati* de Sus Señorías Nitāi Chaitanya basadas en la original de Purī Dhām; en Ekachakrā Dhām, en Nṛsingha Palli, en Caracas Venezuela, y en Medellín Colombia. La estrofa que varía se presenta a continuación:
 
 Para Śrī Śrī Guru Gaura Nityānanda en Śrī Ekachakrā Dhām, India:
 
