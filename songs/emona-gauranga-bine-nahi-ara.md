@@ -6,9 +6,9 @@
 
 #### 1
 
-            emona gaurāṅga bine nāhi āra
-    heno avatāra        hobe ki hoyeche
-            heno prema parachāra
+        emona gaurāṅga bine nāhi āra
+    heno avatāra    hobe ki hoyeche
+        heno prema parachāra
 
 > **emona** — tal como; **gaurāṅga** — Gaurāṅga; **bine** — sin él; **nāhi** — no hay; **āra** — más; **heno** — tal cual; **avatāra** — encarnación; **hobe** — habrá; **ki** — cómo; **hoyeche** — hizo; **heno** — tal cual; **prema** — amor divino; **parachāra** — predicar.
 
@@ -16,9 +16,9 @@
 
 #### 2
 
-    duramati ati         patita pāṣaṇdī
+    duramati ati    patita pāṣaṇdī
         prāṇe nā mārilo kore
-    harināma diye         hṛdoya śodhilo
+    harināma diye    hṛdoya śodhilo
         jachi giyā ghore ghore
 
 > **duramati** — malvado; **ati** — muy; **patita** — caído; **pāṣaṇdī** — ateo; **prāṇe** — su vida; **nā** — no; **mārilo** — mató; **kore** — hacer; **harināma** — el nombre de Hari; **diye** — suplicó; **hṛdoya** — corazón; **śodhilo** — pidió; **jachi** — valorar; **giyā** — ir; **ghore** — casa; **ghore** — casa.
@@ -27,10 +27,10 @@
 
 #### 3
 
-    bhava biriñchira        vāñchito je prema
-            jagata phelilo ḍhāli
-        kāṅgāle pāiyā         khā-ilo nāchiye
-            bājāiye karatāli
+    bhava biriñchira    vāñchito je prema
+        jagata phelilo ḍhāli
+    kāṅgāle pāiyā    khā-ilo nāchiye
+        bājāiye karatāli
 
 > **bhava** — éxtasis; **biriñchira** — a Brahmā (o semidioses); **vāñchito** — deseo; **je prema** — del amor; **jagata** — del mundo; **phelilo** — dejó; **ḍhāli** — inclinarse; **kāṅgāle** — de mendigos; **pāiyā** — obtener; **khā-ilo** — tomaron; **nāchiye** — danzar; **bājāiye** — tocaron; **karatāli** — aplaudir.
 
@@ -38,10 +38,10 @@ Generosamente, le dio a la gente el extraordinario regalo del amor extático por
 
 #### 4
 
-    hāsiye kādiye        preme gaḍāgaḍi
-            pulake byāpilo aṅga
-        chaṇḍāle brāhmaṇe     kore kolākuli
-            kobe bā chilo e raṅga
+    hāsiye kādiye    preme gaḍāgaḍi
+        pulake byāpilo aṅga
+    chaṇḍāle brāhmaṇe    kore kolākuli
+        kobe bā chilo e raṅga
 
 > **hāsiye** — reir; **kādiye** — llorar; **preme** — de amor divino; **gaḍāgaḍi** — rodando en el suelo; **pulake** — en éxtasis; **byāpilo** — empapado; **aṅga** — cuerpo; **chaṇḍāle** — hombres bajos; **brāhmaṇe** — *brāhmaṇa*; **kore** — hizo; **kolākuli** — abrazar; **kobe** — cuando; **bā chilo** — allí ocurrió; **e raṅga** — ese pasatiempo.
 
@@ -49,10 +49,10 @@ Ellos rieron y lloraron; embargados de éxtasis, rodaron por el suelo. Los vello
 
 #### 5
 
-    ḍākiye hā̐kiye        khol karatāle
-            gāiye dhāiye phire
-        dekhiyā śamana     tarāsa pāiye
-            kapaṭa hānilo dvāre
+    ḍākiye hā̐kiye    khol karatāle
+        gāiye dhāiye phire
+    dekhiyā śamana    tarāsa pāiye
+        kapaṭa hānilo dvāre
 
 > **ḍākiye** — cantar fuerte; **hā̐kiye** — tocando; **khol** — el tambor (*mṛdaṅga*); **karatāle** — címbalos; **gāiye** — cantaron; **dhāiye** — corrieron; **phire** — deambular; **dekhiyā** — viendo; **śamana** — igual; **tarāsa** — rápidamente; **pāiye** — obtener; **kapaṭa** — la puerta; **hānilo** — tocó; **dvāre** — a la puerta.
 

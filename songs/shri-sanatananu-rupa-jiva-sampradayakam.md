@@ -117,4 +117,6 @@ Después de buscar al Señor durante toda la noche, los agotados devotos finalme
 Cuando los inquietos devotos empezaron a cantar en voz alta los Santos Nombres de Kṛṣṇa, la vibración divina entró a los oídos del Señor y llegó a las profundidades de Su corazón. De inmediato, Sus coyunturas dislocadas se volvieron a unir, y manifestó la hermosa figura que los ojos de los devotos estaban acostumbrados a disfrutar. En una condición semiconsciente empezó a describir con profundos sentimientos de separación lo que había visto mientras se encontraba absorto en un trance divino. Ofrezco mis reverencias a ese hermoso Señor Dorado, Gaurāṅga Sundar, la forma divina del Kṛṣṇa prema.
 
 
+> inline verse = non bold
+
 > page = 351

@@ -26,7 +26,7 @@ Poco antes de la salida del sol, cuando el horizonte se tornaba rojizo, desperta
 
 > **‘tāthaī tāthaī’** — haciendo el sonido* tāthaī tāthaī*; **bājala** — resonaron; **khol** — los tambores *mṛdaṅga*; **ghana ghana** — repetidamente; **tāhe** — en ese (*kīrtan*); **jhā̐jera** — de los grandes címbalos de metal; **rol** — el tumulto; **preme** — en amor extático; **ḍhala ḍhala** — ligeramente temblado; **soṇāra aṅga** — la forma dorada del Señor Gaurāṅga; **charaṇe** — de Sus pies; **nūpura** — las campanillas; **bāje** — tintinearon.
 
-Las *mṛdaṅgas* resonaban “*tāthai, tāthai*”, al compás de los címbalos tintineantes, mientras la forma dorada de Mahāprabhu se estremecía en éxtasis y Sus campanitas tobilleras tintineaban.
+Las *mṛdaṅgas* resonaban *“tāthai, tāthai”*, al compás de los címbalos tintineantes, mientras la forma dorada de Mahāprabhu se estremecía en éxtasis y Sus campanitas tobilleras tintineaban.
 
 #### 3
 
