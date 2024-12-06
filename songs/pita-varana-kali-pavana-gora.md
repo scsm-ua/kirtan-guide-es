@@ -1,15 +1,19 @@
-# Śrī Śikṣāṣṭakam, Canción 1
+# Śrī Śikṣāṣṭakam
 
 > **śrī** — adorable; **śikṣa** — instrucciones; **aṣṭakam** — ocho versos.
 
 ### Śrīla Bhakti Vinod Ṭhākur
 
-## Śrī Śikṣāṣṭakam: 1
+## Canción 1
 
     cheto-darpaṇa-mārjanaṁ bhava-mahādāvāgni-nirvāpaṇaṁ
     śreyaḥ-kairava-chandrikā-vitaraṇaṁ vidyā-vadhū-jīvanam
     ānandāmbudhi-vardhanaṁ prati-padaṁ pūrṇāmṛtāsvādanaṁ
     sarvātma-snapanaṁ paraṁ vijayate śrī-kṛṣṇa-saṅkīrtanam
+
+> **chetaḥ-darpaṇa** — el espejo del corazón; **mārjanaṁ** — limpieza; **bhava** — de la existencia material; **mahā-dāva-agni** — el gran incendio forestal; **nirvāpaṇaṁ** — extinción; **śreyaḥ** — buena fortuna; **kairava** — el loto blanco; **chandrikā** — los rayos de la luna; **vitaraṇaṁ** — esparciendo; **vidyā-vadhū** — la esposa de toda educación; **jīvanam** — la vida; **ānanda-ambudhi** — el océano de bienaventuranza; **vardhanaṁ** — aumentando; **prati-padaṁ** — en cada paso; **pūrṇa amṛta** — el néctar pleno; **āsvādanaṁ** — dando un sabor delicioso; **sarva-ātma** — a todas las almas; **snapanaṁ** — bañando; **paraṁ** — trascendental; **vijayate** — que haya victoria; **śrī-kṛṣṇa-saṅkīrtanam** — para el canto en congregación del Santo Nombre de Kṛṣṇa.
+
+El Santo Nombre de Kṛṣṇa limpia el espejo del corazón y extingue el incendio de la miseria en el bosque del nacimiento y la muerte. Del mismo modo en que el loto nocturno florece con los refrescantes rayos de la luna, el corazón empieza a florecer con el néctar del Nombre. Y el alma por fin despierta a su verdadero tesoro interno—una vida de amor con Kṛṣṇa. Al saborear una y otra vez el néctar, el alma se zambulle y emerge a la superficie en el océano siempre creciente del júbilo extático. Todas las fases del ser que podamos concebir se satisfacen y purifican plenamente, y son finalmente conquistadas por la toda auspiciosa influencia del Santo Nombre de Kṛṣṇa.
 
 #### 1
 

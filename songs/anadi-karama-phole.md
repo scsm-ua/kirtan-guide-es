@@ -1,15 +1,19 @@
-# Śrī Śikṣāṣṭakam, Canción 5
+# Śrī Śikṣāṣṭakam
 
 > **śrī** — adorable; **śikṣa** — instrucciones; **aṣṭakam** — ocho versos.
 
 ### Śrīla Bhakti Vinod Ṭhākur
 
-## Śrī Śikṣāṣṭakam: 5
+## Canción 5
 
     ayi nanda-tanuja kiṅkaraṁ
     patitaṁ māṁ viṣame bhavāmbudhau
     kṛpayā tava pāda-paṅkaja-
     sthita-dhūlī-sadṛśaṁ vichintaya
+
+> **ayi nanda-tanuja** — ¡oh, hijo de Nanda Mahārāj!; **kiṅkaraṁ** — Tu sirviente; **patitaṁ** — caído; **mām** — yo; **viṣame** — horrible; **bhava-ambudhau** — en el océano de la nesciencia; **kṛpayā** — por misericordia sin causa; **tava** — tus; **pāda-paṅkaja** — pies de loto; **sthita** — situado en; **dhūlī** — el polvo; **sadṛśaṁ** — igual que; **vichintaya** — por favor considera.
+
+¡Oh, hijo de Mahārāj Nanda! Soy Tu siervo eterno. Sin embargo, debido a mi propio *karma*, he caído en este horrible océano de nacimiento y muerte. Por favor, acepta a esta alma caída y considérame una partícula de polvo a Tus sagrados pies de loto.
 
 #### 1
 

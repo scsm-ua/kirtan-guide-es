@@ -8,7 +8,7 @@
 
 > **nadiyā** — de Nadīyā; **nagare** — en las ciudades; **nitāi** — el Señor Nityānanda; **neche’** — danzando; **neche’** — y danzando; **gāy** — cantó; **re** — ¡oh!
 
-*Estribillo*: En los pueblos y aldeas de Nadia, el Señor Nityānanda danza en éxtasis y canta estos nombres de Śrī Chaitanya Mahāprabhu.
+**Estribillo:** En los pueblos y aldeas de Nadia, el Señor Nityānanda danza en éxtasis y canta estos nombres de Śrī Chaitanya Mahāprabhu.
 
 #### 1
 

@@ -1,15 +1,19 @@
-# Śrī Śikṣāṣṭakam, Canción 8
+# Śrī Śikṣāṣṭakam
 
 > **śrī** — adorable; **śikṣa** — instrucciones; **aṣṭakam** — ocho versos.
 
 ### Śrīla Bhakti Vinod Ṭhākur
 
-## Śrī Śikṣāṣṭakam: 8
+## Canción 8
 
     āśliṣya vā pāda-ratāṁ pinaṣṭu mām
     adarśanān marma-hatāṁ karotu vā
     yathā tathā vā vidadhātu lampaṭo
     mat-prāṇa-nāthas tu sa eva nāparaḥ
+
+> **āśliṣya** — abrazando con fuerza; **vā** — o; **pāda-ratāṁ** — postrado a los pies de loto; **pinaṣṭu** — déjalo pisotear; **mām** — a mí; **adarśanān** — por no ser visible; **marma-hatāṁ** — con el corazón roto; **karotu** — que Él haga; **vā** — o; **yathā tathā** — como a Él le gusta; **vā** — o; **vidadhātu** — déjalo hacer; **lampaṭaḥ** — el libertino; **mat-prāṇa-nāthaḥ** — el Señor de mi vida; **tu** — pero; **saḥ eva** — sólo Él; **na aparaḥ** — nadie más.
+
+Kṛṣṇa puede abrazarme con amor o pisotearme bajo Sus pies. Puede romper mi corazón al esconderse de mí. Que ese libertino haga lo que quiera, pero siempre será el único Señor de mi vida.
 
 #### 1
 
