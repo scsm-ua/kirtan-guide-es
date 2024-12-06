@@ -124,4 +124,6 @@ Durante Sus pasatiempos de adolescente, se volvió respetado y conocido en todas
 El gran erudito en sánscrito, Keśava Kāśmīrī, tras haber conquistado intelectualmente las diez direcciones, llegó ante Śrī Chaitanya Mahāprabhu, a las orillas del río Ganges. A petición del Señor, espontáneamente compuso y recitó muchas oraciones maravillosas en glorificación al sagrado Ganges. Luego, Śrī Gaurāṅgadev asombró al erudito cuando memorizó sus composiciones y señaló varios errores retóricos en ellas. Keśava Kāśmīrī presentó con mucha habilidad diversos argumentos lógicos a su favor, pero finalmente fue derrotado. Cuando la incompetencia de Keśava fue expuesta y su inteligencia quedó completamente perpleja, el Señor Gaurāṅga, con compasión, le ofreció los respetos dignos de un gran erudito, e impidió que Sus alumnos presentes se burlaran del *paṇḍita*. Ofrezco mis reverencias a ese hermoso Señor Dorado, Gaurāṅga Sundar, la forma divina del Kṛṣṇa prema.
 
 
+> inline verse = non bold
+
 > page = 321

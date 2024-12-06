@@ -1,15 +1,19 @@
-# Śrī Śikṣāṣṭakam, Canción 2
+# Śrī Śikṣāṣṭakam
 
 > **śrī** — adorable; **śikṣa** — instrucciones; **aṣṭakam** — ocho versos.
 
 ### Śrīla Bhakti Vinod Ṭhākur
 
-## Śrī Śikṣāṣṭakam: 2
+## Canción 2
 
     nāmnām akāri bahudhā nija-sarva-śaktis
     tatrārpitā niyamitaḥ smaraṇe na kālaḥ
     etādṛśī tava kṛpā bhagavan mamāpi
     durdaivam īdṛśam ihājani nānurāgaḥ
+
+> **nāmnām** — de los Santos Nombres del Señor; **akāri** — manifestado; **bahudhā** — diversas clases; **nija-sarva-śaktiḥ** — todos los tipos de potencia personal; **tatra** — en eso; **arpita** — otorgado; **niyamitaḥ** — restricción; **smaraṇe** — al recordar; **na** — no; **kālaḥ** — consideración del tiempo; **etādṛśī** — mucha; **tava kṛpā** — Tu misericordia; **bhagavan** — ¡oh, Señor!; **mama** — mi; **api** — aunque; **durdaivam** — desgracia; **īdṛśam** — tal; **iha** — en este (Santo Nombre); **ajani** — nació; **na-anurāgaḥ** — sin apego.
+
+¡Oh, mi Señor! Tu Santo Nombre les confiere lo auspicioso a todos. Y Tú tienes ilimitados nombres, tales como Kṛṣṇa y Govinda, mediante los cuales te revelas. En Tus incontables Santos Nombres, bondadosamente has conferido toda Tu potencia trascendental. Y para cantar esos Nombres no existen reglas estrictas concernientes al tiempo o al lugar. Por Tu misericordia sin causa, has descendido en la forma de sonido divino, sin embargo, mi gran infortunio es que no tengo amor por Tu Santo Nombre.
 
 #### 1
 

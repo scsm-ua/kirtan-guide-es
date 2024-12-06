@@ -1,13 +1,17 @@
-# Śrī Śikṣāṣṭakam, Canción 7
+# Śrī Śikṣāṣṭakam
 
 > **śrī** — adorable; **śikṣa** — instrucciones; **aṣṭakam** — ocho versos.
 
 ### Śrīla Bhakti Vinod Ṭhākur
 
-## Śrī Śikṣāṣṭakam: 7
+## Canción 7
 
     yugāyitaṁ nimeṣeṇa chakṣuṣā prāvṛṣāyitam
     śūnyāyitaṁ jagat sarvaṁ govinda-viraheṇa me
+
+> **yugāyitaṁ** — hace como un gran milenio; **nimeṣeṇa** — por un momento; **chakṣuṣā** — de mis ojos; **prāvṛṣāyitam** — hace que las lágrimas caigan como torrentes de lluvia; **śūnyāyitaṁ** — vuelve vacío; **jagat sarvaṁ** — el mundo entero; **govinda viraheṇa** — por la separación de Govinda; **me** — mío.
+
+¡Oh, Govinda! Sin Ti, el mundo está vacío. Las lágrimas inundan mis ojos como lluvia y un instante parece una eternidad.
 
 #### 1
 
