@@ -48,7 +48,7 @@ Mediante el proceso de purificación del servicio devocional favorable, uno alca
 
 Tu ausencia de mi visión es como una dosis de veneno fuerte, y sufriré hasta el final de mi vida. Narottama Dās Ṭhākur dice: “Por favor, dame tu misericordia y la sombra de tus pies de loto”.
 
-Comentarios de Śrīla Bhakti Rakṣak Śrīdhar Dev-Goswāmī Mahārāj:
+## Comentarios de Śrīla Bhakti Rakṣak Śrīdhar Dev-Goswāmī Mahārāj:
 
 #### 1
 
