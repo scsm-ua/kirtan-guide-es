@@ -1,3 +1,7 @@
+---
+author: Śrīpād B. A. Paramahaṁsa Mahārāj
+---
+
 # Śrī Guru Ārati
 
 > **śrī guru** — el adorable maestro espiritual; **ārati** — ceremonia.
