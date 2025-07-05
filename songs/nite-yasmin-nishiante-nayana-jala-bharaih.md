@@ -2,7 +2,7 @@
 
 > **śrī śrī** — su santidad venerable; **dayita dās** — Dayita Dās; **daśakam** — diez oraciones.
 
-### Śrī Bhakti Rakṣak Śrīdhar Marārāj
+### Śrīla Bhakti Rakṣak Śrīdhar Dev-Goswāmī Mahārāj
 
 #### 1
 
