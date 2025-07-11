@@ -1,3 +1,7 @@
+---
+no-author: 1
+---
+
 # Śrī Govinda Kuṇḍa Mahātmya
 
 > **śrī govinda kuṇḍa** — adorable Govinda Kuṇḍa; **mahātmya** — glorias.
