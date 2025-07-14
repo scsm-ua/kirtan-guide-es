@@ -1,3 +1,7 @@
+---
+no-author: 1
+---
+
 # Mahāprāsad
 
 > **mahā** — grandiosa; **prāsad** — misericordia.

@@ -2,6 +2,8 @@
 
 > **prabhu** — el Señor; **kohe** — dice.
 
+### Śrīla Vṛndāvan Dās Ṭhākur
+
 ### Śrī Chaitanya-bhāgavat, Madhya 23.77-78, 28.27-28
 
     hare kṛṣṇa hare kṛṣṇa kṛṣṇa kṛṣṇa hare hare

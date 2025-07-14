@@ -1,3 +1,7 @@
+---
+no-author: 1
+---
+
 # Vrajarāja-sutaṣṭakam
 
 > **vraja** — de Vraja; **rāja-suta** — el hijo del rey; **aṣṭakam** — ocho oraciones.

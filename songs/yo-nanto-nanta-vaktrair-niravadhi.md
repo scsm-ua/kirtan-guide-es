@@ -2,7 +2,7 @@
 
 > **śrīmad** — su santidad; **nityānanda** — NityānandaPrabhu; **dva-daśakam** — doce oraciones.
 
-### Śrī Bhakti Rakṣak Śrīdhar Marārāj
+### Śrīla Bhakti Rakṣak Śrīdhar Dev-Goswāmī Mahārāj
 
 #### 1
 

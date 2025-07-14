@@ -1,3 +1,7 @@
+---
+author: Śrīla Rūpa Goswāmī
+---
+
 # Śrī Rādhikā-stava
 
 > **śrī** — adorable; **rādhikā** — Rādhārāṇī; **stava** — alabanza.

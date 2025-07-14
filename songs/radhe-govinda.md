@@ -1,3 +1,7 @@
+---
+no-author: 1
+---
+
 # Rādhā Kṛṣṇa vandana
 
 > **Rādhā-Kṛṣṇā**; **vandana** — oraciones.
