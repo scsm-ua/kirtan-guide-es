@@ -1,8 +1,12 @@
+---
+no-author: 1
+---
+
 # Śrī Govinda Kuṇḍa Mahātmya
 
 > **śrī govinda kuṇḍa** — adorable Govinda Kuṇḍa; **mahātmya** — glorias.
 
-### Śrī Girirāj-khaṇḍam–Śrī Garga-saṁhitā
+## Śrī Girirāj-khaṇḍam–Śrī Garga-saṁhitā
 
     atha govardhane ramye surabhi gauḥ samudrajā
     snāpayām āsa gopeśaṁ dugdha dhārābhir ātmanaḥ

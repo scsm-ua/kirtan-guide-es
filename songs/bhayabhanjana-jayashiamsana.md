@@ -2,7 +2,7 @@
 
 > **śrī dayita dās** — adorable sirviente de Dayita Dās; **praṇati** — obediencias; **pañchakam** — cinco oraciones.
 
-### Śrīla Bhakti Rakṣak Śrīdhar Mahārāj
+### Śrīla Bhakti Rakṣak Śrīdhar Dev-Goswāmī Mahārāj
 
 #### 1
 

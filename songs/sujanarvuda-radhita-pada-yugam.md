@@ -2,7 +2,7 @@
 
 > **śrī śrīla** — su señoría; **prabhu-pāda** — los pies del señor adorable; **padma** — loto; **stavakaḥ** — orar.
 
-### Śrīla Bhakti Rakṣak Śrīdhar Mahārāj
+### Śrīla Bhakti Rakṣak Śrīdhar Dev-Goswāmī Mahārāj
 
 #### 1
 

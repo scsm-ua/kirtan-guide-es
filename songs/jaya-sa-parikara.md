@@ -1,3 +1,7 @@
+---
+no-author: 1
+---
+
 # Jay Dhvani
 
 > **jay** — gloria; **dhvani** — cantar.

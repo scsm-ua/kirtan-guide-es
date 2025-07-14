@@ -2,7 +2,7 @@
 
 > **śrī** — adorable; **nāma** — nombre; **aṣṭakam** — ocho versos.
 
-### Śrīla Bhaktivinod Ṭhākur
+### Śrīla Bhakti Vinod Ṭhākur
 
 #### 1
 

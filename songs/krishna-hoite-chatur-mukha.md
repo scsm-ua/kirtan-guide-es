@@ -1,3 +1,7 @@
+---
+author: Śrīla Bhaktisiddhānta Saraswatī Ṭhākur
+---
+
 # Śrī Guru-paramparā
 
 > **śrī guru** — adorable maestro espiritual; **paramparā** — sucesión discipular.
