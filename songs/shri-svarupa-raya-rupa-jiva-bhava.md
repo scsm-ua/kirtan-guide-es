@@ -2,7 +2,7 @@
 
 > **praṇām** — obediencia; **mantra** — oración sagrada.
 
-### Śrīla Bhakti Sundar Govinda Dev-Goswāmī Marārāj
+### Śrīla Bhakti Sundar Govinda Dev-Goswāmī Mahārāj
 
     śrī-svarūpa-rāya-rūpa-jīva-bhāva-sambharaṁ
     varṇa-dharma-nirviśeṣa-sarvaloka-nistaram

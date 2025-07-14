@@ -2,7 +2,7 @@
 
 > **bhajahū̐** — adora; **re** — ¡oh!; **mana** — mente.
 
-### Śrīla Govinda dās Kavirāj
+### Śrīla Govinda Dās Kavirāj
 
 #### 1
 

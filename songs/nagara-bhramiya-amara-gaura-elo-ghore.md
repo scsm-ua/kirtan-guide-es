@@ -1,3 +1,7 @@
+---
+no-author: 1
+---
+
 # Después del parikramā
 
     nagara bhramiyā āmāra gaura elo ghore

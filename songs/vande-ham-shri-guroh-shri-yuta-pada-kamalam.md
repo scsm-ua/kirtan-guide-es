@@ -1,3 +1,7 @@
+---
+author: Śrīla Kṛṣṇa Dās Kavirāj Goswāmī
+---
+
 # Vandanā
 
 > **vandanā** — oraciones.

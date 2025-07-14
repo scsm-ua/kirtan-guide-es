@@ -1,3 +1,7 @@
+---
+author: Śrīla Bhakti Vinod Ṭhākur
+---
+
 # Dainya O Prapatti
 
 > **dainya** — humildad; **prapatti** — sumisión.

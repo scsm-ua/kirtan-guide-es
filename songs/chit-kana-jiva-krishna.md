@@ -2,6 +2,8 @@
 
 > **jīva** — el alma; **gati** — viaje.
 
+### Śrīla Jagadānanda Paṇḍit
+
 ### Śrī Prema-vivarta, cap 6
 
 #### 1

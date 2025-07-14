@@ -1,3 +1,7 @@
+---
+author: Śrīla Jayadev Goswāmī        
+---
+
 # Śrī Nṛsiṁha Praṇām
 
 > **śrī** — adorable; **nṛsiṁha** — Nṛsiṁha; **praṇām** — obediencias.
