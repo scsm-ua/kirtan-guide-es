@@ -11,7 +11,7 @@
 - [bhajahū̐ re mana śrī-nanda-nandana](songs/bhajahu-re-mana-shri-nanda-nandana.md)
 - [bhayabhañjana-jayaśaṁsana-karuṇāyata](songs/bhayabhanjana-jayashiamsana.md)
 - [bhuliyā tomāre, saṁsāre āsiyā](songs/bhuliya-tomare-samsare-asiya.md)
-- [bhāi-re! śarīra avidyā-jāl](songs/shorira-avidya-jal-jodendriya-tahe-kal.md)
+- [bhāi-re! śarīra avidyā-jāl](songs/bhai-re-shorira-avidya-jal-jodendriya-tahe-kal.md)
 - [chaudda-śata sāta-śake māsa je phālgun](songs/chaudda-shiata-sata-shiake-masa-je-phalgun.md)
 - [cheto-darpaṇa-mārjanaṁ](songs/cheto-darpana-marjanam.md)
 - [chit-kaṇa jīva kṛṣṇa](songs/chit-kana-jiva-krishna.md)
