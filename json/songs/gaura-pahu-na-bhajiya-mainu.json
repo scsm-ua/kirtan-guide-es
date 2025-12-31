@@ -1,4 +1,8 @@
 {
+  "meta": {
+    "page": 129,
+    "first_line": "gaura pahū̐ nā bhajiyā mainu"
+  },
   "title": [
     "Gaura Pahū̐"
   ],
@@ -74,8 +78,5 @@
   ],
   "word_by_word": [
     "**gaura** — Gaurāṅga; **pahū̐** — el Señor."
-  ],
-  "attributes": {
-    "page": "129"
-  }
+  ]
 }

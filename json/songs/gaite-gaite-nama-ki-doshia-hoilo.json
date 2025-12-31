@@ -1,4 +1,8 @@
 {
+  "meta": {
+    "page": 227,
+    "first_line": "gāite gāite nāma ki dośā hoilo"
+  },
   "title": [
     "Śrī Śikṣāṣṭakam"
   ],
@@ -132,8 +136,5 @@
   ],
   "word_by_word": [
     "**śrī** — adorable; **śikṣa** — instrucciones; **aṣṭakam** — ocho versos."
-  ],
-  "attributes": {
-    "page": "227"
-  }
+  ]
 }

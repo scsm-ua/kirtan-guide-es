@@ -1,4 +1,8 @@
 {
+  "meta": {
+    "page": 261,
+    "first_line": "jaya śrīla mahārāj charaṇāravinda"
+  },
   "title": [
     "Āchārya-charaṇa-vandana"
   ],
@@ -191,8 +195,5 @@
   ],
   "word_by_word": [
     "**āchārya** — maestro ejemplar; **charaṇa** — a sus pies; **vandana** — oraciones."
-  ],
-  "attributes": {
-    "page": "261"
-  }
+  ]
 }

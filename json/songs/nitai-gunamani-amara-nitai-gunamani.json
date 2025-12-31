@@ -1,4 +1,8 @@
 {
+  "meta": {
+    "page": 119,
+    "first_line": "nitāi guṇamaṇi āmāra nitāi guṇamaṇi"
+  },
   "title": [
     "Nitāi Guṇa Manī"
   ],
@@ -74,8 +78,5 @@
   ],
   "word_by_word": [
     "**nitāi** — Nitāi; **guṇa** — cualidades; **manī** — joya."
-  ],
-  "attributes": {
-    "page": "119"
-  }
+  ]
 }

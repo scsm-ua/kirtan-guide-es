@@ -1,4 +1,8 @@
 {
+  "meta": {
+    "page": 120,
+    "first_line": "akrodha paramānda nityānanda rāy"
+  },
   "title": [
     "Akrodha paramānanda"
   ],
@@ -74,8 +78,5 @@
   ],
   "word_by_word": [
     "**akrodha** — libre de ira; **parama-ānanda** — suprema bienaventuranza."
-  ],
-  "attributes": {
-    "page": "120"
-  }
+  ]
 }

@@ -1,4 +1,8 @@
 {
+  "meta": {
+    "page": 389,
+    "first_line": "śrī-svarūpa-rāya-rūpa-jīva-bhāva-sambharaṁ"
+  },
   "title": [
     "Praṇām Mantra"
   ],
@@ -51,8 +55,5 @@
   ],
   "word_by_word": [
     "**praṇām** — obediencia; **mantra** — oración sagrada."
-  ],
-  "attributes": {
-    "page": "389"
-  }
+  ]
 }

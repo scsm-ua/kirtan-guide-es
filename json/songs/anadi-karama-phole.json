@@ -1,4 +1,8 @@
 {
+  "meta": {
+    "page": 224,
+    "first_line": "anādi karama-phole, poḍi bhavārṇava-jole"
+  },
   "title": [
     "Śrī Śikṣāṣṭakam"
   ],
@@ -86,8 +90,5 @@
   ],
   "word_by_word": [
     "**śrī** — adorable; **śikṣa** — instrucciones; **aṣṭakam** — ocho versos."
-  ],
-  "attributes": {
-    "page": "224"
-  }
+  ]
 }

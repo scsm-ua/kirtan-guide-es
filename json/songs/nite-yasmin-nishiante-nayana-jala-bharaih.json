@@ -1,4 +1,8 @@
 {
+  "meta": {
+    "page": 371,
+    "first_line": "nīte yasmin niśānte nayana-jala-bharaiḥ"
+  },
   "title": [
     "Śrī Śrī Dayita Dās Daśakam"
   ],
@@ -160,8 +164,5 @@
   ],
   "word_by_word": [
     "**śrī śrī** — su santidad venerable; **dayita dās** — Dayita Dās; **daśakam** — diez oraciones."
-  ],
-  "attributes": {
-    "page": "371"
-  }
+  ]
 }

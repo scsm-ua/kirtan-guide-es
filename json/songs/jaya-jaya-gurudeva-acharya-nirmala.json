@@ -1,4 +1,8 @@
 {
+  "meta": {
+    "page": 36,
+    "first_line": "jaya gurudeva āchārya nirmala"
+  },
   "title": [
     "Śrī Gurudeva Stuti"
   ],
@@ -217,8 +221,5 @@
   ],
   "word_by_word": [
     "**śrī gurudeva** — el adorable maestro espiritual; **stuti** — glorificación."
-  ],
-  "attributes": {
-    "page": "36"
-  }
+  ]
 }

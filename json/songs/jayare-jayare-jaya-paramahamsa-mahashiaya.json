@@ -1,4 +1,8 @@
 {
+  "meta": {
+    "page": 272,
+    "first_line": "jayare jayare jaya paramahaṁsa mahāśaya"
+  },
   "title": [
     "Āchārya vandana"
   ],
@@ -323,8 +327,5 @@
   ],
   "word_by_word": [
     "**āchārya** — maestro ejemplar; **vandana** — oraciones."
-  ],
-  "attributes": {
-    "page": "272"
-  }
+  ]
 }

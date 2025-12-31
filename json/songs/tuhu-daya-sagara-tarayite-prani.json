@@ -1,4 +1,8 @@
 {
+  "meta": {
+    "page": 219,
+    "first_line": "tuhū̐ doyā-sāgara tārayite prāṇī"
+  },
   "title": [
     "Śrī Śikṣāṣṭakam"
   ],
@@ -91,8 +95,5 @@
   ],
   "word_by_word": [
     "**śrī** — adorable; **śikṣa** — instrucciones; **aṣṭakam** — ocho versos."
-  ],
-  "attributes": {
-    "page": "219"
-  }
+  ]
 }

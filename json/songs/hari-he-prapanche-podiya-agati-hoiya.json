@@ -1,4 +1,8 @@
 {
+  "meta": {
+    "page": 180,
+    "first_line": "hari he! prapañche paḍiyā, agati ha-iyā"
+  },
   "title": [
     "Bhajana-Lālasā, 1"
   ],
@@ -70,8 +74,5 @@
   ],
   "word_by_word": [
     "**bhajana** — adoración; **lālasā** — anhelo."
-  ],
-  "attributes": {
-    "page": "180"
-  }
+  ]
 }

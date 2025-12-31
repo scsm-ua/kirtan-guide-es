@@ -1,4 +1,8 @@
 {
+  "meta": {
+    "page": 249,
+    "first_line": "rādhā-kṛṣṇa prāṇa mora jugala-kiśora"
+  },
   "title": [
     "Sakhī-vṛnde Vijñaptiḥ"
   ],
@@ -87,8 +91,5 @@
   ],
   "word_by_word": [
     "**sakhī-vṛnde** — a las amigas; **vijñaptiḥ** — plegaria."
-  ],
-  "attributes": {
-    "page": "249"
-  }
+  ]
 }

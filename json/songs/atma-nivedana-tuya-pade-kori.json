@@ -1,4 +1,8 @@
 {
+  "meta": {
+    "page": 185,
+    "first_line": "ātma-nivedana, tuyā pade kori"
+  },
   "title": [
     "Ātma-nivedana"
   ],
@@ -99,8 +103,5 @@
   ],
   "word_by_word": [
     "**ātma** — alma; **nivedana** — sumisión."
-  ],
-  "attributes": {
-    "page": "185"
-  }
+  ]
 }

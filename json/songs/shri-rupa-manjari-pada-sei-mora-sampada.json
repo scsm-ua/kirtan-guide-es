@@ -1,4 +1,8 @@
 {
+  "meta": {
+    "page": 204,
+    "first_line": "śrī-rūpa-mañjarī-pada, sei mora sampada"
+  },
   "title": [
     "Lālasā"
   ],
@@ -105,8 +109,5 @@
   ],
   "word_by_word": [
     "**lālasā** — anhelo sincero."
-  ],
-  "attributes": {
-    "page": "204"
-  }
+  ]
 }

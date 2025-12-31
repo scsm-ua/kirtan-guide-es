@@ -1,4 +1,8 @@
 {
+  "meta": {
+    "page": 211,
+    "first_line": "anya-abhilāsa chāḍi jñāna karma parihari"
+  },
   "title": [
     "Anya-abhilāṣa chāḍi"
   ],
@@ -249,8 +253,5 @@
   ],
   "word_by_word": [
     "**anya-abhilāṣa** — los deseos; **chāḍi** — abandonar."
-  ],
-  "attributes": {
-    "page": "211"
-  }
+  ]
 }

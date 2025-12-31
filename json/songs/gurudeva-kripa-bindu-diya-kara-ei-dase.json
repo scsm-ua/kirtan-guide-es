@@ -1,4 +1,8 @@
 {
+  "meta": {
+    "page": 55,
+    "first_line": "gurudeva! kṛpā-bindu diyā"
+  },
   "title": [
     "Gurudeva"
   ],
@@ -70,8 +74,5 @@
   ],
   "word_by_word": [
     "**gurudeva** — maestro espiritual."
-  ],
-  "attributes": {
-    "page": "55"
-  }
+  ]
 }

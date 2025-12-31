@@ -1,4 +1,8 @@
 {
+  "meta": {
+    "page": 253,
+    "first_line": "janama saphala tā’ra, kṛṣṇa-daraśana jā’ra"
+  },
   "title": [
     "Rūpa-Kīrtan"
   ],
@@ -112,8 +116,5 @@
   ],
   "word_by_word": [
     "**rūpa** — la forma del Señor; **kīrtan** — glorificación."
-  ],
-  "attributes": {
-    "page": "253"
-  }
+  ]
 }

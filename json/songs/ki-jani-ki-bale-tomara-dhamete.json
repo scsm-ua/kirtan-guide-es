@@ -1,4 +1,8 @@
 {
+  "meta": {
+    "page": 176,
+    "first_line": "ki jāni ki bale, tomāra dhāmete"
+  },
   "title": [
     "Goptṛtve Varaṇa"
   ],
@@ -99,8 +103,5 @@
   ],
   "word_by_word": [
     "**goptṛtve** — guardianía del Señor; **varaṇa** — abrazar."
-  ],
-  "attributes": {
-    "page": "176"
-  }
+  ]
 }

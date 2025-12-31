@@ -1,4 +1,8 @@
 {
+  "meta": {
+    "page": 395,
+    "first_line": "kali ghora timire"
+  },
   "title": [
     "Kali-ghora timire"
   ],
@@ -68,8 +72,5 @@
   ],
   "word_by_word": [
     "**kali** — de Kali; **ghora** — temerosa; **timire** — la obscuridad."
-  ],
-  "attributes": {
-    "page": "395"
-  }
+  ]
 }

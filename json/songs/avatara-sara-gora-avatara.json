@@ -1,4 +1,8 @@
 {
+  "meta": {
+    "page": 131,
+    "first_line": "avatāra sāra gorā avatāra"
+  },
   "title": [
     "Avatāra Sāra"
   ],
@@ -84,8 +88,5 @@
   ],
   "word_by_word": [
     "**avatāra** — encarnación; **sāra** — la mejor."
-  ],
-  "attributes": {
-    "page": "131"
-  }
+  ]
 }

@@ -1,4 +1,8 @@
 {
+  "meta": {
+    "page": 115,
+    "first_line": "nadīyā-godrume nityānanda mahājana"
+  },
   "title": [
     "Ājñā-Ṭahal"
   ],
@@ -62,8 +66,5 @@
   ],
   "word_by_word": [
     "**ājñā** — orden; **ṭahal** — deambular."
-  ],
-  "attributes": {
-    "page": "115"
-  }
+  ]
 }

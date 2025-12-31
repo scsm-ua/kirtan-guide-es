@@ -1,4 +1,8 @@
 {
+  "meta": {
+    "page": 232,
+    "first_line": "yoga-pīṭhopari-sthita"
+  },
   "title": [
     "Śrī Śikṣāṣṭakam"
   ],
@@ -111,8 +115,5 @@
   ],
   "word_by_word": [
     "**śrī** — adorable; **śikṣa** — instrucciones; **aṣṭakam** — ocho versos."
-  ],
-  "attributes": {
-    "page": "232"
-  }
+  ]
 }

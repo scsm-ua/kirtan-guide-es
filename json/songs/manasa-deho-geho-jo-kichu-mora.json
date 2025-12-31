@@ -1,4 +1,8 @@
 {
+  "meta": {
+    "page": 164,
+    "first_line": "mānasa, deha, geha, yo kichhu mora"
+  },
   "title": [
     "Atma Nivedana, 3"
   ],
@@ -113,8 +117,5 @@
   ],
   "word_by_word": [
     "**atma** — del alma; **nivedana** — sumisión."
-  ],
-  "attributes": {
-    "page": "164"
-  }
+  ]
 }

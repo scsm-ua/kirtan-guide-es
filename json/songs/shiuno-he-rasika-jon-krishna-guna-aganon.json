@@ -1,4 +1,8 @@
 {
+  "meta": {
+    "page": 256,
+    "first_line": "śuno, he rasika jana kṛṣṇa guṇa agaṇon"
+  },
   "title": [
     "Guṇa-Kīrtan"
   ],
@@ -84,8 +88,5 @@
   ],
   "word_by_word": [
     "**guṇa** — las cualidades del Señor; **kīrtan** — glorificación."
-  ],
-  "attributes": {
-    "page": "256"
-  }
+  ]
 }

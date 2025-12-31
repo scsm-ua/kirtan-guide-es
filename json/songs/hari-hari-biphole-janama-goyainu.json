@@ -1,4 +1,8 @@
 {
+  "meta": {
+    "page": 183,
+    "first_line": "hari hari! biphole janama goyāinu"
+  },
   "title": [
     "Iṣṭa-deve Vijñapti"
   ],
@@ -68,8 +72,5 @@
   ],
   "word_by_word": [
     "**iṣṭa** — esfuerzo; **deve** — dar; **vijñapti** — petición."
-  ],
-  "attributes": {
-    "page": "183"
-  }
+  ]
 }

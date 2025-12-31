@@ -1,4 +1,8 @@
 {
+  "meta": {
+    "page": 377,
+    "first_line": "śrīmach-chaitanyapādau chara-kamalayugau"
+  },
   "title": [
     "Śrīmad Rūpa-pada-rajaḥ Prārthanā Daśakam"
   ],
@@ -159,8 +163,5 @@
   ],
   "word_by_word": [
     "**śrīmad** — su santidad; **rūpa** — Rūpa Goswāmī; **pada** — pies; **rajaḥ** — polvo; **prārthana** — súplica; **daśakam** — diez oraciones."
-  ],
-  "attributes": {
-    "page": "377"
-  }
+  ]
 }

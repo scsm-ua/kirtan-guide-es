@@ -1,4 +1,8 @@
 {
+  "meta": {
+    "page": 217,
+    "first_line": "pīta-baraṇa kali-pāvana gorā"
+  },
   "title": [
     "Śrī Śikṣāṣṭakam"
   ],
@@ -130,8 +134,5 @@
   ],
   "word_by_word": [
     "**śrī** — adorable; **śikṣa** — instrucciones; **aṣṭakam** — ocho versos."
-  ],
-  "attributes": {
-    "page": "217"
-  }
+  ]
 }

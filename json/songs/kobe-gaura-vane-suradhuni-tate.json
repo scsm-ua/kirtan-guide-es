@@ -1,4 +1,8 @@
 {
+  "meta": {
+    "page": 134,
+    "first_line": "kabe gaura-vane, suradhunī-taṭe"
+  },
   "title": [
     "Siddhi-lālasā"
   ],
@@ -69,8 +73,5 @@
   ],
   "word_by_word": [
     "**siddhi** — perfección; **lālasā** — deseo."
-  ],
-  "attributes": {
-    "page": "134"
-  }
+  ]
 }

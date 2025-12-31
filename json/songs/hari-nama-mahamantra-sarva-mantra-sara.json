@@ -1,4 +1,8 @@
 {
+  "meta": {
+    "page": 73,
+    "first_line": "hari-nāma mahāmantra"
+  },
   "title": [
     "Daśa-vidha Nāmāparādha"
   ],
@@ -170,8 +174,5 @@
   ],
   "word_by_word": [
     "**daśa** — diez; **vidha** — clases; **nām-āparādha** — ofensas al nombre."
-  ],
-  "attributes": {
-    "page": "73"
-  }
+  ]
 }

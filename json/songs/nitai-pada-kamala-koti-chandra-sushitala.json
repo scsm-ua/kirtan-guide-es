@@ -1,4 +1,8 @@
 {
+  "meta": {
+    "page": 116,
+    "first_line": "nitāi-pada-kamala"
+  },
   "title": [
     "Manaḥ-śikṣā"
   ],
@@ -69,8 +73,5 @@
   ],
   "word_by_word": [
     "**manaḥ** — a la mente; **śikṣā** — enseñanzas."
-  ],
-  "attributes": {
-    "page": "116"
-  }
+  ]
 }

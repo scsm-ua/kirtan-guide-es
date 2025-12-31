@@ -1,4 +1,8 @@
 {
+  "meta": {
+    "page": 225,
+    "first_line": "aparādha-phole mama chitta bhela vajra sama"
+  },
   "title": [
     "Śrī Śikṣāṣṭakam"
   ],
@@ -119,8 +123,5 @@
   ],
   "word_by_word": [
     "**śrī** — adorable; **śikṣa** — instrucciones; **aṣṭakam** — ocho versos."
-  ],
-  "attributes": {
-    "page": "225"
-  }
+  ]
 }

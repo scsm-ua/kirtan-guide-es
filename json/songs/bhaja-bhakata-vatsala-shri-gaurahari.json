@@ -1,4 +1,8 @@
 {
+  "meta": {
+    "page": 84,
+    "first_line": "bhaja bhakata-vatsala śrī-gaurahari"
+  },
   "title": [
     "Śrī Bhoga Ārati Gīti"
   ],
@@ -274,8 +278,5 @@
   ],
   "word_by_word": [
     "**śrī bhoga** — ofrenda de comida; **ārati** — ceremonia; **gīti** — canción."
-  ],
-  "attributes": {
-    "page": "84"
-  }
+  ]
 }

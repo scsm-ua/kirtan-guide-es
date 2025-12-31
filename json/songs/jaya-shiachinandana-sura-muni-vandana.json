@@ -1,4 +1,8 @@
 {
+  "meta": {
+    "page": 53,
+    "first_line": "jaya śachī-nandana sura-muni-vandana"
+  },
   "title": [
     "Śrī Śachīnandana-vandanā"
   ],
@@ -69,8 +73,5 @@
   ],
   "word_by_word": [
     "**śrī śachīnandana** — al querido hijo de Śachī; **vandanā** — oraciones."
-  ],
-  "attributes": {
-    "page": "53"
-  }
+  ]
 }

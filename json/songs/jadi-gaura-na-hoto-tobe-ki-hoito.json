@@ -1,4 +1,8 @@
 {
+  "meta": {
+    "page": 135,
+    "first_line": "jadi gaura nā ho’to, tobe ki hoito"
+  },
   "title": [
     "Jadi Gaura nā ho’to"
   ],
@@ -69,8 +73,5 @@
   ],
   "word_by_word": [
     "**jadi** — si; **gaura** — Gaura; **nā ho‘to** — no podría ser."
-  ],
-  "attributes": {
-    "page": "135"
-  }
+  ]
 }

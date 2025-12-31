@@ -1,4 +1,8 @@
 {
+  "meta": {
+    "page": 413,
+    "first_line": "chit-kaṇa jīva kṛṣṇa"
+  },
   "title": [
     "Jīva-gati"
   ],
@@ -192,8 +196,5 @@
   ],
   "word_by_word": [
     "**jīva** — el alma; **gati** — viaje."
-  ],
-  "attributes": {
-    "page": "413"
-  }
+  ]
 }

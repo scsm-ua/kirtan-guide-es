@@ -1,6 +1,8 @@
 {
   "meta": {
-    "no-author": 1
+    "page": 399,
+    "no-author": 1,
+    "first_line": "atha govardhane"
   },
   "title": [
     "Śrī Govinda Kuṇḍa Mahātmya"
@@ -33,8 +35,5 @@
   ],
   "word_by_word": [
     "**śrī govinda kuṇḍa** — adorable Govinda Kuṇḍa; **mahātmya** — glorias."
-  ],
-  "attributes": {
-    "page": "399"
-  }
+  ]
 }

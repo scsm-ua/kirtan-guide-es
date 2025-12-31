@@ -1,4 +1,8 @@
 {
+  "meta": {
+    "page": 133,
+    "first_line": "gāy gorā madhur svare"
+  },
   "title": [
     "Śrī Nāma"
   ],
@@ -62,8 +66,5 @@
   ],
   "word_by_word": [
     "**śrī** — adorable; **nāma** — el nombre."
-  ],
-  "attributes": {
-    "page": "133"
-  }
+  ]
 }

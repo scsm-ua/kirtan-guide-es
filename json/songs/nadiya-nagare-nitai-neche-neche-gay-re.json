@@ -1,4 +1,8 @@
 {
+  "meta": {
+    "page": 289,
+    "first_line": "nadīyā-nagare nitāi neche neche gāy re"
+  },
   "title": [
     "Śrīman Mahāprabhur śata-nāma"
   ],
@@ -345,8 +349,5 @@
   ],
   "word_by_word": [
     "**śrīman** — su divina gracia; **mahāprabhur** — de Mahāprabhu; **śata-nāma** — cien nombres."
-  ],
-  "attributes": {
-    "page": "289"
-  }
+  ]
 }

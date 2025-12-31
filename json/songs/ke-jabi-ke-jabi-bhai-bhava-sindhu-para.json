@@ -1,4 +1,8 @@
 {
+  "meta": {
+    "page": 142,
+    "first_line": "ke jabi ke jabi"
+  },
   "title": [
     "Ke jabi ke jabi"
   ],
@@ -61,8 +65,5 @@
   ],
   "word_by_word": [
     "**ke** — quién; **jabi** — irá; **ke** — quién; **jabi** — irá."
-  ],
-  "attributes": {
-    "page": "142"
-  }
+  ]
 }

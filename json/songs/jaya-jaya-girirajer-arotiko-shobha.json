@@ -1,4 +1,8 @@
 {
+  "meta": {
+    "page": 404,
+    "first_line": "jaya jaya girirājer ārotiko"
+  },
   "title": [
     "Śrī Śrī Girirāj-Govardhan Ārati"
   ],
@@ -152,8 +156,5 @@
   ],
   "word_by_word": [
     "**śrī** — adorable; **girirāj** — el rey de las colinas; **govardhan** — Govardhan; **ārati** — ceremonia."
-  ],
-  "attributes": {
-    "page": "404"
-  }
+  ]
 }

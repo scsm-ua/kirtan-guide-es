@@ -1,4 +1,8 @@
 {
+  "meta": {
+    "page": 77,
+    "first_line": "cheto-darpaṇa-mārjanaṁ"
+  },
   "title": [
     "Śrī Śikṣāṣṭakam"
   ],
@@ -125,8 +129,5 @@
   ],
   "word_by_word": [
     "**śrī** — adorable; **śikṣa** — instrucciones; **aṣṭakam** — ocho versos."
-  ],
-  "attributes": {
-    "page": "77"
-  }
+  ]
 }

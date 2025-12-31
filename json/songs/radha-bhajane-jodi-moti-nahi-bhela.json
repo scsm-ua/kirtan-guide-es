@@ -1,4 +1,8 @@
 {
+  "meta": {
+    "page": 240,
+    "first_line": "rādhā-bhajane jadi mati nāhi bhelā"
+  },
   "title": [
     "Śrī Rādhāṣṭaka, 8"
   ],
@@ -113,8 +117,5 @@
   ],
   "word_by_word": [
     "**śrī** — adorable; **rādhā** — de Śrīmati Rādhārāṇī; **aṣṭakam** — ocho canciones."
-  ],
-  "attributes": {
-    "page": "240"
-  }
+  ]
 }

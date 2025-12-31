@@ -1,4 +1,8 @@
 {
+  "meta": {
+    "page": 138,
+    "first_line": "aruṇa vasane sonara sūraja"
+  },
   "title": [
     "Śrī Śrī Gaurasundarer Avirbhāva Vasare"
   ],
@@ -174,8 +178,5 @@
   ],
   "word_by_word": [
     "**śrī śrī** — su señoría; **gaurasundar** — de Śrī Gaurasundar; **avirbhāva** — aparición; **vasare** — el día."
-  ],
-  "attributes": {
-    "page": "138"
-  }
+  ]
 }

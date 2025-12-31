@@ -1,4 +1,8 @@
 {
+  "meta": {
+    "page": 156,
+    "first_line": "kṛṣṇotkīrttana-gāna-narttana-parau"
+  },
   "title": [
     "Śrī Śrī Ṣaḍ-goswāmi-aṣṭakam"
   ],
@@ -161,8 +165,5 @@
   ],
   "word_by_word": [
     "**śrī śrī** — sus santidades; **ṣaḍgoswāmī** — de los seis Goswāmīs; **aṣṭakam** — oraciones."
-  ],
-  "attributes": {
-    "page": "156"
-  }
+  ]
 }

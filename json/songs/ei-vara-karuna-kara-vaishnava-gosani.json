@@ -1,4 +1,8 @@
 {
+  "meta": {
+    "page": 151,
+    "first_line": "ei-bāro karuṇā koro vaiṣṇava-gosāi"
+  },
   "title": [
     "Vaiṣṇava Vijñāpti"
   ],
@@ -87,8 +91,5 @@
   ],
   "word_by_word": [
     "**vaiṣṇava** — los devotos; **vijñāpti** — súplica."
-  ],
-  "attributes": {
-    "page": "151"
-  }
+  ]
 }

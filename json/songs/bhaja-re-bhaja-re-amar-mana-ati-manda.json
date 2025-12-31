@@ -1,4 +1,8 @@
 {
+  "meta": {
+    "page": 66,
+    "first_line": "bhaja re bhaja re āmār mana ati manda"
+  },
   "title": [
     "Bhajan-gīti"
   ],
@@ -77,8 +81,5 @@
   ],
   "word_by_word": [
     "**bhajan** — de adoración; **gīti** — canción."
-  ],
-  "attributes": {
-    "page": "66"
-  }
+  ]
 }

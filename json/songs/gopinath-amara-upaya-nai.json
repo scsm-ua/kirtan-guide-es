@@ -1,4 +1,8 @@
 {
+  "meta": {
+    "page": 202,
+    "first_line": "gopīnāth, āmāra upāya nāi"
+  },
   "title": [
     "Nivedana"
   ],
@@ -124,8 +128,5 @@
   ],
   "word_by_word": [
     "**nivedana** — súplica."
-  ],
-  "attributes": {
-    "page": "202"
-  }
+  ]
 }

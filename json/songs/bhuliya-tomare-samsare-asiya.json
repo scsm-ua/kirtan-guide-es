@@ -1,4 +1,8 @@
 {
+  "meta": {
+    "page": 178,
+    "first_line": "bhuliyā tomāre, saṁsāre āsiyā"
+  },
   "title": [
     "Dainya"
   ],
@@ -114,8 +118,5 @@
   ],
   "word_by_word": [
     "**dainya** — humildad."
-  ],
-  "attributes": {
-    "page": "178"
-  }
+  ]
 }

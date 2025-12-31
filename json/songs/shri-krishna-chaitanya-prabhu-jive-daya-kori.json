@@ -1,4 +1,8 @@
 {
+  "meta": {
+    "page": 64,
+    "first_line": "śrī-kṛṣṇa-chaitanya prabhu jīve dayā kari’"
+  },
   "title": [
     "Maṅgalācharaṇa"
   ],
@@ -100,8 +104,5 @@
   ],
   "word_by_word": [
     "**maṅgala** — auspiciosa; **ācharaṇa** — invocación."
-  ],
-  "attributes": {
-    "page": "64"
-  }
+  ]
 }

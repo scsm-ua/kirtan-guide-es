@@ -1,4 +1,8 @@
 {
+  "meta": {
+    "page": 305,
+    "first_line": "śuddha bhakata-charaṇa-reṇu"
+  },
   "title": [
     "Śuddha-bhakata"
   ],
@@ -129,8 +133,5 @@
   ],
   "word_by_word": [
     "**śuddha** — puro; **bhakata** — devoto."
-  ],
-  "attributes": {
-    "page": "305"
-  }
+  ]
 }

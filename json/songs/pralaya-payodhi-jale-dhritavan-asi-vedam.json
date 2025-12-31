@@ -1,4 +1,8 @@
 {
+  "meta": {
+    "page": 279,
+    "first_line": "pralaya-payodhi-jale dhṛtavān asi vedaṁ"
+  },
   "title": [
     "Śrī Daśāvatār-stotram"
   ],
@@ -178,8 +182,5 @@
   ],
   "word_by_word": [
     "**śrī** — adorable; **daśa-avatār** — diez encarnaciones; **stotram** — oraciones."
-  ],
-  "attributes": {
-    "page": "279"
-  }
+  ]
 }

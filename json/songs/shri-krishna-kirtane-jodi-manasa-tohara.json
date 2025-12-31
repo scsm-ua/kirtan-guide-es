@@ -1,4 +1,8 @@
 {
+  "meta": {
+    "page": 220,
+    "first_line": "śrī-kṛṣṇa-kīrttane jodi mānasa tohāra"
+  },
   "title": [
     "Śrī Śikṣāṣṭakam"
   ],
@@ -128,8 +132,5 @@
   ],
   "word_by_word": [
     "**śrī** — adorable; **śikṣa** — instrucciones; **aṣṭakam** — ocho versos."
-  ],
-  "attributes": {
-    "page": "220"
-  }
+  ]
 }

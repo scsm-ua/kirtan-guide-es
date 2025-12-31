@@ -1,4 +1,8 @@
 {
+  "meta": {
+    "page": 242,
+    "first_line": "rādhā-kuṇḍa-taṭa-kuñja-kuṭīra"
+  },
   "title": [
     "Ānukūlyātmikā, 4"
   ],
@@ -113,8 +117,5 @@
   ],
   "word_by_word": [
     "**ānukula** — favorable; **atmikā** — aceptación."
-  ],
-  "attributes": {
-    "page": "242"
-  }
+  ]
 }

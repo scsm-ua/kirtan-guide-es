@@ -1,4 +1,11 @@
 {
+  "meta": {
+    "page": [
+      46,
+      91
+    ],
+    "first_line": "jaya guru mahārāj karuṇā-sāgara"
+  },
   "title": [
     "Śrī Śrī Nitāi Chaitanya ārati"
   ],
@@ -205,11 +212,5 @@
   ],
   "word_by_word": [
     "**śrī śrī nitāi chaitanya** — Sus Señorías Nitāi y Chaitanya; **ārati** — ceremonia."
-  ],
-  "attributes": {
-    "page": [
-      "46",
-      "91"
-    ]
-  }
+  ]
 }

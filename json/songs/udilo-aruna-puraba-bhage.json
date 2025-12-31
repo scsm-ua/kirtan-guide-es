@@ -1,4 +1,8 @@
 {
+  "meta": {
+    "page": 56,
+    "first_line": "udila aruṇa pūrava-bhāge"
+  },
   "title": [
     "Aruṇodoya-kīrtan"
   ],
@@ -132,8 +136,5 @@
   ],
   "word_by_word": [
     "**aruṇodoya** — del amanecer; **kīrtan** — canto."
-  ],
-  "attributes": {
-    "page": "56"
-  }
+  ]
 }

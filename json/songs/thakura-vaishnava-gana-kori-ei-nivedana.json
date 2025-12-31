@@ -1,4 +1,8 @@
 {
+  "meta": {
+    "page": 68,
+    "first_line": "ṭhākura vaiṣṇava gaṇa"
+  },
   "title": [
     "Vaiṣṇava-vijñāpti"
   ],
@@ -69,8 +73,5 @@
   ],
   "word_by_word": [
     "**vaiṣṇava** — a los Vaiṣṇavas; **vijñāpti** — oración."
-  ],
-  "attributes": {
-    "page": "68"
-  }
+  ]
 }

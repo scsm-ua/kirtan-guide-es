@@ -1,4 +1,8 @@
 {
+  "meta": {
+    "page": 401,
+    "first_line": "jaya jaya girirājer ārati"
+  },
   "title": [
     "Śrī Govinda Kuṇḍa",
     "Gupta-Govardhan Ārati"
@@ -140,8 +144,5 @@
   ],
   "word_by_word": [
     "**śrī** — adorable; **govinda kuṇḍa** — Govinda Kuṇḍa; **gupta** — oculto; **govardhan** — Govardhan; **ārati** — ceremonia."
-  ],
-  "attributes": {
-    "page": "401"
-  }
+  ]
 }

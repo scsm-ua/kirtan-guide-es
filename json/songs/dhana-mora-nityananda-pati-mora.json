@@ -1,4 +1,8 @@
 {
+  "meta": {
+    "page": 117,
+    "first_line": "dhana mora nityānanda"
+  },
   "title": [
     "Sva-niṣṭha"
   ],
@@ -54,8 +58,5 @@
   ],
   "word_by_word": [
     "**sva** — propio; **niṣṭha** — apego."
-  ],
-  "attributes": {
-    "page": "117"
-  }
+  ]
 }

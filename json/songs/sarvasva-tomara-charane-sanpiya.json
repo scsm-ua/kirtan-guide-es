@@ -1,4 +1,8 @@
 {
+  "meta": {
+    "page": 191,
+    "first_line": "sarvasva tomāra, charaṇe sā̐piyā"
+  },
   "title": [
     "Goptṛtve Varaṇa, 3"
   ],
@@ -84,8 +88,5 @@
   ],
   "word_by_word": [
     "**goptṛtve** — guardianía del Señor; **varaṇa** — abrazar."
-  ],
-  "attributes": {
-    "page": "191"
-  }
+  ]
 }

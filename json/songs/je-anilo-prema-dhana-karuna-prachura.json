@@ -1,4 +1,8 @@
 {
+  "meta": {
+    "page": 149,
+    "first_line": "je ānilo prema-dhana koruṇā prachura"
+  },
   "title": [
     "Viraha-gīti"
   ],
@@ -74,8 +78,5 @@
   ],
   "word_by_word": [
     "**viraha** — de separación; **gīti** — canción."
-  ],
-  "attributes": {
-    "page": "149"
-  }
+  ]
 }

@@ -1,4 +1,8 @@
 {
+  "meta": {
+    "page": 187,
+    "first_line": "āmāra jīvana, sadā pāpe rata"
+  },
   "title": [
     "Dainya, 4"
   ],
@@ -99,8 +103,5 @@
   ],
   "word_by_word": [
     "**dainya** — humildad."
-  ],
-  "attributes": {
-    "page": "187"
-  }
+  ]
 }

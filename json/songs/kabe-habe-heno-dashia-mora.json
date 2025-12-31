@@ -1,4 +1,8 @@
 {
+  "meta": {
+    "page": 145,
+    "first_line": "kabe ha’be heno daśā mora"
+  },
   "title": [
     "Prārthana Lalasāmayī, 9"
   ],
@@ -98,8 +102,5 @@
   ],
   "word_by_word": [
     "**prārthana** — súplica; **lalasa** — anhelo; **mayī** — mío."
-  ],
-  "attributes": {
-    "page": "145"
-  }
+  ]
 }

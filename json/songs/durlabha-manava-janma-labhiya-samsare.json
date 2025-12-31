@@ -1,4 +1,8 @@
 {
+  "meta": {
+    "page": 208,
+    "first_line": "durlabha mānava-janma labhiyā saṁsāre"
+  },
   "title": [
     "Nirvedana lakṣaṇa upaladbhi, 4"
   ],
@@ -178,8 +182,5 @@
   ],
   "word_by_word": [
     "**nirvedana** — arrepentimiento; **laksana** — síntoma; **upaladbhi** — sentimiento."
-  ],
-  "attributes": {
-    "page": "208"
-  }
+  ]
 }

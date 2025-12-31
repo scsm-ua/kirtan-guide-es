@@ -1,4 +1,8 @@
 {
+  "meta": {
+    "page": 393,
+    "first_line": "emona gaurāṅga bine"
+  },
   "title": [
     "Emona Gaurāṅga bine nāhi āra"
   ],
@@ -83,8 +87,5 @@
   ],
   "word_by_word": [
     "**emona** — tal como; **gaurāṅga** — Gaurāṅga; **bine** — sin él; **nāhi** — no hay; **āra** — más."
-  ],
-  "attributes": {
-    "page": "393"
-  }
+  ]
 }

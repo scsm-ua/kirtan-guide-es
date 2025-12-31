@@ -1,4 +1,8 @@
 {
+  "meta": {
+    "page": 70,
+    "first_line": "vibhāvarī śeṣa, āloka-praveśa"
+  },
   "title": [
     "Vibhāvarī Śeṣa"
   ],
@@ -129,8 +133,5 @@
   ],
   "word_by_word": [
     "**vibhāvarī** — de la noche; **śeṣa** — al final."
-  ],
-  "attributes": {
-    "page": "70"
-  }
+  ]
 }

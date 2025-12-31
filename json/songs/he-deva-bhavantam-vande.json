@@ -1,4 +1,8 @@
 {
+  "meta": {
+    "page": 246,
+    "first_line": "(he) deva bhavantaṁ vande"
+  },
   "title": [
     "He deva bhavantaṁ vande"
   ],
@@ -61,8 +65,5 @@
   ],
   "word_by_word": [
     "**he deva** — ¡oh señor; **bhavantaṁ** — a Ti; **vande** — me postro."
-  ],
-  "attributes": {
-    "page": "246"
-  }
+  ]
 }

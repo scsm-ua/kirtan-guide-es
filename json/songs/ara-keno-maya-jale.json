@@ -1,4 +1,8 @@
 {
+  "meta": {
+    "page": 407,
+    "first_line": "āra keno māyā-jāle"
+  },
   "title": [
     "Śreyaḥ Nirṇaya 2"
   ],
@@ -48,8 +52,5 @@
   ],
   "word_by_word": [
     "**śreyaḥ** — bendición; **nirṇaya** — confirmación."
-  ],
-  "attributes": {
-    "page": "407"
-  }
+  ]
 }

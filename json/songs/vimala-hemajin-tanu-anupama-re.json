@@ -1,4 +1,8 @@
 {
+  "meta": {
+    "page": 416,
+    "first_line": "vimala hema jini"
+  },
   "title": [
     "Vimala hema jini"
   ],
@@ -69,8 +73,5 @@
   ],
   "word_by_word": [
     "**vimala** — puro; **hema** — oro; **jini** — conquista."
-  ],
-  "attributes": {
-    "page": "416"
-  }
+  ]
 }

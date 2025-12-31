@@ -1,4 +1,8 @@
 {
+  "meta": {
+    "page": 152,
+    "first_line": "kṛpa koro’ vaiṣṇava ṭhākura"
+  },
   "title": [
     "Prārthanā Lalasāmayi"
   ],
@@ -83,8 +87,5 @@
   ],
   "word_by_word": [
     "**prārthana** — oraciones; **lalasāmayi** — de anhelo."
-  ],
-  "attributes": {
-    "page": "152"
-  }
+  ]
 }

@@ -1,4 +1,8 @@
 {
+  "meta": {
+    "page": 50,
+    "first_line": "kali-kukkura-kadana yadi chāo he"
+  },
   "title": [
     "Prabhāti Gīti"
   ],
@@ -83,8 +87,5 @@
   ],
   "word_by_word": [
     "**prabhāti** — matutina; **gīti** — canción."
-  ],
-  "attributes": {
-    "page": "50"
-  }
+  ]
 }

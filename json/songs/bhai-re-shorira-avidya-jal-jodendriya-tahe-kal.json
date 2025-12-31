@@ -1,4 +1,8 @@
 {
+  "meta": {
+    "page": 89,
+    "first_line": "bhāi-re! śarīra avidyā-jāl"
+  },
   "title": [
     "Śrī Prasāda-sevāya Gīti"
   ],
@@ -50,8 +54,5 @@
   ],
   "word_by_word": [
     "**śrī** — divina; **prāsada** — misericordia; **sevāya** — servicio; **gīti** — canción."
-  ],
-  "attributes": {
-    "page": "89"
-  }
+  ]
 }

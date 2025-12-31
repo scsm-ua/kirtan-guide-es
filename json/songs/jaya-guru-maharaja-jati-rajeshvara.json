@@ -1,4 +1,8 @@
 {
+  "meta": {
+    "page": 43,
+    "first_line": "jaya ‘guru-mahārāja’ yati-rājeśvara"
+  },
   "title": [
     "Śrī Guru Ārati Stuti"
   ],
@@ -217,8 +221,5 @@
   ],
   "word_by_word": [
     "**śrī guru** — el adorable maestro espiritual; **ārati** — ceremonia; **stuti** — oraciones."
-  ],
-  "attributes": {
-    "page": "43"
-  }
+  ]
 }

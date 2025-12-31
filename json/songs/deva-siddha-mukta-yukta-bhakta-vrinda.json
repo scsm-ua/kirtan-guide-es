@@ -1,4 +1,9 @@
 {
+  "meta": {
+    "inline verse": "non bold",
+    "page": 321,
+    "first_line": "deva-siddha-mukta-yukta-bhakta-vṛnda"
+  },
   "title": [
     "Śrī Śrī Premadhāma-deva-stotram"
   ],
@@ -172,9 +177,5 @@
   ],
   "word_by_word": [
     "**śrī śrī** — el más adorable; **prema-dhāma** — morada del amor divino; **deva** — del Señor; **stotram** — oraciones."
-  ],
-  "attributes": {
-    "inline verse": "non bold",
-    "page": "321"
-  }
+  ]
 }
