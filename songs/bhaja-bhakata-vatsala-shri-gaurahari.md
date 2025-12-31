@@ -1,3 +1,8 @@
+---
+page: 84
+first_line: bhaja bhakata-vatsala śrī-gaurahari
+---
+
 # Śrī Bhoga Ārati Gīti
 
 > **śrī bhoga** — ofrenda de comida; **ārati** — ceremonia; **gīti** — canción.
@@ -30,7 +35,7 @@ Madre Yaśodā llama a Kṛṣṇa: “Mi querido Dāmodar, ya es tarde. Por fav
 
 > **nandera** — de Nanda Mahārāj; **nirdeśe** — por instrucción; **vaise** — se sienta; **girivara-dhārī** — el sostenedor de la colina Govardhan; **baladeva-saha** — junto con Śrī Baladeva; **sakhā** — los amigos; **baise sāri sāri** — sentados en filas.
 
-Siguiendo las instrucciones de Nanda Mahārāj, Kṛṣṇa, el sostenedor de la colina de Govardhan, Baladev y todos los pastorcillos de vacas se sientan en filas para tomar su almuerzo. 
+Siguiendo las instrucciones de Nanda Mahārāj, Kṛṣṇa, el sostenedor de la colina de Govardhan, Baladev y todos los pastorcillos de vacas se sientan en filas para tomar su almuerzo.
 
 #### 4
 
@@ -39,7 +44,7 @@ Siguiendo las instrucciones de Nanda Mahārāj, Kṛṣṇa, el sostenedor de la
 
 > **śuktā** — curry amargo; **śāka** — espinacas; **adi** — y demás; **bhāji** — preparaciones fritas; **nālitā** — ensalada con hojas verdes de la planta de yute; **kuṣmāṇḍa** — calabaza; **ḍāli ḍālnā** — canastas de frutas; **dugdha-tumbī** — calabaza cocida con leche; **dadhi** — yogur espeso; **mochā-khaṇḍa** — preparaciones vegetales hechas de la flor del banano.
 
-Enseguida les sirven un festín de *śuktā*, *śāk*, frituras, ensalada de hojas de yute, calabaza, cestas de frutas, pastelillos de lentejas, yogur, y vegetales hechos con la flor de la banana. 
+Enseguida les sirven un festín de *śuktā*, *śāk*, frituras, ensalada de hojas de yute, calabaza, cestas de frutas, pastelillos de lentejas, yogur, y vegetales hechos con la flor de la banana.
 
 #### 5
 
@@ -180,5 +185,3 @@ Luego, Lalitā Devī y las otras *gopīs* reciben los remanentes, y dentro de su
 
 Sirve a Govinda, sirve a Gopāl. Sirve a Giridhārī, Gopīnāth, Nanda Dulāl. Sirve a Govinda, sirve a Gopāl. ¡Toda gloria al hijo de Nanda! ¡Toda gloria al hijo de Śachī! ¡Toda gloria al dorado Gopāl!
 
-
-> page = 84

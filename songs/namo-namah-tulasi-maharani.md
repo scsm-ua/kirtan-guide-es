@@ -1,3 +1,8 @@
+---
+page: 101
+first_line: namo namaḥ tulasī mahārāṇī
+---
+
 # Śrī Tulasī-parikramā-gīti
 
 > **śrī tulasī** — la sagrada Tulasī; **parikramā** — circunvalación; **gīti** — canción.
@@ -30,7 +35,7 @@ Al verte o tocarte, todos los pecados son destruidos. Tus glorias son cantadas e
 
 > **yā̐ko** — aquellas; **patra** — hojas; **mañjarī** — flores de Tulasī; **komala** — suave; **śrī-pati-charaṇa-kamale** — a los pies de de loto de su señoradorable (Nārāyaṇ); **lepaṭāni** — entrelazada.
 
-Tus hojas y tus suaves *mañjarīs* están entrelazadas a los pies de loto de Nārāyaṇ. 
+Tus hojas y tus suaves *mañjarīs* están entrelazadas a los pies de loto de Nārāyaṇ.
 
 #### 4
 
@@ -48,7 +53,7 @@ Tus hojas y tus suaves *mañjarīs* están entrelazadas a los pies de loto de N�
 
 > **dhūpa** — incienso; **dīpa** — lámpara; **naivedya** — alimentos; **ārati** — ceremonia; **phulanā** — de flores; **kiye** — tanto; **varakhā** — derramar; **varakhāni** — la que derrama gracia.
 
-Derramas tu misericordia sobre quienquiera que te ofrece un incienso, una lámpara, alimentos, adoración y flores. 
+Derramas tu misericordia sobre quienquiera que te ofrece un incienso, una lámpara, alimentos, adoración y flores.
 
 #### 6
 
@@ -66,7 +71,7 @@ El Señor no acepta ni siquiera una de las cincuenta y seis ofrendas de granos o
 
 > **śiva** — Śiva; **śuka** — Śuka; **nārada** — Nārada; **ā-ura** — además; **brahmādika** — todos los Brahmās; **ḍhu̐rata** — dador de riqueza; **phirata** — rodean; **mahā-muni** — grandes sabios; **jñānī** — escolástico.
 
-Śiva, Śukadev, Nārada, Brahmā, los otros semidioses, los místicos y los grandes *munis* te circunvalan. 
+Śiva, Śukadev, Nārada, Brahmā, los otros semidioses, los místicos y los grandes *munis* te circunvalan.
 
 #### 8
 
@@ -77,5 +82,3 @@ El Señor no acepta ni siquiera una de las cincuenta y seis ofrendas de granos o
 
 ¡Oh, Tulasī Mahārāṇī! Así canta tus glorias Chandraśekhar. Por favor, otórgale el regalo de la devoción.
 
-
-> page = 101

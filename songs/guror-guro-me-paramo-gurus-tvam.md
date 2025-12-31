@@ -1,3 +1,8 @@
+---
+page: 368
+first_line: guror guro me paramo gurus tvaṁ
+---
+
 # Śrī Śrīmad Gaura-Kiśor-namaskāra Daśakam
 
 > **śrīśrīmad** — su santidad venerable; **gaura-kiśor** — Gaura Kiśor; **namaskāra** — de obediencias; **daśakam** — diez oraciones.
@@ -114,5 +119,3 @@ Rechazaste la asociación de los residentes del pueblo de Kuliyā para aceptar e
 
 Aunque permanezco en el fondo del lodo de las ofensas, yo (un alma caída) mendigo tu misericordia sin causa. Por favor, sé misericordioso y libera a esta alma desvalida. ¡Oh, Gaura Kiśor! Te ofrezco mis reverencias, una y otra vez.
 
-
-> page = 368

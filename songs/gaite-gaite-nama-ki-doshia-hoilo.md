@@ -1,10 +1,15 @@
+---
+page: 227
+first_line: gāite gāite nāma ki dośā hoilo
+---
+
 # Śrī Śikṣāṣṭakam
 
 > **śrī** — adorable; **śikṣa** — instrucciones; **aṣṭakam** — ocho versos.
 
-### Śrīla Bhakti Vinod Ṭhākur
-
 ## Canción 7
+
+### Śrīla Bhakti Vinod Ṭhākur
 
     yugāyitaṁ nimeṣeṇa chakṣuṣā prāvṛṣāyitam
     śūnyāyitaṁ jagat sarvaṁ govinda-viraheṇa me
@@ -89,5 +94,3 @@ El mundo está vacío. Cuando examino las cuatro direcciones, toda la superficie
 
 Me siento incapaz de tolerar más mi separación de mi Señor Kṛṣṇa y estoy dispuesto a abandonar mi vida en dos o cuatro días.
 
-
-> page = 227

@@ -1,3 +1,8 @@
+---
+page: 320
+first_line: prabhu bole—kahilaṅ ei mahāmantra
+---
+
 # Prabhu kohe
 
 > **prabhu** — el Señor; **kohe** — dice.
@@ -27,5 +32,3 @@ El Señor dijo: “Les he dado este *mahāmantra*, por lo tanto, ahora todos cá
 
 “Ya sea que duerman, coman o caminen, de día y de noche piensen en Kṛṣṇa e invoquen Su Nombre en voz alta”. “Si tienes algún amor y afecto por Mí, entonces tan solo di ‘Kṛṣṇa’—no digas nada excepto ‘Kṛṣṇa’”.
 
-
-> page = 320

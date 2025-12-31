@@ -1,3 +1,8 @@
+---
+page: 253
+first_line: janama saphala tā’ra, kṛṣṇa-daraśana jā’ra
+---
+
 # Rūpa-Kīrtan
 
 > **rūpa** — la forma del Señor; **kīrtan** — glorificación.
@@ -79,5 +84,3 @@ Cuando lo contemplo, parado al pie de un árbol *kadamba*, puedo ver que la bell
 
 Aceptando la forma de una abeja, anhelo siempre residir cerca de Sus pies de loto. Y lo conseguiré muy fácilmente debido a que canto siempre las glorias de este Kṛṣṇa, sin adorar a nadie más.
 
-
-> page = 253

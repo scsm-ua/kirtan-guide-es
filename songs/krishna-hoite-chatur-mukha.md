@@ -1,5 +1,7 @@
 ---
+page: 263
 author: Śrīla Bhaktisiddhānta Saraswatī Ṭhākur
+first_line: kṛṣṇa hoite chatur-mukha
 ---
 
 # Śrī Guru-paramparā
@@ -147,5 +149,3 @@ El muy querido discípulo de Śrīla Bhakti Nirmal Āchārya Mahārāj quien est
 
 Esta es nuestra gran línea preceptorial, y todos ellos le son muy queridos a Śrī Chaitanya Mahāprabhu. Mi único sustento son los remanentes de ellos.
 
-
-> page = 263

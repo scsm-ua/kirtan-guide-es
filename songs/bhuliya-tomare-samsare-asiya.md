@@ -1,3 +1,8 @@
+---
+page: 178
+first_line: bhuliyā tomāre, saṁsāre āsiyā
+---
+
 # Dainya
 
 > **dainya** — humildad.
@@ -81,5 +86,3 @@ Luego, por la fuerza de mi aprendizaje, viajé de un lugar a otro, gané dinero 
 
 Ahora anciano, Bhakti Vinod llora con gran angustia, “sin servirte, he pasado mis días en vano. ¿Cuál será mi destino ahora?”
 
-
-> page = 178

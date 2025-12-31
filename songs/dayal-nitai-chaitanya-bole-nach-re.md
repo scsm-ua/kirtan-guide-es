@@ -1,3 +1,8 @@
+---
+page: 123
+first_line: ‘doyāl nitāi chaitanya’ bo’le’ nāch re āmār man
+---
+
 # Doyāl Nitāi Chaitanya
 
 > **doyāl** — misericordioso; **nitāi chaitanya** — Nitāi y Chaitanya.
@@ -36,5 +41,3 @@ En ninguna parte encontraremos una personalidad tan misericordiosa como Nityāna
 
 Cuando hay apego por el Santo Nombre de Kṛṣṇa, la vida de una entidad viviente fácilmente tiene éxito. Sin apego a Kṛṣṇa, la vida es simplemente falsa. Si tenemos la misericordia del Señor Gaura, entonces al final de la vida obtendremos la hermosa visión de Rādhā y Śyām en Vṛndāvan.
 
-
-> page = 123

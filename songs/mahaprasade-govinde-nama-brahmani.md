@@ -1,5 +1,7 @@
 ---
+page: 88
 no-author: 1
+first_line: mahāprasāde govinde nāma brahmaṇi vaiṣṇave
 ---
 
 # Mahāprāsad
@@ -13,5 +15,3 @@ no-author: 1
 
 Aquellos que no han acumulado suficiente mérito piadoso, nunca podrán honrar al Mahāprasād, al Señor Govinda, al Santo Nombre, a los *brāhmaṇas* y a los Vaiṣṇavas.
 
-
-> page = 88

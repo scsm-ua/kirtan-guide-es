@@ -1,3 +1,8 @@
+---
+page: 70
+first_line: vibhāvarī śeṣa, āloka-praveśa
+---
+
 # Vibhāvarī Śeṣa
 
 > **vibhāvarī** — de la noche; **śeṣa** — al final.
@@ -92,5 +97,3 @@ El Señor Kṛṣṇa es adorado por el mejor de los *yogīs* y es el hijo deNan
 
 Kṛṣṇa es la vida del río Yamunā y es la luna para las mentes de las *gopīs*, quienes son como los pájaros *chakora*. ¡Oh mente!Obedece mis palabras y canta las glorias de Śrī Kṛṣṇa y Sus nectáreos Nombres.
 
-
-> page = 70

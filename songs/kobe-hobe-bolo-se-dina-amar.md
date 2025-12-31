@@ -1,3 +1,8 @@
+---
+page: 195
+first_line: kabe ha’be bala se dina āmāra
+---
+
 # Vijñapti
 
 > **viñapti** — anhelo sincero.
@@ -91,5 +96,3 @@ Por favor, dime, ¿cuándo será mío ese día, cuando mis ofensas serán disipa
 
 ¿Cuándo surgirá dentro de mí la compasión por todas las almas? ¿Cuándo Bhakti Vinod olvidará su propia felicidad y viajará a predicar la orden divina, con un corazón manso y humilde?
 
-
-> page = 195

@@ -1,5 +1,7 @@
 ---
+page: 399
 no-author: 1
+first_line: atha govardhane
 ---
 
 # Śrī Govinda Kuṇḍa Mahātmya
@@ -27,5 +29,3 @@ A veces, el agua de ese lago sabe a leche deliciosa. Aquel que se baña allí ob
 
 Aquel que, pensando en el Señor Kṛṣṇa, se baña en el sagrado Govinda Kuṇḍa, obtiene una forma trascendental tal como la del Señor Kṛṣṇa. ¡Oh rey de Mithilā!, de esto no hay duda. (3.10.38)
 
-
-> page = 399

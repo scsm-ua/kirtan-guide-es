@@ -1,3 +1,8 @@
+---
+page: 247
+first_line: (jaya) rādhā-mādhava
+---
+
 # Jaya Rādhā-Mādhava
 
 > **jaya** — toda gloria; **rādhā** — Rādhārāṇī; **mādhava** — Kṛṣṇa.
@@ -15,5 +20,3 @@
 
 Kṛṣṇa es el amante de Rādhā. Él manifiesta innumerables pasatiempos amorosos en los bosquecillos de Vṛndāvan; es el amante de las doncellas pastorcillas de vacas en Vraja, el sostenedor de la gran colina llamada Govardhan, el querido hijo de Madre Yaśodā, el deleite de los habitantes de Vraja y quien vaga en los bosques a lo largo de la ribera del río Yamunā.
 
-
-> page = 247

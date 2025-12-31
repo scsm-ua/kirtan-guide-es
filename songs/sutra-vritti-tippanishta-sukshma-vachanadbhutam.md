@@ -1,3 +1,9 @@
+---
+inline verse: non bold
+page: 327
+first_line: sūtra-vṛtti-ṭippanīṣṭa-sūkṣma-vāchanādbhutaṁ
+---
+
 # Śrī Śrī Premadhāma-deva-stotram
 
 > **śrī śrī** — el más adorable; **prema-dhāma** — morada del amor divino; **deva** — del Señor; **stotram** — oraciones.
@@ -116,7 +122,3 @@ Al arribar al sagrado lugar de peregrinaje, Śrī Nīlāchala, el valiente rey d
 
 La alta y divina figura de Śrī Gaurāṅgadev intensifica la alegría de los semidioses universales, puesto que Él es la encantadora personificación del amor puro. La radiante aura que emana de Su hermosa figura humilla a millones de lotos dorados, mientras que se gana el respeto de esa personalidad refulgente, Chandradev. Śrī Gaurāṅga es el escenario de fondo de todos los Pasatiempos espirituales que se manifiestan en los siempre frescos y dinámicos humores del *sattvika-bhāva* y que son vistos en Su gozoso baile mientras ejecuta el canto en congregación de los Santos Nombres del Señor Kṛṣṇa. Ofrezco mis reverencias a ese hermoso Señor Dorado, Gaurāṅga Sundar, la forma divina del Kṛṣṇa prema.
 
-
-> inline verse = non bold
-
-> page = 327

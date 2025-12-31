@@ -1,3 +1,8 @@
+---
+page: 363
+first_line: hā hā bhaktivinoda-ṭhakkura! guroḥ!
+---
+
 # Śrīmad Bhaktivinod-viraha-Daśakam
 
 > **śrīmad** — su santidad; **bhaktivinod** — Bhaktivinod Ṭhākur; **viraha** — de separación; **daśakam** — diez oraciones.
@@ -114,5 +119,3 @@ El significado interno lo conoce Śrī Svarūp Dāmodar mediante la sanción de 
 
 ¡Dónde estoy yo, tan bajo y caído, y dónde estas tú, la gran alma que libera al universo! ¡Oh, Señor! Por tu gracia, seguramente perdonarás mis ofensas. ¡Oh, océano de misericordia!, en el polvo de tus pies de loto, oro por esta bendición: Ten la bondad de hacer que mi vida sea exitosa al recomendarme para que sea admitido en el grupo de Śrī Vārṣabhānavī Dayita Dās, quien es el más querido en tu corazón.
 
-
-> page = 363

@@ -1,3 +1,8 @@
+---
+page: 407
+first_line: āra keno māyā-jāle
+---
+
 # Śreyaḥ Nirṇaya 2
 
 > **śreyaḥ** — bendición; **nirṇaya** — confirmación.
@@ -31,5 +36,3 @@ Anhelando saborear placeres patéticos, permaneces atrapado en *māyā*. Tu vida
 
 Por el poder del servicio devocional, serás libre. Jugando en el océano del amor por Śrī Kṛṣṇa, tomarás refugio en Śrī Kṛṣṇa y serás Su sirviente.
 
-
-> page = 407

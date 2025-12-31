@@ -1,3 +1,9 @@
+---
+inline verse: non bold
+page: 344
+first_line: prema-mugdha-nṛtya-kīrtanākulāriṭāntikaṁ
+---
+
 # Śrī Śrī Premadhāma-deva-stotram
 
 > **śrī śrī** — el más adorable; **prema-dhāma** — morada del amor divino; **deva** — del Señor; **stotram** — oraciones.
@@ -144,7 +150,3 @@ El Señor Gaurasundar le explicó sesenta y una veces este famoso verso del *Śr
 
 “Incluso las almas liberadas, completamente satisfechas, se sienten irresistiblemente atraídas a las superexcelentes cualidades de Kṛṣṇa y se rinden a Él con devoción sin mezcla”. El Señor combinó las once palabras que se encuentran en ese verso y declaró que cada una es un depósito inmenso de riqueza sin límites que sustenta la conclusión de la devoción pura. Ofrezco mis reverencias a ese hermoso Señor Dorado, Gaurāṅga Sundar, la forma divina del Kṛṣṇa prema.
 
-
-> inline verse = non bold
-
-> page = 344

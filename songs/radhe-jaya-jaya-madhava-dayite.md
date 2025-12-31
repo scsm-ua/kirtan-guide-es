@@ -1,5 +1,7 @@
 ---
+page: 244
 author: Śrīla Rūpa Goswāmī
+first_line: rādhe jaya jaya mādhava-dayite
 ---
 
 # Śrī Rādhikā-stava
@@ -44,5 +46,3 @@ Tú, quien vistes de tal manera con el fin de incrementar el amor y el apego del
 
 ¡Oh, Tú, que estás plena de compasión! ¡Oh, Tú, cuyas características divinas son descritas por los grandes sabios Sanaka y Sanātana! ¡Oh, Rādhā, por favor, sé misericordiosa conmigo!
 
-
-> page = 244

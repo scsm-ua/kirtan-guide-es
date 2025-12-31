@@ -1,3 +1,8 @@
+---
+page: 68
+first_line: ṭhākura vaiṣṇava gaṇa
+---
+
 # Vaiṣṇava-vijñāpti
 
 > **vaiṣṇava** — a los Vaiṣṇavas; **vijñāpti** — oración.
@@ -48,5 +53,3 @@ La lujuria, la ira, la codicia, la ilusión, el orgullo y el ego, todas me jalan
 
 Nunca he aceptado la concepción apropiada. Mi mente ha estado inmersa en ilusión, y nunca he aspirado por sus pies. Narottam Dās dice, “viendo y escuchando acerca de mi situación, estoy lleno de temor. Por favor rescátenme y manténganme a su lado”.
 
-
-> page = 68

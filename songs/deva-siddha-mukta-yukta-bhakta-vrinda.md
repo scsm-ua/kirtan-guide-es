@@ -1,3 +1,9 @@
+---
+inline verse: non bold
+page: 321
+first_line: deva-siddha-mukta-yukta-bhakta-vṛnda
+---
+
 # Śrī Śrī Premadhāma-deva-stotram
 
 > **śrī śrī** — el más adorable; **prema-dhāma** — morada del amor divino; **deva** — del Señor; **stotram** — oraciones.
@@ -31,7 +37,7 @@ Los dioses universales, los seres perfectos, los salvacionistas, los *yogīs* m�
 
 > **svarṇa** — dorado; **koṭi** — millones; **darpaṇābha** — de espejos; **deha-varṇa** — cuerpo dorado; **gauravaṁ** — honro; **padma** — loto; **pārijāta** — flor celestial; **gandha** — aroma; **vandita-aṅga** — su cuerpo exaltado; **saurabham** — muy fragante; **koṭi-kāma** — millones de Cupidos; **murchita-aṅghri** — desmayado a sus pies; **rūpa** — forma; **rāsa** — trascendental; **raṅgaraṁ** — colorido; **prema-dhāma** — la morada del amor divino; **devam** — ese Señor; **eva** — ciertamente; **naumi** — ofrezco obediencias; **gaura-sundaram** — al hermoso Señor dorado.
 
-El aura encantadora de la figura divina de Śrī Gaurasundar, se asemeja al brillo de millones de resplandecientes espejos dorados. Ademas, la personificación de la dulce fragancia de las flores de loto terrenales y celestiales, ofrece con humildad sus oraciones ante el perfume aromático que impregna el aire de la hermosa forma de Śrī Chaitanya Mahāprabhu. Millones y millones de cupidos caen inconscientes a los pies de la magnífica figura de Śrī Chaitanyadev, y están severamente conmocionados porque su sentido de la fama universal que surge de su hermoso esplendor es puesto a prueba. Mientras Śrī Gaurāṅgadev lleva a cabo Sus pasatiempos gozosos de bailar, Su forma divina se balancea, juguetonamente, de un lado a otro. Las pulsaciones que fluyen de los miembros del cuerpo del Señor se mueve acorde a los diversos y encantadores humores de sentimientos devocionales, *bhāva*, que inundan Su atractiva figura. Ofrezco mis reverencias a ese hermoso Señor Dorado, Gaurāṅga Sundar, la forma divina del Kṛṣṇa prema. 
+El aura encantadora de la figura divina de Śrī Gaurasundar, se asemeja al brillo de millones de resplandecientes espejos dorados. Ademas, la personificación de la dulce fragancia de las flores de loto terrenales y celestiales, ofrece con humildad sus oraciones ante el perfume aromático que impregna el aire de la hermosa forma de Śrī Chaitanya Mahāprabhu. Millones y millones de cupidos caen inconscientes a los pies de la magnífica figura de Śrī Chaitanyadev, y están severamente conmocionados porque su sentido de la fama universal que surge de su hermoso esplendor es puesto a prueba. Mientras Śrī Gaurāṅgadev lleva a cabo Sus pasatiempos gozosos de bailar, Su forma divina se balancea, juguetonamente, de un lado a otro. Las pulsaciones que fluyen de los miembros del cuerpo del Señor se mueve acorde a los diversos y encantadores humores de sentimientos devocionales, *bhāva*, que inundan Su atractiva figura. Ofrezco mis reverencias a ese hermoso Señor Dorado, Gaurāṅga Sundar, la forma divina del Kṛṣṇa prema.
 
 #### 3
 
@@ -42,7 +48,7 @@ El aura encantadora de la figura divina de Śrī Gaurasundar, se asemeja al bril
 
 > **prema** — amor divino; **nāma** — el nombre; **dāna** — otorgar; **janya** — debido a; **pañcha-tattva** — los cinco aspectos; **kātmakaṁ** — relacionado; **sāṅga** — asociación; **divya** — trascendental; **pārṣada-astra** — asociados y armas; **vaibhava** — manifestación; **avatārakam** — de encarnación; **śyāma** — negruzco; **gaura** — dorado; **nāma-gāna** — los nombres; **nṛtya** — danzar; **matta** — enloquecido; **nāgaraṁ** — en las aldeas; **prema-dhāma** — la morada del amor divino; **devam** — ese Señor; **eva** — ciertamente; **naumi** — ofrezco obediencias; **gaura-sundaram** — al hermoso Señor dorado.
 
-Manifestando Sus cinco aspectos de divinidad—Pañcha-tattva—, Śrī Gaurāṅgadev pudo distribuir ampliamente los dulces Nombres del Señor Kṛṣṇa, los cuales son el medio para el logro último en la vida humana: El amor impoluto a la Verdad Absoluta, Śrī Kṛṣṇa, la quinta meta. (La ‘quinta meta’ se refiere a aquello que se encuentra más allá del logro de la religiosidad, el desarrollo económico, la complacencia de los sentidos y la liberación). 
+Manifestando Sus cinco aspectos de divinidad—Pañcha-tattva—, Śrī Gaurāṅgadev pudo distribuir ampliamente los dulces Nombres del Señor Kṛṣṇa, los cuales son el medio para el logro último en la vida humana: El amor impoluto a la Verdad Absoluta, Śrī Kṛṣṇa, la quinta meta. (La ‘quinta meta’ se refiere a aquello que se encuentra más allá del logro de la religiosidad, el desarrollo económico, la complacencia de los sentidos y la liberación).
 
 El Señor personalmente encarnó en el planeta Tierra con Sus expansiones, tales como Nityānanda Prabhu y Advaita Āchārya; Sus íntimos asociados, tales como Gadādhar Paṇḍit, y otros asociados generales, tales como Śrīvās Ṭhākur. Cuando apareció, vino con el arma del Santo Nombre de Kṛṣṇa. Mientras danzó con el más profundo éxtasis del amor puro, Él, Gaurāṅgadev, que no es otro que Śyāmasundar, cantó Sus propios Nombres en el distrito de Nadia, tal como un ciudadano común. Ofrezco mis reverencias a ese hermoso Señor Dorado, Gaurāṅga Sundar, la forma divina del Kṛṣṇa prema.
 
@@ -123,7 +129,3 @@ Durante Sus pasatiempos de adolescente, se volvió respetado y conocido en todas
 
 El gran erudito en sánscrito, Keśava Kāśmīrī, tras haber conquistado intelectualmente las diez direcciones, llegó ante Śrī Chaitanya Mahāprabhu, a las orillas del río Ganges. A petición del Señor, espontáneamente compuso y recitó muchas oraciones maravillosas en glorificación al sagrado Ganges. Luego, Śrī Gaurāṅgadev asombró al erudito cuando memorizó sus composiciones y señaló varios errores retóricos en ellas. Keśava Kāśmīrī presentó con mucha habilidad diversos argumentos lógicos a su favor, pero finalmente fue derrotado. Cuando la incompetencia de Keśava fue expuesta y su inteligencia quedó completamente perpleja, el Señor Gaurāṅga, con compasión, le ofreció los respetos dignos de un gran erudito, e impidió que Sus alumnos presentes se burlaran del *paṇḍita*. Ofrezco mis reverencias a ese hermoso Señor Dorado, Gaurāṅga Sundar, la forma divina del Kṛṣṇa prema.
 
-
-> inline verse = non bold
-
-> page = 321

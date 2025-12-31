@@ -1,10 +1,15 @@
+---
+page: 220
+first_line: śrī-kṛṣṇa-kīrttane jodi mānasa tohāra
+---
+
 # Śrī Śikṣāṣṭakam
 
 > **śrī** — adorable; **śikṣa** — instrucciones; **aṣṭakam** — ocho versos.
 
-### Śrīla Bhakti Vinod Ṭhākur
-
 ## Canción 3
+
+### Śrīla Bhakti Vinod Ṭhākur
 
     tṛṇād api sunīchena taror api sahiṣṇunā
     amāninā mānadena kīrtanīyaḥ sadā hariḥ
@@ -85,5 +90,3 @@ La humildad, la misericordia, la consideración a los demás y el abandono de nu
 
 Bhakti Vinod, llorando a los pies de loto del Señor, dice: “¡Oh, mi Señor! ¿Cuándo me otorgarás la calificación para ejecutar Kṛṣṇa-kīrtan?”
 
-
-> page = 220

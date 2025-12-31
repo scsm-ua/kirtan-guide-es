@@ -1,10 +1,15 @@
+---
+page: 217
+first_line: pīta-baraṇa kali-pāvana gorā
+---
+
 # Śrī Śikṣāṣṭakam
 
 > **śrī** — adorable; **śikṣa** — instrucciones; **aṣṭakam** — ocho versos.
 
-### Śrīla Bhakti Vinod Ṭhākur
-
 ## Canción 1
+
+### Śrīla Bhakti Vinod Ṭhākur
 
     cheto-darpaṇa-mārjanaṁ bhava-mahādāvāgni-nirvāpaṇaṁ
     śreyaḥ-kairava-chandrikā-vitaraṇaṁ vidyā-vadhū-jīvanam
@@ -87,5 +92,3 @@ El Señor Gaurāṅga, cuyo color es dorado y quien es el redentor de las almas 
 
 ¡Todas las glorias al canto del Santo Nombre de Kṛṣṇa! Él baña el alma de Bhakti Vinod. Este canto es un almacén de amor por Dios.
 
-
-> page = 217

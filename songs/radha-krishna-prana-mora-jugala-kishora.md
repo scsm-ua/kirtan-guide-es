@@ -1,3 +1,8 @@
+---
+page: 249
+first_line: rādhā-kṛṣṇa prāṇa mora jugala-kiśora
+---
+
 # Sakhī-vṛnde Vijñaptiḥ
 
 > **sakhī-vṛnde** — a las amigas; **vijñaptiḥ** — plegaria.
@@ -58,5 +63,3 @@ Instalaré a la Divina Pareja en un trono lleno de joyas dentro de un agradable 
 
 Narottam Dās, el sirviente del sirviente de Śrī Kṛṣṇa Chaitanya Mahāprabhu, anhela este servicio a la Pareja Divina.
 
-
-> page = 249

@@ -1,3 +1,8 @@
+---
+page: 401
+first_line: jaya jaya girirājer ārati
+---
+
 # Śrī Govinda Kuṇḍa
 # Gupta-Govardhan Ārati
 
@@ -95,5 +100,3 @@ Mediante Tus inconcebibles glorias y magnanimidad, Tú has manifestado Kuliyā (
 
 Tú te manifiestas eternamente como el adorable Señor y como el Señor servidor. Este caído sirviente contempla Tu *ārati* con gran júbilo.
 
-
-> page = 401

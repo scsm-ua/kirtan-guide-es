@@ -1,3 +1,8 @@
+---
+page: 120
+first_line: akrodha paramānda nityānanda rāy
+---
+
 # Akrodha paramānanda
 
 > **akrodha** — libre de ira; **parama-ānanda** — suprema bienaventuranza.
@@ -49,5 +54,3 @@ Al decir esto, el Señor Nityānanda cae al suelo, pareciendo una montaña dorad
 
 Lochan Dās dice que esa persona pecaminosa, en quien no ha surgido apego por esa encarnación, va y viene dentro del ciclo de nacimientos y muertes repetidos.
 
-
-> page = 120

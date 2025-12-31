@@ -1,3 +1,8 @@
+---
+page: 107
+first_line: (ohe) vaiṣṇava ṭhākura dayāra sāgara
+---
+
 # Śrī Vaiṣṇava-mahimā-gīti
 
 > **śrī vaiṣṇava** — venerable devoto; **mahimā** — glorias; **gīti** — canción).
@@ -58,5 +63,3 @@ Kṛṣṇa es tuyo, tú puedes otorgarlo, tienes el poder para hacerlo. Me encu
 
 Corro tras de ti. Corro tras de ti con la esperanza de alcanzar el tesoro de Kṛṣṇa. Si deseas dar a Kṛṣṇa, puedes darlo. Si deseas dar, puedes dar. Kṛṣṇa es la riqueza de tu corazón. Tienes el poder para darnos a Kṛṣṇa. Si sólo deseas dar a Kṛṣṇa, puedes darlo.
 
-
-> page = 107

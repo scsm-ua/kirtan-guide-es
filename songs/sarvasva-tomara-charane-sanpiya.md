@@ -1,3 +1,8 @@
+---
+page: 191
+first_line: sarvasva tomāra, charaṇe sā̐piyā
+---
+
 # Goptṛtve Varaṇa, 3
 
 > **goptṛtve** — guardianía del Señor; **varaṇa** — abrazar.
@@ -59,5 +64,3 @@ Mientras esté sentado o acostado, siempre pensaré en Tus pies. Yo vendré a Ti
 
 Nunca pensaré en mi propio mantenimiento; voy a permanecer siempre dentro del refugio del apego amoroso a Ti. Bhakti Vinod te abraza como su sustendador.
 
-
-> page = 191

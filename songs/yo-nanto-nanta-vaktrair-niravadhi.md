@@ -1,3 +1,8 @@
+---
+page: 382
+first_line: yo ’nanto ’nanta-vaktrair niravadhi
+---
+
 # Śrīman-Nityānanda-Dvādaśakam
 
 > **śrīmad** — su santidad; **nityānanda** — NityānandaPrabhu; **dva-daśakam** — doce oraciones.
@@ -136,5 +141,3 @@ De día y de noche el Señor Chaitanya estaba embriagado con el intenso deseo de
 
 ¡Oh, Nityānanda Prabhu, emperador entre los asociados personales de Śrīman Mahāprabhu! Ten la bondad de otorgarle a esta alma caída una fe profunda y resuelta en esa figura divina y pura que es Śrī Gaurāṅga. La personalidad del Señor Gaurāṅga encarna, de manera exclusiva, el dulce néctar profundamente disfrutado en las melosidades devocionales de los Pasatiempos de Śrī Śrī Rādhā-Kṛṣṇa. Pero si uno pasa por alto Tus pies de loto, entonces todas las llamadas oraciones y rezos destinados a la mayor adoración, se vuelven tan falsos como un sueño. Yo te adoro a ti, Nityānanda-chandra, que abiertamente les das refugio a las almas más caídas, y que con generosidad otorgas la asociación con Śrī Gaurāṅgadev.
 
-
-> page = 382

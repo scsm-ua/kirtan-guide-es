@@ -1,5 +1,7 @@
 ---
-author: Śrīla Jayadev Goswāmī        
+page: 284
+author: Śrīla Jayadev Goswāmī
+first_line: namas te narasiṁhāya
 ---
 
 # Śrī Nṛsiṁha Praṇām
@@ -39,11 +41,9 @@ El Señor Nṛsiṁha está aquí y también allí. Adonde quiera que voy, allí
 > **tava** — Tuya; **kara-kamala-vare** — sobre las hermosas manos de loto; **nakham** — las uñas; **adbhuta-śṛṅgam** — puntas maravillosamente afiladas; **dalita** — desgarrado; **hiraṇyakaśipu-tanu** — el cuerpo del demonio Hiraṇyakaśipu; **bhṛṅgam** — la avispa; **keśava** — ¡oh Señor Keśava, de cabello fino!; **dhṛta-narahari-rūpa** — que has aceptado la forma de mitad hombre, mitad león; (**nara** — hombre; **hari** — señor); **jaya** — ¡todas las glorias a Ti!; **jagat-īśa** — ¡oh Señor del universo!; **hare** — ¡oh Señor Hari!
 
 ¡Oh, Keśava! ¡Oh, Señor del universo! ¡Oh, Señor Hari, quien asumiste la forma mitad hombre, mitad león, todas las glorias a Ti! Tal como uno puede aplastar sin dificultad una abeja entre sus uñas, del mismo modo, el cuerpo como avispa del demonio Hiraṇyakaśipu ha sido desmembrado por las maravillosas uñas puntiagudas de Tus hermosas manos de loto.
-    
+
     (śrī-nṛsiṁha, jaya nṛsiṁha, jaya jaya nṛsiṁha
     prahlādeśa jaya padmā-mukha-padma-bhṛṅga)
 
 (Todas las glorias a Śrī Nṛsiṁha! ¡Todas las glorias al Señor Nṛsiṁhadeva, quien es el Señor de Prahlāda Mahārāj y que como una abeja— está siempre contemplando el rostro de loto de la Diosa de la fortuna).
 
-
-> page = 284

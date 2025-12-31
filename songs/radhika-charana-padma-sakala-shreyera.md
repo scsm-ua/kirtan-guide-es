@@ -1,3 +1,8 @@
+---
+page: 236
+first_line: rādhikā-charaṇa-padma
+---
+
 # Śrī Rādhāṣṭaka, 1
 
 > **śrī** — adorable; **rādhā** — de Śrīmatī Rādhārāṇī; **aṣṭakam** — ocho canciones.
@@ -64,5 +69,3 @@ Sin tomar refugio en los pies de loto de Śrī Rādhā, uno nunca verá a Kṛ�
 
 Tras abandonar la riqueza, los seguidores, la esposa, los hijos, la familia, los amigos, las actividades materiales y el conocimiento intelectual, uno debe absorberse en la dulzura divina del servicio a los pies de Śrī Rādhā como una de Sus sirvientas en *madhura-rasa*. Esta es la solemne declaración de Bhakti Vinod.
 
-
-> page = 236

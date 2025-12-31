@@ -1,3 +1,8 @@
+---
+page: 59
+first_line: jīv jāgo, jīv jāgo, gorāchā̐da bale
+---
+
 # Aruṇodoya-kīrtan
 
 > **aruṇodoya** — del amanecer; **kīrtan** — canto.
@@ -78,7 +83,5 @@ El Señor Gaurāṇga exclama: “¡Despierten, almas durmientes! ¡Despierten, 
 
 > **bhakativinoda** — Bhakti Vinod; **prabhur-charaṇe** — a los pies de loto del Señor Gaurāṅga; **paḍiyā** — cayendo; **sei hari-nāma-mantra** — ese Hari-nāma-mantra; **la-ila** — recibió; **māgiyā** — al orar.
 
-Bhakti Vinod cae a los pies de loto del Señor, ora por el Hari-nāma*mahāmantra* y lo recibe. 
+Bhakti Vinod cae a los pies de loto del Señor, ora por el Hari-nāma*mahāmantra* y lo recibe.
 
-
-> page = 59

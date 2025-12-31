@@ -1,3 +1,8 @@
+---
+page: 162
+first_line: bhajahū̐ re mana śrī-nanda-nandana
+---
+
 # Bhajahū̐ Re Mana
 
 > **bhajahū̐** — adora; **re** — ¡oh!; **mana** — mente.
@@ -48,5 +53,3 @@
 
 ¡Oh! Es el deseo y el gran anhelo de Govinda Dās el ocuparse en los nueve procesos del *bhakti—*escuchar las glorias del Señor Hari y cantar esas glorias, recordarlo constantemente y ofrecerle oraciones, ofrecer servicio a los pies de loto del Señor, servir al Señor Supremo como un sirviente, adorarlo con flores e incienso, etc.; servirle como un amigo y consagrarse uno completamente al Señor.
 
-
-> page = 162

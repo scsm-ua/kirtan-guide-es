@@ -1,3 +1,8 @@
+---
+page: 246
+first_line: (he) deva bhavantaṁ vande
+---
+
 # He deva bhavantaṁ vande
 
 > **he deva** — ¡oh señor; **bhavantaṁ** — a Ti; **vande** — me postro.
@@ -40,5 +45,3 @@ A pesar de que en su *samādhi* el Señor Brahmā no puede obtener un vislumbre 
 
 ¡Oh, eterno Señor! Que el abejorro de mi mente, encontrando allí la más maravillosa dulzura, se mantenga eternamente en la miel de Tus pies de loto, los cuales reprueban el más dulce néctar.
 
-
-> page = 246

@@ -1,3 +1,8 @@
+---
+page: 148
+first_line: ṭhākura-vaiṣṇava-pada
+---
+
 # Vaiṣṇava mahima
 
 > **vaiṣṇava** — devoto; **mahima** — grandeza.
@@ -48,5 +53,3 @@ En los *Purāṇas* se describe el poder purificador de las aguas de los diverso
 
 Momento a momento, mi mente descubre constante deleite en la asociación de los Vaiṣṇavas. Yo siempre busco la compañía de los devotos del Señor Kṛṣṇa. Narottam Dās, cuyo corazón es pobre, exclama: “Ya no puedo mantener mi calma. ¿Por qué he caído en una condición de vida tan baja que no puedo obtener la asociación de los Vaiṣṇavas?”
 
-
-> page = 148

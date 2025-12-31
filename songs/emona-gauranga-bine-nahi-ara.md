@@ -1,3 +1,8 @@
+---
+page: 393
+first_line: emona gaurāṅga bine
+---
+
 # Emona Gaurāṅga bine nāhi āra
 
 > **emona** — tal como; **gaurāṅga** — Gaurāṅga; **bine** — sin él; **nāhi** — no hay; **āra** — más.
@@ -34,7 +39,7 @@
 
 > **bhava** — éxtasis; **biriñchira** — a Brahmā (o semidioses); **vāñchito** — deseo; **je prema** — del amor; **jagata** — del mundo; **phelilo** — dejó; **ḍhāli** — inclinarse; **kāṅgāle** — de mendigos; **pāiyā** — obtener; **khā-ilo** — tomaron; **nāchiye** — danzar; **bājāiye** — tocaron; **karatāli** — aplaudir.
 
-Generosamente, le dio a la gente el extraordinario regalo del amor extático por Dios, un regalo que incluso Brahmā y Śiva únicamente lo consiguen con gran dificultad. Cuando recibieron ese regalo, las pobres personas de este mundo bailaron y aplaudieron. 
+Generosamente, le dio a la gente el extraordinario regalo del amor extático por Dios, un regalo que incluso Brahmā y Śiva únicamente lo consiguen con gran dificultad. Cuando recibieron ese regalo, las pobres personas de este mundo bailaron y aplaudieron.
 
 #### 4
 
@@ -56,7 +61,5 @@ Ellos rieron y lloraron; embargados de éxtasis, rodaron por el suelo. Los vello
 
 > **ḍākiye** — cantar fuerte; **hā̐kiye** — tocando; **khol** — el tambor (*mṛdaṅga*); **karatāle** — címbalos; **gāiye** — cantaron; **dhāiye** — corrieron; **phire** — deambular; **dekhiyā** — viendo; **śamana** — igual; **tarāsa** — rápidamente; **pāiye** — obtener; **kapaṭa** — la puerta; **hānilo** — tocó; **dvāre** — a la puerta.
 
-Cantaron fuertemente los Santos Nombres tocando las *mṛdaṅgas* y los címbalos. Cantaron, corrieron y bailaron en un círculo. Al ver esto, la tranquila serenidad tuvo miedo, huyó y tocó las puertas de la gente. 
+Cantaron fuertemente los Santos Nombres tocando las *mṛdaṅgas* y los címbalos. Cantaron, corrieron y bailaron en un círculo. Al ver esto, la tranquila serenidad tuvo miedo, huyó y tocó las puertas de la gente.
 
-
-> page = 393

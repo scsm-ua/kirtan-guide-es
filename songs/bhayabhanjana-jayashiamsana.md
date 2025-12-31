@@ -1,3 +1,8 @@
+---
+page: 269
+first_line: bhayabhañjana-jayaśaṁsana-karuṇāyata
+---
+
 # Śrī Dayita Dās Praṇati Pañchakam
 
 > **śrī dayita dās** — adorable sirviente de Dayita Dās; **praṇati** — obediencias; **pañchakam** — cinco oraciones.
@@ -69,5 +74,3 @@ En la ribera del Śrī Rādhā Kuṇḍa en Svānanda Sukhada Kuñja, él está 
 
 Él es la alegría inmaculada encarnada o es la gracia o la alegría de Vimalā Devī. Manifestó los Pasatiempos de su advenimiento en Puruṣottam Kṣetra en la sagrada tierra de Orissa, y reveló sus Pasatiempos de liberar a las almas caídas y de extender su misericordia sobre ellas (por otorgarles el regalo del amor divino) en las “nueve islas” (Nabadwīp). Llevando a cabo la circunvalación de Gaura Dhām de la misma manera que se hace tradicionalmente en Vraja Dhām y en Puruṣottam Dhām, él continuamente propaga el amoroso deseo de Vraja, la morada divina de Vaikuṇṭha, y el Santo Nombre de Kṛṣṇa. En el sagrado día de su advenimiento, yo (una y otra vez) ofrezco mis reverencias ante ese querido asociado de Śrī Vṛṣabhānunandinī y ante los sirvientes de sus pies de loto.
 
-
-> page = 269

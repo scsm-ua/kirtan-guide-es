@@ -1,5 +1,7 @@
 ---
+page: 39
 author: Śrīpād B. A. Paramahaṁsa Mahārāj
+first_line: jaya jaya gurudever ārati ujjvala
 ---
 
 # Śrī Guru Ārati
@@ -87,7 +89,7 @@ Has establecido muchos *aśrams* en todo el mundo para enseñar y predicar el *p
 
 > **chintya** — concebible; **achintya** — inconcebible; **veda** — de los *Vedas*; **jñāne** — a través del conocimiento; **tumi** — tú; **adhikārī** — calificación; **sakala** — todos; **saṁśaya** — duda; **chhettvā** — cortar, destruir; **su-siddhānta** — conclusiones genuinas; **dhārī** — sostener.
 
-Eres un experto en el conocimiento Védico, tanto concebible como inconcebible. Destruyes toda duda y representas las enseñanzas genuinas. 
+Eres un experto en el conocimiento Védico, tanto concebible como inconcebible. Destruyes toda duda y representas las enseñanzas genuinas.
 
 #### 10
 
@@ -114,7 +116,7 @@ Eres el salvador de los caídos y una brisa de misericordia. Eres veráz, sobrio
 
 > **apūrva** — maravilloso; **lekhanī** — escritos; **dhārā** — corriente; **pragāḍha** — intenso, profundo; **pāṇḍitya** — erudición; **sadā** — siempre; **hāsya** — sonreir; **miṣṭa** — muy dulce; **bhāṣī** — hablar; **su-śīla** — bien hecho; **kavitva** — poesía.
 
-Tus escritos son maravillosos, y tu erudición es profunda. Siempre sonries y hablas dulces palabras. Tu poesía es perfecta. 
+Tus escritos son maravillosos, y tu erudición es profunda. Siempre sonries y hablas dulces palabras. Tu poesía es perfecta.
 
 #### 13
 
@@ -132,7 +134,7 @@ Siempre estás feliz en la asociación de los *sādhus*. Eres simple y humilde. 
 
 > **gauḍīya** — Vaiṣṇava de Bengal; **gagane** — en el cielo; **tumi** — tú; **āchārya** — el que instruye; **bhāskara** — el sol; **nirantara** — constantemente; **sevā** — servicio; **priya** — querido; **miṣṭa** — muy dulce; **kaṇṭhasvara** — voz melodiosa.
 
-En el cielo de los Gauḍīya Vaiṣṇavas, eres un preceptor como el sol. Siempre gustas del servicio y tu voz es melodiosa y dulce. 
+En el cielo de los Gauḍīya Vaiṣṇavas, eres un preceptor como el sol. Siempre gustas del servicio y tu voz es melodiosa y dulce.
 
 #### 15
 
@@ -150,7 +152,5 @@ En el pasado, el presente y el futuro, este sirviente ora por tu misericordia, d
 
 > **kṛpā** — misericordia; **kara** — otorga; **ohe** — ¡oh!; **prabhu** — maestro, señor; **śrī-gaura** — Śrī Gaurāṅga (el Señor Dorado); **prakāśa** — manifestación; **ārati** — ceremonia; **karaye** — hacer, realizar; **sadā** — siempre; **e** — este; **adhama** — caído; **dāsa** — sirviente.
 
-Sé misericordioso, ¡Oh señor, manifestación de Śrī Gaurāṅga! Este sirviente caído te adora siempre. 
+Sé misericordioso, ¡Oh señor, manifestación de Śrī Gaurāṅga! Este sirviente caído te adora siempre.
 
-
-> page = 39

@@ -1,3 +1,8 @@
+---
+page: 185
+first_line: ātma-nivedana, tuyā pade kori
+---
+
 # Ātma-nivedana
 
 > **ātma** — alma; **nivedana** — sumisión.
@@ -24,7 +29,7 @@ Al entregarme a Tus pies, me he vuelto supremamente feliz. Toda mi angustia se h
 
 > **aśoka** — de alegría; **abhaya** — de valentía; **amṛta** — de inmortalidad; **ādhāra** — reservorio; **tomāra** — Tus; **charaṇa** — pies; **dvaya** — dos; **tāhāte** — en ellos; **ekhana** — ahora; **viśrāma** — reposa; **labhiyā** — obtener; **chhāḍinu** — abandoné; **bhavera** — de la existencia material, cíclo de nacimiento y muerte; **bhaya** — temor.
 
-Tus pies son la morada de la alegría, la valentía y la inmortalidad. Al recibir refugio bajo ellos, he abandonado todo temor a la existencia material. 
+Tus pies son la morada de la alegría, la valentía y la inmortalidad. Al recibir refugio bajo ellos, he abandonado todo temor a la existencia material.
 
 #### 3
 
@@ -70,5 +75,3 @@ Sintiendo la felicidad de Tu servicio en mi corazón, he olvidado completamente 
 
 Inmerso en el éxtasis de Tu servicio, Bhakti Vinod realiza todos sus esfuerzos conforme a Tu voluntad, residiendo dentro de Tu hogar.
 
-
-> page = 185

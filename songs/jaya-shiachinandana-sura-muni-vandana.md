@@ -1,3 +1,8 @@
+---
+page: 53
+first_line: jaya śachī-nandana sura-muni-vandana
+---
+
 # Śrī Śachīnandana-vandanā
 
 > **śrī śachīnandana** — al querido hijo de Śachī; **vandanā** — oraciones.
@@ -48,5 +53,3 @@ Toda gloria a Sītā Ṭhākurāṇī y a Śrī Advaita Āchārya. Toda gloria a
 
 Toda gloria a Murāri Gupta y toda gloria a Mukunda Datta. ¡Toda gloria a todos los asociados eternos de Śrī Śachī Nandan! Ofrezco mi reverencia a sus pies. Por su misericordia a esta alma caída, sirvo a Śrīla Prabhupād y a sus asociados.
 
-
-> page = 53

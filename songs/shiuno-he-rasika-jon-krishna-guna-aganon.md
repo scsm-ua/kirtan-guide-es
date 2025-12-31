@@ -1,3 +1,8 @@
+---
+page: 256
+first_line: śuno, he rasika jana kṛṣṇa guṇa agaṇon
+---
+
 # Guṇa-Kīrtan
 
 > **guṇa** — las cualidades del Señor; **kīrtan** — glorificación.
@@ -59,5 +64,3 @@ Kṛṣṇa otorga eventualmente la joya de la independencia a esas personas que
 
 Kṛṣṇa es el amigo más querido y el esposo de aquellos que están siempre apegados a beber de la fuente de las lágrimas extáticas de amor. Así, la meta de este muy caído y humilde Bhakti Vinod es vivir con semejantes residentes de Vraja en la morada de la suprema auspiciosidad.
 
-
-> page = 256

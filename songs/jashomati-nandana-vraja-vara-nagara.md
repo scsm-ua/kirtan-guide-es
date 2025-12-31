@@ -1,3 +1,8 @@
+---
+page: 52
+first_line: yaśomatī-nandana vraja-vara-nāgara
+---
+
 # Śrī Nāma-kīrtan
 
 > **śrī nāma** — de los nombres (de Kṛṣṇa); **kīrtan** — canto.
@@ -47,5 +52,3 @@ Kṛṣṇa es el protector de los habitantes de Vṛndāvan y quien aniquila a 
 
 Mientras paseaba por la ribera del río Yamunā, Kṛṣṇa robó los vestidos de las *gopīs* mientras ellas se bañaban. Él disfruta las melosidades de la danza del *rāsa*; es muy misericordioso, es el querido amante de Śrīmatī Rādhārāṇī, el gran bailarín de Vṛndāvan y el refugio supremo de Śrīla Bhakti Vinod Ṭhākur.
 
-
-> page = 52

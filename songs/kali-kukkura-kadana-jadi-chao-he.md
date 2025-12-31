@@ -1,3 +1,8 @@
+---
+page: 50
+first_line: kali-kukkura-kadana yadi chāo he
+---
+
 # Prabhāti Gīti
 
 > **prabhāti** — matutina; **gīti** — canción.
@@ -45,7 +50,7 @@ Mahāprabhu es la luna de Nadia, el Señor de Māyāpur y el héroe salvador qui
 
 > **sārvabhauma** — de Sārvabhauma; **śodhana** — purificación; **gajapati** — el rey de Orissa; **tāraṇa** — liberador; **rāmānanda** — de Rāmānanda Rāy; **poṣaṇa** — sustentador; **vīra** — héroe; **rūpa** — de Śrī Rūpa; **ānanda** — éxtasis; **vardhana** — incrementa; **sanātana** — de Sanātan Goswāmī; **pālana** — protector; **haridāsa** — de Haridās Ṭhākur; **modana** — nutre; **dhīra** — sobrio.
 
-Él purificó a Sārvabhauma Bhaṭṭāchārya y rescató a Mahārāj Pratāparudra, el gran rey de Orissa. Es el héroe y protector de Rāmānanda Rāya. Incrementa el éxtasis de Śrīla Rūpa Goswāmī, es el guardián de Sanātan Goswāmī y deleita al sobrio Haridās Ṭhākur. 
+Él purificó a Sārvabhauma Bhaṭṭāchārya y rescató a Mahārāj Pratāparudra, el gran rey de Orissa. Es el héroe y protector de Rāmānanda Rāya. Incrementa el éxtasis de Śrīla Rūpa Goswāmī, es el guardián de Sanātan Goswāmī y deleita al sobrio Haridās Ṭhākur.
 
 #### 5
 
@@ -58,5 +63,3 @@ Mahāprabhu es la luna de Nadia, el Señor de Māyāpur y el héroe salvador qui
 
 Śrī Kṛṣṇa Chaitanya está absorto en las melosidades de Vṛndāvan. Remueve los pensamientos contaminados de la mente, destruyendo la lujuria y el engaño. Aleja el árido conocimiento empírico que nubla la belleza de la devoción pura. Es el protector, el mantenedor y el constante guardián de Sus devotos puros.
 
-
-> page = 50

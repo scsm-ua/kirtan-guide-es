@@ -1,3 +1,8 @@
+---
+page: 152
+first_line: kṛpa koro’ vaiṣṇava ṭhākura
+---
+
 # Prārthanā Lalasāmayi
 
 > **prārthana** — oraciones; **lalasāmayi** — de anhelo.
@@ -56,7 +61,5 @@ Si les brindo los remanentes de mi comida a otros, me consideraré superior y qu
 
 > **amānī** — sin orgullo; **mānada** — respetuoso; **hoile** — es; **kīrttane** — del *kīrtan*; **adhikār** — calificación; **dibe** — dará; **tumi** — tú; **tomāra** — de ti; **charaṇe** — a los pies; **niskapate** — sinceramente; **āmi** — yo; **kā̐diyā** — llorar; **luṭibo** — rodar; **bhūmi** — en el suelo.
 
-Si me concedes la capacidad de cantar el Santo Nombre, entonces honraré a los demás sin esperar respeto para mí. De esa manera, lloraré sinceramente, con éxtasis, mientras ruedo por el piso a tus pies de loto. 
+Si me concedes la capacidad de cantar el Santo Nombre, entonces honraré a los demás sin esperar respeto para mí. De esa manera, lloraré sinceramente, con éxtasis, mientras ruedo por el piso a tus pies de loto.
 
-
-> page = 152

@@ -1,3 +1,8 @@
+---
+page: 133
+first_line: gāy gorā madhur svare
+---
+
 # Śrī Nāma
 
 > **śrī** — adorable; **nāma** — el nombre.
@@ -41,5 +46,3 @@ Atrapado en la red de Māyā, has trabajado duro como un esclavo, en vano. Ahora
 
 Sin duda, esta vida pronto se acabará, y no has adorado a Hṛṣīkeśa, el amo de los sentidos. Bhakti Vinod te aconseja: Por lo menos una vez, prueba el* nāma-rāsa*, el néctar del Santo Nombre.
 
-
-> page = 133

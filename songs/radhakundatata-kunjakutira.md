@@ -1,3 +1,8 @@
+---
+page: 242
+first_line: rādhā-kuṇḍa-taṭa-kuñja-kuṭīra
+---
+
 # Ānukūlyātmikā, 4
 
 > **ānukula** — favorable; **atmikā** — aceptación.
@@ -56,7 +61,7 @@ La flauta *veṇu*, el cuerno de búfalo, las huellas, las filas de nubes, la pr
 
 > **yugala** — de la Divina Pareja; **vilāse** — en los Pasatiempos; **anukūla** — favorable; **jāni** — yo sé; **līlā-vilāsa** — Sus Pasatiempos de amor; **uddīpaka** — estimula; **māni** — yo sé.
 
-Sé que todas estas cosas son favorables a los Pasatiempos de la Pareja Divina. Sé que todos ellos estimulan Sus pasatiempos amorosos. 
+Sé que todas estas cosas son favorables a los Pasatiempos de la Pareja Divina. Sé que todos ellos estimulan Sus pasatiempos amorosos.
 
 #### 7
 
@@ -76,5 +81,3 @@ Nunca abandonaré estas cosas e iré a otra parte. Perderé mi vida si las aband
 
 Bhakti Vinod dice: “Por favor, escucha, ¡Oh Kāna! Todas estas cosas que me recuerdan a Ti, son mi vida y mi alma”.
 
-
-> page = 242

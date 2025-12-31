@@ -1,3 +1,8 @@
+---
+page: 129
+first_line: gaura pahū̐ nā bhajiyā mainu
+---
+
 # Gaura Pahū̐
 
 > **gaura** — Gaurāṅga; **pahū̐** — el Señor.
@@ -49,5 +54,3 @@ Siempre he bebido el horrible veneno de la gratificación de los sentidos y nunc
 
 ¡Oh! ¿Por qué mi corazón no experimenta satisfacción alguna y por qué Narottam Dās no ha muerto?
 
-
-> page = 129

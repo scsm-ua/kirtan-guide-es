@@ -1,3 +1,8 @@
+---
+page: 211
+first_line: anya-abhilāsa chāḍi jñāna karma parihari
+---
+
 # Anya-abhilāṣa chāḍi
 
 > **anya-abhilāṣa** — los deseos; **chāḍi** — abandonar.
@@ -180,5 +185,3 @@ Por favor, abandona la duplicidad, las actividades ilusorias y la búsqueda de l
 
 Ocúpate continuamente en el sendero de la adoración devocional y desarrolla apego por glorificar los Pasatiempos del Señor Kṛṣṇa en Vṛndāvan. A este proceso de servicio devocional se le conoce como servicio devocional firme. El principal ejemplo de esto es Hanumān.
 
-
-> page = 211

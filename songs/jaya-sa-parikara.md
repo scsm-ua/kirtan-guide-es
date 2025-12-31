@@ -1,5 +1,7 @@
 ---
+page: 20
 no-author: 1
+first_line: jay sa-parikara
 ---
 
 # Jay Dhvani
@@ -262,5 +264,3 @@ Podemos recitar además el nombre de las Deidades locales del Śrī Chaitanya S�
 
 > **nitāi** — de Nityanānda Prabhu; **gaura** — de Mahāprabhu; **prema-ānande** — el júbilo del amor divino; **kī** — que así sea; **¡jay!** — ¡toda gloria! ¡; **haribol!** — ¡canta el nombre de Hari!
 
-
-> page = 20

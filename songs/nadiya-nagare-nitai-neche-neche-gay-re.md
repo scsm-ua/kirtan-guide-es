@@ -1,3 +1,8 @@
+---
+page: 289
+first_line: nadīyā-nagare nitāi neche neche gāy re
+---
+
 # Śrīman Mahāprabhur śata-nāma
 
 > **śrīman** — su divina gracia; **mahāprabhur** — de Mahāprabhu; **śata-nāma** — cien nombres.
@@ -235,5 +240,3 @@ Redimió a los *sannyāsīs* Māyāvādīs de Kāśī, y Él es quien otorga el 
 
 En los pueblos y aldeas de Nadia, el Señor Nityānanda baila en éxtasis, cantando estos divinos Nombres, y Ṭhākur Bhaktivinod cae a Sus rojizos pies de loto.
 
-
-> page = 289

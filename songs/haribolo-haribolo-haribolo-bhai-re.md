@@ -1,3 +1,8 @@
+---
+page: 125
+first_line: hari bolo hari bolo bhāi re
+---
+
 # Śrī Nāma Kīrtan 3
 
 > **śrī** — divino; **nāma** — el nombre; **kīrtan** — glorificación.
@@ -57,5 +62,3 @@
 
 Bailo en éxtasis debido al poder y las cualidades divinas del santo nombre, ¡y así obtengo todos estos resultados! (¡Habiendo renunciado a todos los esfuerzos por resultados materiales insignificantes!) Bhaktivinoda dice: "¡Yo venzo todos los impedimentos para el canto puro del santo nombre! (¡Habiendo renunciado a todas las ofensas al santo nombre!)”.
 
-
-> page = 125

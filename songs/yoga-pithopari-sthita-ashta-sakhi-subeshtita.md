@@ -1,10 +1,15 @@
+---
+page: 232
+first_line: yoga-pīṭhopari-sthita
+---
+
 # Śrī Śikṣāṣṭakam
 
 > **śrī** — adorable; **śikṣa** — instrucciones; **aṣṭakam** — ocho versos.
 
-### Śrīla Bhakti Vinod Ṭhākur
-
 ## Canción 8 (b)
+
+### Śrīla Bhakti Vinod Ṭhākur
 
 #### 1
 
@@ -77,5 +82,3 @@ Rādhā y Kṛṣṇa son mi vida y alma, en la vida o en la muerte; sea que Ell
 
 Bhaktivinod no conoce otra cosa. Cayendo a los pies de la *sakhī*, Bhakti Vinod permanece entre las íntimas confidentes de Śrī Rādhā. Los pies de loto de Śrī Rādhā y Kṛṣṇa son el anhelo eterno de Bhakti Vinod.
 
-
-> page = 232

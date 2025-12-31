@@ -1,3 +1,8 @@
+---
+page: 295
+first_line: nagare nagare gorā gāy
+---
+
 # Śrī Kṛṣṇera Vīṁsottara-śata-nāma
 
 > **śrī** — adorable; **kṛṣṇera** — de Kṛṣṇa; **vīṁsottara** — veinte y más; **śata-nāma** — cien nombres.
@@ -233,5 +238,3 @@ El Señor Kṛṣṇa es el purificador de todas las almas caídas, el Señor de
 
 El Señor Chaitanya canta estos nombres de Kṛṣṇa de aldea en aldea, y Ṭhākur Bhakti Vinod cae a Sus pies de loto.
 
-
-> page = 295

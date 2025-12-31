@@ -1,3 +1,8 @@
+---
+page: 174
+first_line: emana durmati saṁsāra bhitare
+---
+
 # Dainyātmikā
 
 > **dainya** — humildad; **atmikā** — resoluta.
@@ -72,5 +77,3 @@ Para cumplir la promesa de los *Vedas*, Él descendió con una tez dorada, como 
 
 ¡Oh Señor! Al escuchar esas palabras, Bhakti Vinod vino hasta las plantas de Tus pies de loto. Llorando, el narra la historia de su vida.
 
-
-> page = 174

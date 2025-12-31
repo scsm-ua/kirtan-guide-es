@@ -1,3 +1,8 @@
+---
+page: 138
+first_line: aruṇa vasane sonara sūraja
+---
+
 # Śrī Śrī Gaurasundarer Avirbhāva Vasare
 
 > **śrī śrī** — su señoría; **gaurasundar** — de Śrī Gaurasundar; **avirbhāva** — aparición; **vasare** — el día.
@@ -125,5 +130,3 @@ Todo aquel que se ocupa en este *nāma saṅkīrtan* de Mahāprabhu, llega a inq
 
 Esa es mi oración al vaquero oscuro, Śyāmasundar, quien adoptó el humor y la refulgencia de Śrī Rādhā. Ese Señor, Śrī Chaitanya, apareció junto con el canto puro del divino Nombre; todos cantan las glorias de ese Señor Dorado, Śrī Chaitanya Mahāprabhu.
 
-
-> page = 138

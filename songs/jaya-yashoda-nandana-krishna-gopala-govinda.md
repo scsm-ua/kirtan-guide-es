@@ -1,3 +1,8 @@
+---
+page: 258
+first_line: jaya jaśodā-nandana kṛṣṇa gopāla govinda
+---
+
 # Jaya Yaśodā-Nandana Kṛṣṇa
 
 > **jaya** — toda gloria; **yaśodā-nandana** — el hijo de Yaśodā; **kṛṣṇa** — Kṛṣṇa.
@@ -22,5 +27,3 @@
 
 ¡Todas las glorias al Señor infalible, el esposo de la diosa de la fortuna, el disfrutador supremo y la luna de Vṛndāvan! ¡Todas las glorias a Kṛṣṇa, quien siempre lleva una flauta a Sus labios, quien es del color de una nube de lluvia azul oscuro, y quien es la felicidad de las *gopīs*!
 
-
-> page = 258

@@ -1,3 +1,8 @@
+---
+page: 198
+first_line: gopīnāth, mama nivedana śuno
+---
+
 # Nivedana
 
 > **nivedana** — súplica.
@@ -86,5 +91,3 @@
 
 ¡Oh, Gopīnāth! Soy tan pecaminoso que, aunque todos los demonios han alcanzado Tus pies de loto, Bhakti Vinod permanece en la existencia material.
 
-
-> page = 198

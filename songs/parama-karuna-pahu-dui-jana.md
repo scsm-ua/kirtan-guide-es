@@ -1,3 +1,8 @@
+---
+page: 121
+first_line: parama karuṇa, pahū̐ dūi jana
+---
+
 # Śrī Śrī Gaura Nityānander Doyā
 
 > **śrī śrī** — sus señorías; **gaura nityānander** — de Gaura y Nityānanda; **doyā** — gracia.
@@ -56,5 +61,3 @@ El Señor Gaurāṅga y el Señor Nityānanda son los dos Señores más miserico
 
 Absorto en el ciclo del nacimiento y la muerte, caído a la mitad del camino sin una esperanza de alcanzar Su compañía, el señor de la muerte vendrá y te hará sufrir los resultados de tus actividades; así canta Lochan Dās.
 
-
-> page = 121

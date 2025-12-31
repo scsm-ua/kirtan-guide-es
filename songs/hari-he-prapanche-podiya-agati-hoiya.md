@@ -1,3 +1,8 @@
+---
+page: 180
+first_line: hari he! prapañche paḍiyā, agati ha-iyā
+---
+
 # Bhajana-Lālasā, 1
 
 > **bhajana** — adoración; **lālasā** — anhelo.
@@ -49,5 +54,3 @@ Uniéndose y arrojándome a la deriva en el océano de la existencia material, l
 
 He renunciado a la esperanza de someter estos impulsos por mis esfuerzos persistentes. ¡Oh Señor de los desamparados! Digo Tu Nombre. Ahora eres mi única esperanza.
 
-
-> page = 180

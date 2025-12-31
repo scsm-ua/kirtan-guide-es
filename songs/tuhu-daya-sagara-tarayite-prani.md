@@ -1,10 +1,15 @@
+---
+page: 219
+first_line: tuhū̐ doyā-sāgara tārayite prāṇī
+---
+
 # Śrī Śikṣāṣṭakam
 
 > **śrī** — adorable; **śikṣa** — instrucciones; **aṣṭakam** — ocho versos.
 
-### Śrīla Bhakti Vinod Ṭhākur
-
 ## Canción 2
+
+### Śrīla Bhakti Vinod Ṭhākur
 
     nāmnām akāri bahudhā nija-sarva-śaktis
     tatrārpitā niyamitaḥ smaraṇe na kālaḥ
@@ -58,7 +63,5 @@ Esta es Tu misericordia, ¡oh, Señor! Eres supremamente bondadoso, pero, ¡oh, 
 
 > **nāhi** — no; **janamalo** — esplendidamente manifiesto; **nāme** — del nombre; **anurāga** — amor; **mora** — mío; **bhaktivinoda-chitta** — el corazón de Bhakti Vinod; **duḥkhe** — con tristeza; **bibhora** — sobrepasar.
 
-Nunca he sentido atracción alguna hacia los Santos Nombres. Por lo tanto, el corazón de Bhakti Vinod está lleno de tristeza. 
+Nunca he sentido atracción alguna hacia los Santos Nombres. Por lo tanto, el corazón de Bhakti Vinod está lleno de tristeza.
 
-
-> page = 219

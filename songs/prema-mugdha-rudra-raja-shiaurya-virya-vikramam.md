@@ -1,3 +1,9 @@
+---
+inline verse: non bold
+page: 338
+first_line: prema-mugdha-rudra-rāja-śaurya-vīrya-vikramaṁ
+---
+
 # Śrī Śrī Premadhāma-deva-stotram
 
 > **śrī śrī** — el más adorable; **prema-dhāma** — morada del amor divino; **deva** — del Señor; **stotram** — oraciones.
@@ -123,7 +129,3 @@ Cuando paseaba por los bosquecillos de Vṛndāvan, el Señor fue recibido con b
 
 Colmado desesperadamente por una ola de amor puro, el Señor Gaurasundar danzó y cantó frenéticamente los Santos Nombres de Kṛṣṇa. Una corriente abundante de lágrimas emanaba de Sus ojos, cayendo sobre la refulgencia de Su gigante forma dorada, sobre Sus brillantes vestiduras que semejaban al sol y sobre el piso en las cuatro direcciones. Los gozosos pasatiempos del Señor eran realzados extáticamente con las gesticulaciones de Su pronunciación incorrecta y enloquecida de los Santos Nombres de Kṛṣṇa, o con Su ruidosa risa cuando estaba absorto en una emoción profunda. Ofrezco mis reverencias a ese hermoso Señor Dorado, Gaurāṅga Sundar, la forma divina del Kṛṣṇa prema.
 
-
-> inline verse = non bold
-
-> page = 338

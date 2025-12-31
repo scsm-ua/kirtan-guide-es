@@ -1,3 +1,8 @@
+---
+page: 400
+first_line: samudra sambhavā
+---
+
 # Śrī Govinda Kuṇḍa Māhātmya
 
 ### Śrīla Bhakti Sundar Govinda Dev-Goswāmī Mahārāj
@@ -23,5 +28,3 @@
 
 5) Quienquiera que se bañe en el Śrī Govinda Kuṇḍa, deseando servir a Kṛṣṇa, alcanza el servicio divino a Śrī Śrī Rādhā-Kṛṣṇa en Gupta Govardhan (la colina de Govardhan, oculta).
 
-
-> page = 400

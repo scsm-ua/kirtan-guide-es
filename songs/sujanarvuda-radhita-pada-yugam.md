@@ -1,3 +1,8 @@
+---
+page: 109
+first_line: sujanārvvuda-rādhita-pāda-yugaṁ
+---
+
 # Śrī Śrīla Prabhupāda-padma Stavakaḥ
 
 > **śrī śrīla** — su señoría; **prabhu-pāda** — los pies del señor adorable; **padma** — loto; **stavakaḥ** — orar.
@@ -125,5 +130,3 @@ La joya principal de los *paramahaṁsas*, el Príncipe del tesoro de la perfecc
 
 Él es el seguidor más querido e íntimo de la Divina Hija de Śrī Vṛṣabhānu, y me considero el más afortunado por tomar el polvo de sus sagrados pies sobre mi cabeza. Ofrezco mis reverencias ante sus invencibles, maravillosamente purificadores pies de loto. Perpetuamente ofrezco mis reverencias ante el resplandor que emana de las uñas de los santos pies de mi Señor.
 
-
-> page = 109

@@ -1,3 +1,8 @@
+---
+page: 154
+first_line: nārada muni, bājāya vīṇā
+---
+
 # Śrī Namāṣṭakam 8
 
 > **śrī** — adorable; **namā** — del nombre; **aṣṭakam** — oraciones.
@@ -70,5 +75,3 @@ Ananta Śeṣa, quien posee innumerables bocas, con felicidad suprema canta y ex
 
 El Santo Nombre de Śrī Kṛṣṇa ha cumplido todos mis deseos por manifestarse en la lengua de todos. Bhakti Vinod, el humilde sirviente del Señor, ora a los pies de Śrī Rūpa Goswāmī para que el canto de Harinām continúe siempre de esa manera.
 
-
-> page = 154

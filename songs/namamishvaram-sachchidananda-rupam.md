@@ -1,3 +1,8 @@
+---
+page: 285
+first_line: namāmīśvaraṁ sachchidānanda rūpaṁ
+---
+
 # Śrī Śrī Dāmodarāṣṭakam
 
 > **śrī śrī** — adorable; **dāmodar** — Kṛṣṇa; **aṣṭakam** — ocho oraciones.
@@ -90,7 +95,5 @@ Al Señor Supremo, cuya forma es la personificación de la existencia, el conoci
 
 > **namaḥ** — reverencias; **te** — a ti; **astu** — que exista; **dāmne** — a la cuerda alrededor de Tu cintura; **sphurat** — esplendoroso; **dīpti-dhāmne** — a la morada refulgente; **tvadīya-udarāya** — a Tu abdomen; **atha** — así; **viśvasya** — del universo entero; **dhāmne** — al refugio; **namaḥ** — reverencias; **rādhikāyai** — a Rādhikā; **tvadīya priyāyai** — a Tu amada; **namaḥ** — reverencias; **ananta-līlāya** — a Tus ilimitados pasatiempos juguetones; **devāya** — a Tu naturaleza trascendental; **tubhyam** — a Ti.
 
-¡Oh, Señor Dāmodar! Primero que todo ofrezco mis reverencias a la cuerda brillantemente refulgente que ata Tu abdomen. Luego, ofrezco mis reverencias a Tu abdomen, que es la morada del universo entero. Me postro humildemente ante Tu más amada, Śrīmatī Rādhārāṇī, y te ofrezco toda reverencia a Ti, el Señor Supremo, quien manifiesta ilimitados pasatiempos. 
+¡Oh, Señor Dāmodar! Primero que todo ofrezco mis reverencias a la cuerda brillantemente refulgente que ata Tu abdomen. Luego, ofrezco mis reverencias a Tu abdomen, que es la morada del universo entero. Me postro humildemente ante Tu más amada, Śrīmatī Rādhārāṇī, y te ofrezco toda reverencia a Ti, el Señor Supremo, quien manifiesta ilimitados pasatiempos.
 
-
-> page = 285

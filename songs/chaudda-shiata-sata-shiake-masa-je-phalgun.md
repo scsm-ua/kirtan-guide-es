@@ -1,3 +1,8 @@
+---
+page: 307
+first_line: chaudda-śata sāta-śake māsa je phālgun
+---
+
 # Śrī Gaura-Purṇīmā
 
 > **śrī gaura** — adorable Gaurāṅga; **purṇīmā** — luna llena.
@@ -85,7 +90,7 @@ Mientras todas las mujeres hacían vibrar el Santo Nombre de Hari en la Tierra, 
 
 > **prasanna** — alborozadas; **haila** — se volvieron; **daśa** — diez; **dik** — direcciones; **prasanna** — satisfecha; **nadī-jala** — el agua de los ríos; **sthāvara** — inmóviles; **jaṅgama** — móviles; **haila** — se volvieron; **ānande** — de júbilo; **vihvala** — sobrecogidos.
 
-En esa atmósfera, las diez direcciones estaban alborozadas, como también lo estaban las olas de los ríos. Por otra parte, todos los seres móviles e inmóviles estaban colmados de dicha trascendental. 
+En esa atmósfera, las diez direcciones estaban alborozadas, como también lo estaban las olas de los ríos. Por otra parte, todos los seres móviles e inmóviles estaban colmados de dicha trascendental.
 
 #### 98
 
@@ -384,5 +389,3 @@ Todo aquel que obtiene un cuerpo humano pero que no aproveche la oportunidad de 
 
 Poniendo sobre mi cabeza como mi propia riqueza los pies de loto de Śrī Chaitanya Mahāprabhu, Śrī Nityānanda Prabhu, Āchārya Advaita-chandra, Śrī Svarūp Dāmodar, Śrī Rūpa y Śrī Raghunāth y todos los devotos de Mahāprabhu, yo, Kṛṣṇa Dās, he cantado las glorias de la aparición del Señor.
 
-
-> page = 307

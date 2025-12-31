@@ -1,3 +1,8 @@
+---
+page: 413
+first_line: chit-kaṇa jīva kṛṣṇa
+---
+
 # Jīva-gati
 
 > **jīva** — el alma; **gati** — viaje.
@@ -132,5 +137,3 @@ Tan solo quiero cantar el Nombre de Kṛṣṇa en la asociación de los *sādhu
 
 Renunciando a todas las demás perspectivas, el sirviente de Gorā, Jagāi, se sienta sintiendo esperanza a los pies de Gorā.
 
-
-> page = 413
