@@ -1,10 +1,15 @@
+---
+page: 229
+first_line: gāite ‘govinda’-nām, upajilo bhāva grām
+---
+
 # Śrī Śikṣāṣṭakam
 
 > **śrī** — adorable; **śikṣa** — instrucciones; **aṣṭakam** — ocho versos.
 
-### Śrīla Bhakti Vinod Ṭhākur
-
 ## Canción 7 (b)
+
+### Śrīla Bhakti Vinod Ṭhākur
 
 #### 1
 
@@ -28,5 +33,3 @@ Y mientras cantaba el nombre de Govinda un sinnúmero de éxtasis surgieron dent
 
 Al ver esto, mi mente quedó pasmada. Perdí el sentido. Estuve desmayado, inconsciente del tiempo. Cuando desperté, tras un tiempo incalculable, la preciosa Pareja se había ido; mi visión de Vraja desapareció.
 
-
-> page = 229

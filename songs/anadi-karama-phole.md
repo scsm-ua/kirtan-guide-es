@@ -1,10 +1,15 @@
+---
+page: 224
+first_line: anādi karama-phole, poḍi bhavārṇava-jole
+---
+
 # Śrī Śikṣāṣṭakam
 
 > **śrī** — adorable; **śikṣa** — instrucciones; **aṣṭakam** — ocho versos.
 
-### Śrīla Bhakti Vinod Ṭhākur
-
 ## Canción 5
+
+### Śrīla Bhakti Vinod Ṭhākur
 
     ayi nanda-tanuja kiṅkaraṁ
     patitaṁ māṁ viṣame bhavāmbudhau
@@ -59,5 +64,3 @@ Los dos asaltantes de caminos llamados el conocimiento intelectual y la activida
 
 Soy Tu sirviente eterno, ¡oh, misericordioso Señor! Pero, habiéndolo olvidado desde tiempos inmemoriales, he quedado atado dentro de esta red de ilusión. Acepta a este sirviente caído Tuyo, dale un sitio en el polvo de Tus pies de loto; otórgale Tu refugio a este humilde Bhaktivinod.
 
-
-> page = 224

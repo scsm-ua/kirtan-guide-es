@@ -1,3 +1,8 @@
+---
+page: 272
+first_line: jayare jayare jaya paramahaṁsa mahāśaya
+---
+
 # Āchārya vandana
 
 > **āchārya** — maestro ejemplar; **vandana** — oraciones.
@@ -34,7 +39,7 @@ Todas las glorias, todas las glorias a la personalidad más elevada, Śrīla Bha
 
 > **tomāra mahimā** — tus glorias; **gāi** — cantar; **heno** — tal como; **sādhya** — logro; **mora** — mío; **nāi** — no; **tobe** — entonces; **pāri** — capaz; **jodi** — si; **deho** — otorgas; **śakti** — poder; **viśvahite** — por doquier; **avirata** — constantemente; **āchāra-prachāre** — practicando y predicando; **rata** — ocupado; **viśuddha** — pura; **śrī rūpānuga** — la corriente de Rūpa Goswāmī; **bhakti** — devoción.
 
-No tengo capacidad para cantar tus glorias. Solo puedo hacerlo si tú me apoderas. Tú incesantemente viajas por toda la India, practicando y predicando de una manera dedicada la línea pura y genuina de la devoción en la corriente de Śrī Rūpa Goswāmī. 
+No tengo capacidad para cantar tus glorias. Solo puedo hacerlo si tú me apoderas. Tú incesantemente viajas por toda la India, practicando y predicando de una manera dedicada la línea pura y genuina de la devoción en la corriente de Śrī Rūpa Goswāmī.
 
 #### 4
 
@@ -234,5 +239,3 @@ Por esta razón, me esfuerzo, como un enano aspirando a alcanzar la luna. Soy in
 
 Por favor, sigue derramando sin cesar tu misericordia, el néctar del amor extático por Dios, y que todas las almas de este mundo sean elevadas mediante eso. Que toda la gente del mundo dance en el canto en congregación del Santo Nombre del Señor. Esta es la oración de este sirviente de los Vaiṣṇavas.
 
-
-> page = 272

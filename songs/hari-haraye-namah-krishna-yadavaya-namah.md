@@ -1,3 +1,8 @@
+---
+page: 80
+first_line: hari haraye namaḥ kṛṣṇa yādavāya namaḥ
+---
+
 # Nāma-Saṇkīrtan
 
 > **nāma** — del nombre; **saṇkīrtan** — canto en congregación.
@@ -94,5 +99,3 @@ Absorbe tu mente en meditar en los pies del Maestro Espiritual y los santos Vai�
 
 Deseando los pies de loto de Śrī Guru y los Vaiṣṇavas, Narottam Dās canta el *saṅkīrtan* del Santo Nombre.
 
-
-> page = 80

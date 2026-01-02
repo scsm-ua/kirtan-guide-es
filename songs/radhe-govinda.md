@@ -1,5 +1,7 @@
 ---
+page: 418
 no-author: 1
+first_line: (jaya) rādhe govinda
 ---
 
 # Rādhā Kṛṣṇa vandana
@@ -52,5 +54,3 @@ no-author: 1
 
 Por favor, concédeme tu misericordia, por favor otórgame los pies de loto de la Divina Pareja, entonces podré cantar fervientemente: “¡Śrī Rādhā Govinda!”
 
-
-> page = 418

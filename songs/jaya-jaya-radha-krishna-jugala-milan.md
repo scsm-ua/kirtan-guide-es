@@ -1,3 +1,8 @@
+---
+page: 247
+first_line: jaya jaya rādhā-kṛṣṇa jugala-milan
+---
+
 # Śrī Jugala-ārati
 
 > **śrī** — adorable; **jugala** — de la pareja divina; **ārati** — ceremonia.
@@ -58,5 +63,3 @@ Viśākhā y las otras jóvenes cantan, con diversas tonadas y humores, mientras
 
 Anhelando alcanzar los pies de loto de Śrī Śrī Rādhā Kṛṣṇa, Bhakti Vinod flota en la felicidad, a los pies de las *gopīs*.
 
-
-> page = 247

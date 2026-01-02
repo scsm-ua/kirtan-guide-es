@@ -1,3 +1,8 @@
+---
+page: 404
+first_line: jaya jaya girirājer ārotiko
+---
+
 # Śrī Śrī Girirāj-Govardhan Ārati
 
 > **śrī** — adorable; **girirāj** — el rey de las colinas; **govardhan** — Govardhan; **ārati** — ceremonia.
@@ -103,5 +108,3 @@ La belleza del *ārati* de Śrī Girirāj-jīu, el cual es extraordinario y prec
 
 Śrī Śrī Girirāj-jīu se manifiesta eternamente como ambos, el Señor adorable y el Señor servidor. Este caído sirviente ve el *ārati* de Śrī Girirāj-jīu con gran éxtasis.
 
-
-> page = 404

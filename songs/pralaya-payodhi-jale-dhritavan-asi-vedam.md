@@ -1,3 +1,8 @@
+---
+page: 279
+first_line: pralaya-payodhi-jale dhṛtavān asi vedaṁ
+---
+
 # Śrī Daśāvatār-stotram
 
 > **śrī** — adorable; **daśa-avatār** — diez encarnaciones; **stotram** — oraciones.
@@ -125,5 +130,3 @@
 
 ¡Oh, Señor Kṛṣṇa, ofrezco mis reverencias a Ti, quien apareciste en las formas de estas diez encarnaciones! En la forma de Matsya, rescataste a los *Vedas*; como Kūrma, sostuviste la montaña Mandara en Tu espalda. Como Varāha, levantaste la Tierra con Tus colmillos, y en la forma de Narasiṁha, rasgaste el pecho del *daitya* Hiraṇyakaśipu. En la forma de Vāmana, engañaste al *daitya* rey Bali pidiéndole solo tres pasos de tierra, y de ese modo le quitaste todo el universo al expandir Tus pasos. Como Paraśurāma, mataste a todos los *kṣatriyas* malvados, y como Rāmachandra, conquistaste al *rākṣasa* rey Rāvaṇa. En la forma de Balarāma, portas un arado con el cual subyugas a los malvados y con el cual atrajiste a Ti el río Yamunā. Como el Señor Buddha, mostraste compasión hacia todas las entidades vivientes que sufren en este mundo, y al final de Kali-yuga apareces como Kalki para confundir a los *mlechas* [hombres degradados de baja clase].
 
-
-> page = 279

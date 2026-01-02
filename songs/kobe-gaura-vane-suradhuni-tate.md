@@ -1,3 +1,8 @@
+---
+page: 134
+first_line: kabe gaura-vane, suradhunī-taṭe
+---
+
 # Siddhi-lālasā
 
 > **siddhi** — perfección; **lālasā** — deseo.
@@ -48,5 +53,3 @@ Me inclinaré ante los habitantes de la morada de Śrī Gaurasundar y rogaré po
 
 No veré ninguna diferencia entre los residentes de Gauḍa y los residentes de Vraja, y me convertiré en un residente de Vraja. La verdadera naturaleza de la morada del Señor se manifestará ante mis ojos, y me convertiré en la sirvienta de Śrī Rādhā.
 
-
-> page = 134

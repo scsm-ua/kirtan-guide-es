@@ -1,3 +1,9 @@
+---
+inline verse: non bold
+page: 332
+first_line: dhvasta-sārvvabhauma-vāda-navya-tarka-śāṅkaraṁ
+---
+
 # Śrī Śrī Premadhāma-deva-stotram
 
 > **śrī śrī** — el más adorable; **prema-dhāma** — morada del amor divino; **deva** — del Señor; **stotram** — oraciones.
@@ -130,7 +136,3 @@ Rodeado de innumerables devotos, el Señor Gaurasundar mostró Su divina y marav
 
 “¡Oh, mi querida amiga! Al fin hoy me he reunido en Kurukṣetra con mi muy amado Kṛṣṇa. Soy la misma Rādhārāṇī, y Él es el mismo Kṛṣṇa. Estamos disfrutando de Nuestro encuentro, sin embargo, todavía anhelo regresar a las orillas del Kālindī, donde Yo podía escuchar la dulce melodía de Su flauta tocando la quinta nota, debajo de los árboles del bosque de Vṛndāvan”. Ofrezco mis humildes reverencias a ese hermoso Señor Dorado, Gaurāṅga Sundar, la forma divina del Kṛṣṇa prema.
 
-
-> inline verse = non bold
-
-> page = 332

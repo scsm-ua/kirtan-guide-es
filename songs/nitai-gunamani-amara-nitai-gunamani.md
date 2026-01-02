@@ -1,3 +1,8 @@
+---
+page: 119
+first_line: nitāi guṇamaṇi āmāra nitāi guṇamaṇi
+---
+
 # Nitāi Guṇa Manī
 
 > **nitāi** — Nitāi; **guṇa** — cualidades; **manī** — joya.
@@ -49,5 +54,3 @@ Nitāi cortó un canal en el sellado océano de misericordia y una inundación d
 
 Lochan Dās dice “Quienquiera que no haya adorado a Nitāi conscientemente comete suicidio”.
 
-
-> page = 119

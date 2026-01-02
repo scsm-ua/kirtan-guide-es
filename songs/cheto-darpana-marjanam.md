@@ -1,3 +1,8 @@
+---
+page: 77
+first_line: cheto-darpaṇa-mārjanaṁ
+---
+
 # Śrī Śikṣāṣṭakam
 
 > **śrī** — adorable; **śikṣa** — instrucciones; **aṣṭakam** — ocho versos.
@@ -88,5 +93,3 @@ Aquel que es más humilde que una brizna de hierba, más tolerante que un árbol
 
 Kṛṣṇa puede abrazarme con amor o pisotearme bajo Sus pies. Puede romper mi corazón al esconderse de mí. Que ese libertino haga lo que quiera, pero siempre será el único Señor de mi vida.
 
-
-> page = 77

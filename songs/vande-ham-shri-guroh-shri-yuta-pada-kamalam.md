@@ -1,5 +1,7 @@
 ---
+page: 28
 author: Śrīla Kṛṣṇa Dās Kavirāj Goswāmī
+first_line: vande ’haṁ śrī-guroḥ
 ---
 
 # Vandanā
@@ -91,7 +93,7 @@ Ofrezco mi reverencia a mi señor, el océano del amor divino, Śrīla Jagannāt
 
 > **vāñchhā** — de los deseos; **kalpa-tarubhyaḥ** — a los árboles que conceden los deseos; **cha** — y; **kṛpā** — de misericordia; **sindhubhyaḥ** — a los océanos; **eva** — ciertamente; **cha** — y; **patitānām** — de los caídos; **pāvanebhyaḥ** — a los salvadores; **vaiṣṇavebhyaḥ** — a los devotos del Señor Supremo; **namaḥ namaḥ** — ofrezco mi reverencia perpetuamente.
 
-Una y otra vez ofrezco mi reverencia a los devotos del Señor Supremo, quienes salvan a los caídos, quienes son océanos de misericordia y árboles que complacen los deseos. 
+Una y otra vez ofrezco mi reverencia a los devotos del Señor Supremo, quienes salvan a los caídos, quienes son océanos de misericordia y árboles que complacen los deseos.
 
     pañcha-tattvātmakaṁ kṛṣṇaṁ bhakta-rūpa-svarūpakam
     bhaktāvatāraṁ bhaktākhyaṁ namāmi bhakta-śaktikam
@@ -159,5 +161,3 @@ Habiendo ofrecido reverencia al Guru iniciador de uno, a los Gurus que le han en
     hare kṛṣṇa hare kṛṣṇa kṛṣṇa kṛṣṇa hare hare
     hare rāma hare rāma rāma rāma hare hare
 
-
-> page = 28

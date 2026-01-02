@@ -1,5 +1,7 @@
 ---
+page: 392
 no-author: 1
+first_line: nagara bhramiyā
 ---
 
 # Después del parikramā
@@ -13,5 +15,3 @@ no-author: 1
 
 Después de llevar a cabo el *parikramā* en el pueblo, Gaurāṅga regresa a Su hogar, y Nitāi también. Sacudiendo el polvo del cuerpo del Señor, Śachīmātā pone a Gaurāṅga sobre su regazo. A causa del gran júbilo espiritual, todos los devotos cantan: “¡Hari Hari Bol!”.
 
-
-> page = 392

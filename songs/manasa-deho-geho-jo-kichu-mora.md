@@ -1,3 +1,8 @@
+---
+page: 164
+first_line: mānasa, deha, geha, yo kichhu mora
+---
+
 # Atma Nivedana, 3
 
 > **atma** — del alma; **nivedana** — sumisión.
@@ -76,5 +81,3 @@ Padre, madre, amante, hijo, Señor, Guru, marido—Tú estás en todas partes.
 
 Bhakti Vinod dice: “¡Por favor, escucha, oh Kāna! ¡Oh Rādhānāth! Eres mi vida y alma”.
 
-
-> page = 164

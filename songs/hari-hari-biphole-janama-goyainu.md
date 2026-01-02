@@ -1,3 +1,8 @@
+---
+page: 183
+first_line: hari hari! biphole janama goyāinu
+---
+
 # Iṣṭa-deve Vijñapti
 
 > **iṣṭa** — esfuerzo; **deve** — dar; **vijñapti** — petición.
@@ -47,5 +52,3 @@ El Señor Kṛṣṇa, quien es el hijo del rey de Vraja, apareció como el hijo
 
 ¡Oh, Señor Kṛṣṇa, hijo de Nanda! Quien estás acompañado de la hija del rey Vṛṣabhānu; por favor, sé misericordioso conmigo ahora. Narottam dice: “¡Oh, Señor! Por favor, no me apartes de Tus rojizos pies de loto, pues, ¿quién es mi amado excepto Tú?”
 
-
-> page = 183

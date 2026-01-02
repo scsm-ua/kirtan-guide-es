@@ -1,3 +1,8 @@
+---
+page: 208
+first_line: durlabha mānava-janma labhiyā saṁsāre
+---
+
 # Nirvedana lakṣaṇa upaladbhi, 4
 
 > **nirvedana** — arrepentimiento; **laksana** — síntoma; **upaladbhi** — sentimiento.
@@ -121,5 +126,3 @@ Solo vean, este es el destino final de este cuerpo material. Y lo más asombroso
 
 Por lo tanto, le pido a quienquiera que tenga una inteligencia aguda: Por favor, abandona esas ilusiones temporales que Māyā ofrece y ten la bondad de buscar los medios para alcanzar una devoción pura por el Señor Krisna, pues esta es realmente la única verdad eterna tangible.
 
-
-> page = 208

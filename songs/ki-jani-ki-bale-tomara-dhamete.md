@@ -1,3 +1,8 @@
+---
+page: 176
+first_line: ki jāni ki bale, tomāra dhāmete
+---
+
 # Goptṛtve Varaṇa
 
 > **goptṛtve** — guardianía del Señor; **varaṇa** — abrazar.
@@ -70,5 +75,3 @@ Todo es Tuyo. Yo sólo soy un sirviente. Ciertamente me liberarás. He abrazado 
 
 Llorando, Bhakti Vinod se ha refugiado en Tus pies. Perdonando sus ofensas y concediéndole gusto por Tu Nombre, por favor manténlo allí.
 
-
-> page = 176

@@ -1,10 +1,15 @@
+---
+page: 230
+first_line: sakhi go kemote dhoribo parāṇ
+---
+
 # Śrī Śikṣāṣṭakam
 
 > **śrī** — adorable; **śikṣa** — instrucciones; **aṣṭakam** — ocho versos.
 
-### Śrīla Bhakti Vinod Ṭhākur
-
 ## Canción 7 (c)
+
+### Śrīla Bhakti Vinod Ṭhākur
 
 #### 1
 
@@ -37,5 +42,3 @@ Las lágrimas fluyen de mis ojos como los torrentes de lluvia en el mes de Śrā
 
 Bhaktivinod se ha vuelto muy impaciente y de nuevo se refugia en el Santo Nombre, y grita: “¡Oh, Señor de Rādhā, sálvame, por favor, por darme Tu audiencia! Solo por Tu misericordia no he de perecer”.
 
-
-> page = 230

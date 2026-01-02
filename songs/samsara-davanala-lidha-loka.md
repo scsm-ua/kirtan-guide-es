@@ -1,3 +1,8 @@
+---
+page: 61
+first_line: saṁsāra-dāvānala-līḍha-loka
+---
+
 # Śrī Śrī Gurvāṣṭakam
 
 > **śrī śrī guru** — el adorable maestro espiritual; **aṣṭakam** — ocho oraciones.
@@ -103,5 +108,3 @@ Adoro los pies de loto del Maestro Divino, siempre cantando sus glorias y medita
 
 Aquel que, durante el Brāhma-muhūrta (noventa y seis minutos antes de la salida del sol) canta con regularidad y sinceridad estas ocho oraciones al Maestro Divino, tras abandonar el cuerpo en su perfección espiritual, alcanza la cualificación de ocuparse en el servicio directo a Śrī Kṛṣṇa, el Señor de Vṛndāvan.
 
-
-> page = 61

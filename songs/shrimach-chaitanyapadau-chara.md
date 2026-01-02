@@ -1,3 +1,8 @@
+---
+page: 377
+first_line: śrīmach-chaitanyapādau chara-kamalayugau
+---
+
 # Śrīmad Rūpa-pada-rajaḥ Prārthanā Daśakam
 
 > **śrīmad** — su santidad; **rūpa** — Rūpa Goswāmī; **pada** — pies; **rajaḥ** — polvo; **prārthana** — súplica; **daśakam** — diez oraciones.
@@ -114,5 +119,3 @@ Por escribir muchos, muchos libros, le otorgó al mundo todos los más preciados
 
 Justo antes de que se retirara de su *līlā* manifiesto, mi misericordioso Divino Maestro, Śrīla Saraswatī Ṭhākur, me entregó a los sagrados pies de esa Personalidad Divina al hacerme cantar el glorioso himno a sus pies de loto (Śrī Rūpa-mañjarī-pada). A pesar de mi condición ordinaria—haciendo caso omiso de todas mis diversas cualificaciones y descualificaciones—, ¿cuándo Śrīmad Rūpa Prabhu me agraciará con el polvo de sus sagrados pies de loto?
 
-
-> page = 377

@@ -1,3 +1,8 @@
+---
+page: 416
+first_line: vimala hema jini
+---
+
 # Vimala hema jini
 
 > **vimala** — puro; **hema** — oro; **jini** — conquista.
@@ -48,5 +53,3 @@ Gorāchānda ya no puede caminar, ya no puede hablar, apenas pronuncia algunas m
 
 Durante este mismo tiempo que estuvo dotado de tanta felicidad, no adoré a Gorā. ¡No aspiré a Sus pies de loto! Vṛndāvan Dās canta las glorias de Śrī Kṛṣṇa Chaitanya Chandra y Ṭhākura Śrī Nityānanda.
 
-
-> page = 416

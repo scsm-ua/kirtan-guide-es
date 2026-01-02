@@ -1,3 +1,8 @@
+---
+page: 149
+first_line: je ānilo prema-dhana koruṇā prachura
+---
+
 # Viraha-gīti
 
 > **viraha** — de separación; **gīti** — canción.
@@ -49,5 +54,3 @@ Para alcanzar a esa personalidad tan perfecta, Śrī Chaitanya, solo puedo rompe
 
 Todos se han marchado juntos hacia sus propios Pasatiempos. Narottam Dās Ṭhākur dice: “Incapaz de obtener la asociación de ellos, yo simplemente he de llorar”.
 
-
-> page = 149

@@ -1,10 +1,15 @@
+---
+page: 231
+first_line: bandhu-gon! śunoho vachana mora
+---
+
 # Śrī Śikṣāṣṭakam
 
 > **śrī** — adorable; **śikṣa** — instrucciones; **aṣṭakam** — ocho versos.
 
-### Śrīla Bhakti Vinod Ṭhākur
-
 ## Canción 8
+
+### Śrīla Bhakti Vinod Ṭhākur
 
     āśliṣya vā pāda-ratāṁ pinaṣṭu mām
     adarśanān marma-hatāṁ karotu vā
@@ -76,5 +81,3 @@ Pero aunque le cause dolor a mi alma de esa manera, de todos modos es el Señor 
 
 De ese modo, tanto en la unión como en la separación, Bhakti Vinod sabe que Kṛṣṇa es el único Señor de su alma. Su felicidad es mi felicidad. Él es el Señor de mi vida y no hay otro para mí más que Él.
 
-
-> page = 231

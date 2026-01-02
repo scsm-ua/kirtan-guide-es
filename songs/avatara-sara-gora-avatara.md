@@ -1,3 +1,8 @@
+---
+page: 131
+first_line: avatāra sāra gorā avatāra
+---
+
 # Avatāra Sāra
 
 > **avatāra** — encarnación; **sāra** — la mejor.
@@ -59,5 +64,3 @@ Reconociéndome frustrado, consumido y agotado, espero la serpiente de la muerte
 
 Adoré a mi familia y la vida material, y olvidé al Señor Gaurāṅga y no escuché las instrucciones de los santos. Ahora, en mis últimos días, me doy cuenta que tengo dos muertes, no solo por tener que abandonar este cuerpo material, sino también por estar muerto mientras vivía, desperdiciando mi vida en la gratificación.
 
-
-> page = 131

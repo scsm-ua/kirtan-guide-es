@@ -1,3 +1,8 @@
+---
+page: 116
+first_line: nitāi-pada-kamala
+---
+
 # Manaḥ-śikṣā
 
 > **manaḥ** — a la mente; **śikṣā** — enseñanzas.
@@ -48,5 +53,3 @@ Enloquecido por el orgullo, en el olvido de los pies de loto de Nitāi, uno abra
 
 Los pies de loto del Señor Nitāi son verdad y Sus sirvientes son eternos. Aspira siempre al refugio de Sus pies. Narottam está muy triste, ¡oh, Nitāi!, hazme feliz; ¡por favor, mantenme cerca de Tus rojizos pies de loto!
 
-
-> page = 116

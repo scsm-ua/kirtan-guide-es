@@ -1,3 +1,8 @@
+---
+page: 156
+first_line: kṛṣṇotkīrttana-gāna-narttana-parau
+---
+
 # Śrī Śrī Ṣaḍ-goswāmi-aṣṭakam
 
 > **śrī śrī** — sus santidades; **ṣaḍgoswāmī** — de los seis Goswāmīs; **aṣṭakam** — oraciones.
@@ -124,5 +129,3 @@ Ofrezco mis respetuosas reverencias a los Seis Goswāmīs: Śrī Rūpa Goswāmī
 
 Ofrezco mis respetuosas reverencias a los Seis Goswāmīs: Śrī Rūpa Goswāmī, Śrī Sanātan Goswāmī, Śrī Raghunāth Bhaṭṭa Goswāmī, Śrī Raghunāth Dās Goswāmī, Śrī Jīva Goswāmī y Śrī Gopāl Bhaṭṭa Goswāmī, quienes cantaban muy fuertemente en todas partes de Vṛndāvan, exclamando: “¡Reina de Vṛndāvan, Rādhārāṇī! ¡Oh, Lalitā! ¡Oh, hijo de Mahārāj Nanda! ¿Dónde están ahora? ¿En la colina de Govardhan o bajo los árboles en la ribera del Yamunā? ¿Dónde están?”. Tal era su humor al practicar la Conciencia de Kṛṣṇa.
 
-
-> page = 156

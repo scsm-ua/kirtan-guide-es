@@ -1,3 +1,8 @@
+---
+page: 182
+first_line: gurudeva! baḍa kṛpā kari
+---
+
 # Bhajana-Lālasā, 10
 
 > **bhajana** — adoración; **lālasā** — anhelo.
@@ -49,5 +54,3 @@ En mi infancia y juventud, estaba apegado a la felicidad material y mis hábitos
 
 Ahora anciano, estoy afligido por varias enfermedades. Dime, ¿cómo voy a servir? Llorando sin cesar, he caído a tus pies, completamente abrumado.
 
-
-> page = 182

@@ -1,10 +1,15 @@
+---
+page: 222
+first_line: prabhu tava pada-juge mora nivedana
+---
+
 # Śrī Śikṣāṣṭakam
 
 > **śrī** — adorable; **śikṣa** — instrucciones; **aṣṭakam** — ocho versos.
 
-### Śrīla Bhakti Vinod Ṭhākur
-
 ## Canción 4
+
+### Śrīla Bhakti Vinod Ṭhākur
 
     na dhanaṁ na janaṁ na sundarīṁ
     kavitāṁ vā jagad-īśa kāmaye
@@ -78,5 +83,3 @@ En el peligro o en el éxito, en la buena fortuna o en la calamidad, permíteme 
 
 Ya sea que viva como un ave o como una bestia, en el cielo o en el infierno, permite que este humilde Bhakti Vinod siempre acaricie la devoción a Ti en lo más íntimo de su corazón.
 
-
-> page = 222

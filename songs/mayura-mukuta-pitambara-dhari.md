@@ -1,3 +1,8 @@
+---
+page: 258
+first_line: mayura-mukuṭa
+---
+
 # Mayura Mukuṭa
 
 > **mayura** — pavoreal; **mukuṭa** — corona.
@@ -11,7 +16,7 @@
 
 > **mayura** — pavoreal; **mukuṭa** — corona; **pitāmbara** — ropas amarillas; **dhāri** — lleva; **muralī-dhara** — quien sostiene la flauta (*muralī*); **govardhana-dhārī** — quien sostiene la colina de Govardhan.
 
-¡Oh, Kṛṣṇa, el que sostiene la flauta Muralī y el que ha levantado la colina Govardhan! ¡Oh, Kṛṣṇa, que llevas una corona adornada con una pluma de pavo real y que vistes con ropas de color dorado! 
+¡Oh, Kṛṣṇa, el que sostiene la flauta Muralī y el que ha levantado la colina Govardhan! ¡Oh, Kṛṣṇa, que llevas una corona adornada con una pluma de pavo real y que vistes con ropas de color dorado!
 
 #### 2
 
@@ -40,5 +45,3 @@
 
 ¡Oh, Kṛṣṇa, el que sostiene la flauta Muralī y el que ha levantado la colina Govardhan! Todas las glorias a Ti, Kṛṣṇa, el muy querido amante de las pastorcillas de vacas de Vṛndāvan y el que toca la flauta Vaṁśī.
 
-
-> page = 258

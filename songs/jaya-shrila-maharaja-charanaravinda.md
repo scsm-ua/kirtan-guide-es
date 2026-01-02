@@ -1,3 +1,8 @@
+---
+page: 261
+first_line: jaya śrīla mahārāj charaṇāravinda
+---
+
 # Āchārya-charaṇa-vandana
 
 > **āchārya** — maestro ejemplar; **charaṇa** — a sus pies; **vandana** — oraciones.
@@ -83,7 +88,7 @@ Guru Mahārāj, Śrīla Bhakti Rakṣak Dev-Goswāmī Śrīdhar, de los Reyes *s
 
 > **parama** — supremo; **santuṣṭa** — satisfecho; **tava** — tuyo; **viśrambha-sevāya** — dedicado servicio; **nija-hāte** — propia mano; **vyāsāsane** — el asiento de Vyāsa; **vasā’la** — sentar; **tomāya** — a ti.
 
-Supremamente satisfecho con tu dedicado Servicio, con su propia mano te instaló en su excelso asiento. 
+Supremamente satisfecho con tu dedicado Servicio, con su propia mano te instaló en su excelso asiento.
 
 #### 10
 
@@ -130,5 +135,3 @@ Los devotos genuinos cantan fielmente tus Glorias Supremas. ¡Qué desgracia! La
 
 Mediante tu gracia, ahora serviremos a nuestro Señor y dorado amo. Sāgar se regocija por siempre en tu dulce cantar y bailar.
 
-
-> page = 261

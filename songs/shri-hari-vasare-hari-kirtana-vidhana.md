@@ -1,3 +1,8 @@
+---
+page: 301
+first_line: śrī hari-vāsare hari-kīrttana-vidhāna
+---
+
 # Śrī Hari-vāsara-gīti
 
 > **śrī** — adorable; **hari** — del Señor Hari; **vāsara** — día; **gīti** — canción.
@@ -53,10 +58,10 @@ En todas las cuatro direcciones se esparció el canto auspicioso del Nombre del 
 
     sabāra aṅgete śobhe śrī chandana mālā
     ānande nāchoye sobe hoiye vibholā
-    
+
     ni jānande nāche mahāprabhu viśvambhara
     charaṇera tāli śuni ati manohara
-    
+
     bhāvāveśe mālā nāhi rahaye galāya
     chiṇḍiyā paḍaye giyā bhakatera gāya
 
@@ -118,5 +123,3 @@ De todas las penitencias, la suprema es el canto del Santo Nombre, y quienquiera
 
 Los dos hermanos, Śrī Kṛṣṇa Chaitanya Mahāprabhu y Nityānanda Prabhu, son mis muy queridos amos y son mi vida y alma. De ese modo, Vṛndāvan Dās canta esta canción en Su glorificación y la ofrece con devoción a Sus sagrados pies de loto.
 
-
-> page = 301

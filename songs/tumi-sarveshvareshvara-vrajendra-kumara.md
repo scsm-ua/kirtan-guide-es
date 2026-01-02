@@ -1,3 +1,8 @@
+---
+page: 189
+first_line: tumi sarvveśvareśvara, vrajendra-kumāra!
+---
+
 # Goptṛtve Varaṇa, 4
 
 > **goptṛtve** — guardianía del Señor; **varaṇa** — abrazar.
@@ -76,5 +81,3 @@ Abandonando la confianza en mi propia fuerza y esfuerzo, dependo de Tu voluntad.
 
 Bhakti Vinod está completamente rendido y desapegado. Vive y muere de acuerdo con Tu voluntad.
 
-
-> page = 189

@@ -1,3 +1,8 @@
+---
+page: 240
+first_line: rādhā-bhajane jadi mati nāhi bhelā
+---
+
 # Śrī Rādhāṣṭaka, 8
 
 > **śrī** — adorable; **rādhā** — de Śrīmati Rādhārāṇī; **aṣṭakam** — ocho canciones.
@@ -76,5 +81,3 @@ Umā, Ramā, Satyā, Śachī, Chandrāvālī y Rukminī son todas expansiones pe
 
 Bhakti Vinod, cuya única riqueza es el servicio a Śrī Rādhā, humildemente ora por ser una sirvienta a Sus pies de loto.
 
-
-> page = 240

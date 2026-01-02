@@ -1,3 +1,8 @@
+---
+page: 419
+first_line: gurudeva! kabe mora sei dina
+---
+
 # Bhajana-Lālasā, 12
 
 > **bhajana** — adoración; **lālasā** — anhelo.
@@ -49,5 +54,3 @@ Mi boca emitirá voces vacilantes. Mi cuerpo temblará, transpirará una y otra 
 
 ¿Cuándo experimentaré tal estado genuinamente? Entonces, cantaré el Nombre incesantemente. Quedando abrumado de éxtasis y de una u otra manera manteniendo mi cuerpo, recibiré tu misericordia.
 
-
-> page = 419

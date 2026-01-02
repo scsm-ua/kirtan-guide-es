@@ -1,3 +1,8 @@
+---
+page: 397
+first_line: ohe harinām tava mahimā
+---
+
 # Śrī Nāmāṣṭakam 7
 
 > **śrī** — adorable; **nāma** — nombre; **aṣṭakam** — ocho versos.
@@ -76,5 +81,3 @@ Eres encantador y hermoso, la personificación del conocimiento completo y la bi
 
 Bhakti Vinod ruega a los pies de loto de Śrīla Rūpa Goswāmī, constantemente, a cada momento, la revelación directa del Santo Nombre.
 
-
-> page = 397

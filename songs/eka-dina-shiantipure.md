@@ -1,3 +1,8 @@
+---
+page: 408
+first_line: eka-dina śāntipure
+---
+
 # Prasāda-sevāya 2-3
 
 > **prasāda** — remanentes, misericordia; **sevāya** — servicio.
@@ -58,7 +63,5 @@ Madhavendra Purī Prabhu a veces honraba *prasādam* en el patio de Madre Śach�
 
 > **yoge** — por el *yoga*; **yogī** — el *yogī*; **pāya** — obtiene; **jāhā** — aquel; **bhoge** — por comer; **āja** — ahora; **ha’be** — será; **tāhā** — de eso; **‘hari’ boli’** — cantando Hari; **khāo** — por favor come; **sabe** — todos; **bhāi** — hermanos; **kṛṣṇera** — de Kṛṣṇa; **prasād-anna** — el alimento *prasādam*; **tri-jagat** — los tres mundos; **kore** — hace; **dhanya** — gloria; **tripurāri** — el Señor Śiva; **nāche** — danza; **jāhā** — lo cual; **pāi’** — obtiene.
 
-Lo que los *yogīs* obtienen practicando *yoga*, hoy se obtiene comiendo. ¡Oh hermanos míos! Por favor canten ‘Hari’ y coman Kṛṣṇa-prasādam. Los tres mundos glorifican el Kṛṣṇa-prasādam. Cuando lo obtiene, el Señor Śiva danza. 
+Lo que los *yogīs* obtienen practicando *yoga*, hoy se obtiene comiendo. ¡Oh hermanos míos! Por favor canten ‘Hari’ y coman Kṛṣṇa-prasādam. Los tres mundos glorifican el Kṛṣṇa-prasādam. Cuando lo obtiene, el Señor Śiva danza.
 
-
-> page = 408

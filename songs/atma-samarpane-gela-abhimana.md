@@ -1,3 +1,8 @@
+---
+page: 192
+first_line: ātma-samarpaṇe gelā abhimāna
+---
+
 # Ātma-samarpaṇe
 
 > **ātma** — el ser; **samarpane** — ofrecer.
@@ -94,5 +99,3 @@ Cuando Brahmā me secuestre, Tú me rescatarás, ¡Oh Señor de Gokul!
 
 Bhakti Vinod es una de Tus vacas en Gokula. ¡Oh Keśava! Seguramente lo protegerás cuidadosamente.
 
-
-> page = 192

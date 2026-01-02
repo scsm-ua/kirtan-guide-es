@@ -1,3 +1,8 @@
+---
+page: 55
+first_line: gurudeva! kṛpā-bindu diyā
+---
+
 # Gurudeva
 
 > **gurudeva** — maestro espiritual.
@@ -49,5 +54,3 @@ Confiéreme la capacidad para que pueda honrar y respetar apropiadamente a todos
 
 Si me examinas, no encontrarás cualidades. Tu misericordia lo es todo para mí. Si tú no eres misericordioso conmigo, tan solo podré llorar y no podré mantener mi vida.
 
-
-> page = 55

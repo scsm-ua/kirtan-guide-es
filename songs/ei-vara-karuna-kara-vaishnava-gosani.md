@@ -1,3 +1,8 @@
+---
+page: 151
+first_line: ei-bāro karuṇā koro vaiṣṇava-gosāi
+---
+
 # Vaiṣṇava Vijñāpti
 
 > **vaiṣṇava** — los devotos; **vijñāpti** — súplica.
@@ -58,5 +63,3 @@ Tu corazón es el lugar donde Govinda reside. Śrī Govinda Mismo dice: “Mis d
 
 Mi esperanza es recibir el polvo de tus pies de loto en cada nacimiento. Śrī Narottam ora: “Por favor, ¡oh, Vaiṣṇava Goswāmī!, sé generoso conmigo”.
 
-
-> page = 151

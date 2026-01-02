@@ -1,3 +1,8 @@
+---
+page: 117
+first_line: dhana mora nityānanda
+---
+
 # Sva-niṣṭha
 
 > **sva** — propio; **niṣṭha** — apego.
@@ -37,5 +42,3 @@ El polvo de los pies de loto de los devotos es el agua con la que me baño. El c
 
 Mi mente está firmemente convencida del beneficio espiritual que se obtiene al comer los remanentes de la comida de los devotos. Los nombres de los devotos son mi felicidad. La tierra de Vṛndāvan es el recinto dentro del cual mantengo mi mente. Narottam Dās, quien es pobre de corazón, habla de esta manera.
 
-
-> page = 117

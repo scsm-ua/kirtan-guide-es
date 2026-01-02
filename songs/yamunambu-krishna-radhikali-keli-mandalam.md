@@ -1,3 +1,9 @@
+---
+inline verse: non bold
+page: 356
+first_line: yāmunāmbu-kṛṣṇa-rādhikāli-keli-maṇḍalam
+---
+
 # Śrī Śrī Premadhāma-deva-stotram
 
 > **śrī śrī** — el más adorable; **prema-dhāma** — morada del amor divino; **deva** — del Señor; **stotram** — oraciones.
@@ -139,7 +145,3 @@ A quienquiera que recite con fe esta composición de setenta oraciones conocida 
 
 Estas oraciones fueron compuestas en el siglo quinto después de la Aparición de Śrī Chaitanya Mahāprabhu, por un cierto discípulo *sannyās* de Śrīla Saraswatī Ṭhākur llamado Śrīdhar [Śrīla Bhakti Rakṣak Śrīdhar Dev-Goswāmī Mahārāj].
 
-
-> inline verse = non bold
-
-> page = 356

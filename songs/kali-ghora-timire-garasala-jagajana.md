@@ -1,3 +1,8 @@
+---
+page: 395
+first_line: kali ghora timire
+---
+
 # Kali-ghora timire
 
 > **kali** — de Kali; **ghora** — temerosa; **timire** — la obscuridad.
@@ -47,5 +52,3 @@ En la actualidad, la gente de este mundo ha sido devorada por la densa obscurida
 
 Si uno conoce las dos clases de conocimiento védico, todavía no conoce nada. Pero si uno conoce al Señor Gaurāṅga, entonces tiene el conocimiento más precioso. Nayanānanda dice: “Dicha persona lo conoce todo”. Toda perfección está al alcance de su mano.
 
-
-> page = 395

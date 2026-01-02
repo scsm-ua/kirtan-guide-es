@@ -1,3 +1,8 @@
+---
+page: 145
+first_line: kabe ha’be heno daśā mora
+---
+
 # Prārthana Lalasāmayī, 9
 
 > **prārthana** — súplica; **lalasa** — anhelo; **mayī** — mío.
@@ -69,5 +74,3 @@ Así sollozando y gritando repetidamente, vagaré por toda la morada de 32 milla
 
 Diré: “¡Ay, ay, qué maravilloso! ¡¿Qué cosa tan asombrosa he visto ahora?!” Y me desmayaré sin sentido en el acto. Al recobrar la conciencia más tarde, me esconderé y lloraré en secreto, recordando que todo este éxtasis se debe al recibir solo una pequeña pizca de la misericordia de Śrī Śrī Gaura Nitāi.
 
-
-> page = 145

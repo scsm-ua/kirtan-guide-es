@@ -1,3 +1,8 @@
+---
+page: 144
+first_line: kabe śrī chaitanya more-koribena doyā
+---
+
 # Dainya Prārthanā Gīti
 
 > **dainya** — humildad; **prārthana** — súplica; **gīti** — canción.
@@ -11,7 +16,7 @@
 
 > **kabe** — ¿cuándo?; **śrī chaitanya** — el Señor Śrī Chaitanya; **more** — a mí; **koribena** — otorga; **doyā** — misericordia; **kabe** — ¿cuándo?; **āmi** — yo; **pāibo** — obtendré; **vaiṣṇava-pada** — los pies de los Vaiṣṇavas; **chāyā** — la sombra.
 
-¿Cuándo me concederá Su misericordia el Señor Chaitanya? ¿Cuándo me refugiaré en la sombra de los sagrados pies de los Vaiṣṇavas? 
+¿Cuándo me concederá Su misericordia el Señor Chaitanya? ¿Cuándo me refugiaré en la sombra de los sagrados pies de los Vaiṣṇavas?
 
 #### 2
 
@@ -67,5 +72,3 @@ Y Kṛṣṇa, satisfecho con la oración de ese Vaiṣṇava, será bondadoso c
 
 Bhaktivinod Ṭhākur presenta esta oración a los pies de loto de los Vaiṣṇavas: “Concédanme su gracia y acepten esta alma inferior en su asociación”.
 
-
-> page = 144

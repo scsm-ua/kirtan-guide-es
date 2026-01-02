@@ -1,3 +1,8 @@
+---
+page: 135
+first_line: jadi gaura nā ho’to, tobe ki hoito
+---
+
 # Jadi Gaura nā ho’to
 
 > **jadi** — si; **gaura** — Gaura; **nā ho‘to** — no podría ser.
@@ -48,5 +53,3 @@ Canta una y otra vez las maravillosas cualidades del Señor Gaurāṅga y conser
 
 Aunque canto “¡Gaurāṅga!”, por alguna razón mi corazón no se derrite en el amor extático. ¿Cómo es que he soportado la carga de este cuerpo? ¿Cómo es que el creador le ha dado a este Vāsu una piedra en lugar de un corazón?
 
-
-> page = 135

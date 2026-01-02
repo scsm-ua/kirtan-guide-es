@@ -1,3 +1,8 @@
+---
+page: 105
+first_line: śrī kṛṣṇa chaitanya prabhu dayā kara more
+---
+
 # Sāvaraṇa-Śrī-Gaura-pāda-padme
 
 > **sāvaraṇa** — aceptación sumisa; **śrī-gaura** — de Gaura; **pāda-padme** — los pies de loto.
@@ -74,5 +79,3 @@ Has descendido sólo para redimir a las almas caídas. Oh Señor, no encontrará
 
 ¡Oh Śrīla Prabhupād, manifestación de Śrī Gaura! Sé misericordioso. Este caído sirviente mendiga la misericordia de sus asociados. (Por Śrīla Śrīdhar Mahārāj)
 
-
-> page = 105

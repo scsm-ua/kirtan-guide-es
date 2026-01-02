@@ -1,3 +1,8 @@
+---
+page: 43
+first_line: jaya ‘guru-mahārāja’ yati-rājeśvara
+---
+
 # Śrī Guru Ārati Stuti
 
 > **śrī guru** — el adorable maestro espiritual; **ārati** — ceremonia; **stuti** — oraciones.
@@ -148,5 +153,3 @@ El refugio de tus pies, los cuales son refrescantes como millones de lunas, es n
 
 ¡Oh manifestación del principio de la inconcebible diferencia y no diferencia (unión en separación)! Este humilde sirviente canta tus glorias y te adora con alegría.
 
-
-> page = 43

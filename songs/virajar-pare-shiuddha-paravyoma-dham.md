@@ -1,3 +1,8 @@
+---
+page: 238
+first_line: virajār pāre śuddha-paravyoma-dhām
+---
+
 # Śrī Rādhāṣṭaka, 2
 
 > **śrī** — adorable; **rādhā** — de Śrīmati Rādhārāṇī; **aṣṭakam** — ocho canciones.
@@ -73,5 +78,3 @@ La enredadera nunca desea abandonar la compañía del árbol *tamāla*. La enred
 
 Bhakti Vinod no desea otra cosa que el encuentro de Ellos dos.
 
-
-> page = 238

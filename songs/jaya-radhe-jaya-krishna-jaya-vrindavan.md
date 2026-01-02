@@ -1,3 +1,8 @@
+---
+page: 250
+first_line: jaya rādhe, jaya kṛṣṇa, jaya vṝndāvan
+---
+
 # Śrī Vraja-dhāma-mahimāmṛta
 
 > **śrī** — adorable; **vraja-dhāma** — morada de Vraja; **mahima-amṛta** — néctar de sus glorias.
@@ -103,5 +108,3 @@ Todas las glorias, todas las glorias a la melosidad del amor conyugal, el cual e
 
 Recordando los pies de loto de la consorte del Señor Nityānanda, Śrī Jāhnavā Devī, este muy caído y humilde Kṛṣṇa Dās canta el *saṅkīrtan* del Santo Nombre.
 
-
-> page = 250

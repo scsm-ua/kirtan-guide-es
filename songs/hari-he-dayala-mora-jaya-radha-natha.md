@@ -1,5 +1,7 @@
 ---
+page: 392
 author: Śrīla Bhakti Vinod Ṭhākur
+first_line: hari he doyāla mora
 ---
 
 # Dainya O Prapatti
@@ -51,5 +53,3 @@ Tú eres lo auspicioso para el mundo, y también eres el amo de todos los mundos
 
 Mi consideración es que, en este mundo, no hay nadie salvo Tú que pueda redimir a este caído sirviente.
 
-
-> page = 392

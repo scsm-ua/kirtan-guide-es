@@ -1,3 +1,8 @@
+---
+page: 202
+first_line: gopīnāth, āmāra upāya nāi
+---
+
 # Nivedana
 
 > **nivedana** — súplica.
@@ -86,5 +91,3 @@
 
 ¡Oh, Gopīnāth! La soga del materialismo me tiene atado por el cuello. Tomando la espada de Tu misericordia y cortando este lazo de cautiverio, haz a este Bhakti Vinod Tu humilde sirviente.
 
-
-> page = 202

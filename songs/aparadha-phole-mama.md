@@ -1,10 +1,15 @@
+---
+page: 225
+first_line: aparādha-phole mama chitta bhela vajra sama
+---
+
 # Śrī Śikṣāṣṭakam
 
 > **śrī** — adorable; **śikṣa** — instrucciones; **aṣṭakam** — ocho versos.
 
-### Śrīla Bhakti Vinod Ṭhākur
-
 ## Canción 6
+
+### Śrīla Bhakti Vinod Ṭhākur
 
     nayanaṁ galad-aśru-dhārayā
     vadanaṁ gadgada-ruddhayā girā
@@ -80,5 +85,3 @@
 
 Bhaktivinod, quien está desprovisto de buena inteligencia, llora: “¿Cuándo veré ese día?”
 
-
-> page = 225

@@ -1,3 +1,8 @@
+---
+page: 161
+first_line: ki-rūpe pāibo sevā mui durāchāra
+---
+
 # Vaiṣṇava Vijñāpti, 3
 
 > **vaiṣṇava** — los devotos; **vijñāpti** — súplica.
@@ -49,5 +54,3 @@ Incluso si yo pudiera curar mi ceguera y derrotara a Māyā en esa forma de verd
 
 ¡Oh, amo! ¡Oh, purificador de los pecadores! ¡Oh, salvador de las almas caídas! Tú no ves las faltas de los demás; por favor, redime a este Narottam Dās.
 
-
-> page = 161

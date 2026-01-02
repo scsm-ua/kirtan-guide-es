@@ -1,3 +1,8 @@
+---
+page: 97
+first_line: jayare jayare jaya gaura-sarasvatī
+---
+
 # Śrī Sāraswat Ārati
 
 > **śrī** — venerable; **sāraswat** — de Sarasvatī; **ārati** — ceremonia.
@@ -121,5 +126,3 @@ Solo por la misericordia de Śrī Svarūp Dāmodar, Śrī Rāmānanda Rāy, Śr�
 
 ¡Todas las glorias a Śrī Guru, Gaurāṅga, Rādhā-Govindasundar! ¡Oh, devotos,siempre canten Sus eternas glorias!
 
-
-> page = 97

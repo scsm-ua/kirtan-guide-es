@@ -1,3 +1,8 @@
+---
+page: 187
+first_line: āmāra jīvana, sadā pāpe rata
+---
+
 # Dainya, 4
 
 > **dainya** — humildad.
@@ -70,5 +75,3 @@ Un hombre tan vil y malvado como este, rechazado por personas santas, es un cons
 
 Ahora anciano, estoy desprovisto de cualquier medio de liberación, y por lo tanto abatido y angustiado. Bhakti Vinod presenta esta confesión arrepentido a los pies del Señor.
 
-
-> page = 187

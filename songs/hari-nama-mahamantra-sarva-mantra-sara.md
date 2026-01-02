@@ -1,3 +1,8 @@
+---
+page: 73
+first_line: hari-nāma mahāmantra
+---
+
 # Daśa-vidha Nāmāparādha
 
 > **daśa** — diez; **vidha** — clases; **nām-āparādha** — ofensas al nombre.
@@ -121,5 +126,3 @@ Aquellos cuyos corazones no se derriten de amor a pesar de escuchar las glorias 
 
 Las almas puras cantan el Santo Nombre en asociación santa y abandonan estas diez ofensas sin excepción. Esas almas saborearán con seguridad el milagro del amor por Kṛṣṇa, y el Divino Nombre Mismo brillará por siempre dentro de su corazón.
 
-
-> page = 73

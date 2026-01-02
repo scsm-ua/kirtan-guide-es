@@ -1,3 +1,8 @@
+---
+page: 64
+first_line: śrī-kṛṣṇa-chaitanya prabhu jīve dayā kari’
+---
+
 # Maṅgalācharaṇa
 
 > **maṅgala** — auspiciosa; **ācharaṇa** — invocación.
@@ -56,7 +61,7 @@ Para aquellos que se rinden de estas seis maneras, sus oraciones serán escuchad
 
 > **rūpa** — Śrīla Rūpa Goswāmī Prabhu; **sanātana** — Śrīla Sanātan Goswāmī Prabhu; **pade** — a los pies de; **dante** — en los dientes; **tṛṇa** — brizna de hierba; **kari’** — haciendo; **bhakati-vinoda** — BhaktiVinod; **paḍe** — cae; **dui** — ambos; **pada** — pies; **dhari’** — abrazando.
 
-Bhakti Vinod sosteniendo en su boca una pajilla, cae a los pies de loto de Śrī Rūpa-Sanātan y abraza sus pies. 
+Bhakti Vinod sosteniendo en su boca una pajilla, cae a los pies de loto de Śrī Rūpa-Sanātan y abraza sus pies.
 
 #### 7
 
@@ -67,5 +72,3 @@ Bhakti Vinod sosteniendo en su boca una pajilla, cae a los pies de loto de Śrī
 
 Llorando y llorando, les implora: “¡Oh, soy caído! Por favor, enséñenme a rendirme, instrúyanme acerca de la devoción pura”.
 
-
-> page = 64

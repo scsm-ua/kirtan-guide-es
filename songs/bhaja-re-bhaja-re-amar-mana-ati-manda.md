@@ -1,3 +1,8 @@
+---
+page: 66
+first_line: bhaja re bhaja re āmār mana ati manda
+---
+
 # Bhajan-gīti
 
 > **bhajan** — de adoración; **gīti** — canción.
@@ -56,5 +61,3 @@ Debes recordar a los Goswāmīs de Vṛndāvan: Śrī Rūpa Goswāmī,Sanātan G
 
 Recuerda a Śrīla Kavi Karṇapura y su familia, quienes son sirvientes de Śrī Chaitanya Mahāprabhu. También recuerda al padre de Kavi Karṇapura, Śivānanda Sena. Siempre, siempre recuerda a Śrī Karṇapura y su familia. Recuerda a todos esos Vaiṣṇavas que siguen estrictamente el sendero de Rūpa Goswāmī y que están absortos en el éxtasis del *bhajan*. Si en verdad anhelas residir en Vraja, entonces recuerda a todos los Vaiṣṇavas seguidores de Śrī Rūpa.
 
-
-> page = 66

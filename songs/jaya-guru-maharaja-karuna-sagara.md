@@ -1,3 +1,10 @@
+---
+page:
+  - 46
+  - 91
+first_line: jaya guru mahārāj karuṇā-sāgara
+---
+
 # Śrī Śrī Nitāi Chaitanya ārati
 
 > **śrī śrī nitāi chaitanya** — Sus Señorías Nitāi y Chaitanya; **ārati** — ceremonia.
@@ -143,7 +150,3 @@ Para Śrī Śrī Guru Gaura Nityānanda Jiu en Medellín, Colombia:
     nadīyā līlāra nityānanda-gauranidhi
     medellín-bhakta-saṅge milāila viddhi
 
-
-> page = 46
-
-> page = 91

@@ -1,5 +1,7 @@
 ---
+page: 410
 no-author: 1
+first_line: nava-nīrada-nindita
 ---
 
 # Vrajarāja-sutaṣṭakam
@@ -94,5 +96,3 @@ Aquel que es Mukunda y Hari, adorable para todos los semidioses y sabios, que es
 
 Aquel a quien más le gusta divertirse con la hija de Vṛṣabhānu, quien se viste impecablemente como el príncipe heredero de los disfrutadores de las melosidades, quien es el Señor de Señores más elogiable en todo el universo. Simplemente adora a Kṛṣṇa, la joya oscura, el hijo del Rey de Vraja.
 
-
-> page = 410

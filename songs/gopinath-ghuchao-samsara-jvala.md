@@ -1,3 +1,8 @@
+---
+page: 200
+first_line: gopīnāth, ghuchāo saṁsāra-jvālā
+---
+
 # Nivedana
 
 > **nivedana** — súplica.
@@ -86,5 +91,3 @@
 
 ¡Oh, Gopīnāth! En verdad, eres la persona más sabia. Por favor, busca una forma de que este tonto obtenga lo auspicioso, y, por favor, no consideres como un extraño a este sirviente.
 
-
-> page = 200

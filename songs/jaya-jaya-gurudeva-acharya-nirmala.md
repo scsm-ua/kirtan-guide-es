@@ -1,3 +1,8 @@
+---
+page: 36
+first_line: jaya gurudeva āchārya nirmala
+---
+
 # Śrī Gurudeva Stuti
 
 > **śrī gurudeva** — el adorable maestro espiritual; **stuti** — glorificación.
@@ -29,7 +34,7 @@ Tú eres “Bhakti Nirmal” (eres llamado así porque estás dotado de devoció
 
 > **tumi** — tú (eres); **dayāl** — misericordioso; **tumi** — tú (das); **mukti** — liberación; **tumi** — tú (eres); **karuṇā-maya** — compasivo en extremo; **goloka** — Goloka; **mājhāre** — dentro de; **tomāra** — tuyas; **mahimā** — glorias; **ye** — esas; **gāya** — son cantadas.
 
-Eres misericordioso, otorgas liberación y eres compasivo. Tus glorias son cantadas en todo Goloka. 
+Eres misericordioso, otorgas liberación y eres compasivo. Tus glorias son cantadas en todo Goloka.
 
 #### 4
 
@@ -148,5 +153,3 @@ Siempreadoraremostu formaycolmando nuestrosojos,siempre la contemplaremos.
 
 Esta alma caída siempre ora a los pies de aquellos que cantan tus glorias.
 
-
-> page = 36

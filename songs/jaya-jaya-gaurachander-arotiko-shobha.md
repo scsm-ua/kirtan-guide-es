@@ -1,3 +1,8 @@
+---
+page: 94
+first_line: (kibā) jaya jaya gorāchā̐der āratika śobhā
+---
+
 # Śrī Gaura Ārati
 
 > **śrī** — venerable; **gaura** — de Gaurāṅga; **ārati** — ceremonia.
@@ -98,5 +103,3 @@ Las voces de Śiva, Śukadeva y Nārada se ahogan debido al éxtasis del amor. D
 
 Por favor, denme en esta ocasión su gracia. ¡Oh Śrī Bhakti Vinod, Śrī Saraswatī Ṭhākur!¡Oh Gurudev, salvador de las almas caídas!¡Oh, Gaurahari y Tus asociados!Por favor, otórguenme su misericordia en esta ocasión.Cantando Nitāi y Gaurāṅga glorifiquen al Señor Hari.
 
-
-> page = 94

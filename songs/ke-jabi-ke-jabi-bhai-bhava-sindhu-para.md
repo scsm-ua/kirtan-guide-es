@@ -1,3 +1,8 @@
+---
+page: 142
+first_line: ke jabi ke jabi
+---
+
 # Ke jabi ke jabi
 
 > **ke** — quién; **jabi** — irá; **ke** — quién; **jabi** — irá.
@@ -40,5 +45,3 @@ El transbordador es el Santo Nombre del Señor y el capitán es el Maestro Espir
 
 El viento favorable es el amor divino hacia el Señor Kṛṣṇa y todas las almas caídas han sido rescatadas por este barco. Solo Lochan Dās ha sido abandonado por culpa de sus propias fechorías.
 
-
-> page = 142

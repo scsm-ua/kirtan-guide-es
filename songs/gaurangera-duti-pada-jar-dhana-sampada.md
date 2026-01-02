@@ -1,3 +1,8 @@
+---
+page: 128
+first_line: gaurāṅgera duṭi pada
+---
+
 # Sāvaraṇa-śrī-Gaura-mahimā
 
 > **sāvarana** — ornamento; **śrī-gaura** — Śrī Gaurāṅga; **mahimā** — cualidades.
@@ -48,5 +53,3 @@ Aquel que considera a los asociados del Señor Gaurāṅga como eternamente perf
 
 Quienquiera que se sumerja en las aguas del océano nectarino de amor por el Señor Gaurāṅga se vuelve un asociado íntimo de Śrī Śrī Rādhā-Mādhava. Ya sea que viva en una casa o en el bosque, si él canta “¡Oh, Señor Gaurāṅga!” Narottama Dās ruega por obtener su asociación.
 
-
-> page = 128

@@ -1,3 +1,8 @@
+---
+page: 103
+first_line: śrī guru charaṇa-padma
+---
+
 # Śrī Guru-vaiṣṇava māhātmya-gīti
 
 > **śrī guru** — adorable maestro espiritual; **vaiṣṇava** — devotos; **māhātmya** — grandeza; **gīti** — canción.
@@ -61,5 +66,3 @@ Aquel quien me dio el regalo de la visión trascendental, es mi Señor, nacimien
 
 Me he rendido, me he rendido a tus pies de loto, donde no hay temor alguno. Por favor, dame tu misericordia. ¡Oh Gurudev! Salvador de los caídos, por favor, dame tu misericordia. Tú eres el salvador de las almas inferiores y caídas. ¡Todas las glorias a ti, Śrī Gurudev!
 
-
-> page = 103

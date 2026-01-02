@@ -1,3 +1,8 @@
+---
+page: 115
+first_line: nadīyā-godrume nityānanda mahājana
+---
+
 # Ājñā-Ṭahal
 
 > **ājñā** — orden; **ṭahal** — deambular.
@@ -41,5 +46,3 @@ Tengan cuidado de permanecer libres de cometer ofensas; solo tomen el Santo Nomb
 
 Abandonen todas las actividades pecaminosas, lleven a cabo sus deberes en este mundo relacionándolos únicamente con el Señor Kṛṣṇa. La esencia de toda forma de religión la constituye el ser compasivo con otras almas por cantar fuertemente los Santos Nombres de Kṛṣṇa.
 
-
-> page = 115

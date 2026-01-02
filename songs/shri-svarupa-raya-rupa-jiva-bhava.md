@@ -1,3 +1,8 @@
+---
+page: 389
+first_line: śrī-svarūpa-rāya-rūpa-jīva-bhāva-sambharaṁ
+---
+
 # Praṇām Mantra
 
 > **praṇām** — obediencia; **mantra** — oración sagrada.
@@ -31,5 +36,3 @@ Ofrezco mis humildes reverencias al Guru del universo, Oṁ Viṣṇupād Śrī 
 
 ¡Oh, mi querida mente! Por favor, ocúpate eternamente en adorar a Śrīla Bhakti Rakṣak Śrīdhar Dev-Goswāmī Mahārāj, quien ha manifestado su forma como Śrī Gurudev, quien otorga toda devoción, cuya encantadora forma dorada reposa hermosamente con dulzura y tranquilidad, vestido con radiantes ropas de color azafrán. Él posee la riqueza de las perfectas concepciones devocionales, es altamente erudito y preeminente entre los seguidores de Śrīla Saraswatī Ṭhākur.
 
-
-> page = 389

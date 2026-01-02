@@ -1,3 +1,8 @@
+---
+page: 56
+first_line: udila aruṇa pūrava-bhāge
+---
+
 # Aruṇodoya-kīrtan
 
 > **aruṇodoya** — del amanecer; **kīrtan** — canto.
@@ -94,5 +99,3 @@ Beban el néctar puro del Santo Nombre de Kṛṣṇa y satisfagan así el alma 
 
 Para destruir la oscuridad de la ignorancia y bendecir a todas las almas de este universo, el hermoso Nombre de Kṛṣṇa ha surgido tal como el sol radiante.
 
-
-> page = 56

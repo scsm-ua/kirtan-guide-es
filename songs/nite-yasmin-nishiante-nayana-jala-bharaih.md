@@ -1,3 +1,8 @@
+---
+page: 371
+first_line: nīte yasmin niśānte nayana-jala-bharaiḥ
+---
+
 # Śrī Śrī Dayita Dās Daśakam
 
 > **śrī śrī** — su santidad venerable; **dayita dās** — Dayita Dās; **daśakam** — diez oraciones.
@@ -116,5 +121,3 @@ En el año 450 de nuestro Señor Gaurāṅga, en el mes de Pauṣa, en el cuarto
 
 La tierra entera y el cielo se llenaron con los llantos de angustia de la gente y de los discípulos dedicados al servicio de los pies de loto de Śrī Gurudev. ¿Adónde se ha ido ese Gran Amo? ¡Oh! Ahora el universo entero parece vacío, debido a que nos encontramos separados de Prabhupād. El sirviente de Gurudev no puede soportar ni siquiera un momento el estar separado de él. ¡Oh, Dīna-nayana! Dondequiera que esté esa gran alma, ¡por favor, pronto, lleva allí a este servidor!
 
-
-> page = 371

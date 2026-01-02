@@ -1,3 +1,8 @@
+---
+page: 137
+first_line: ‘gaurāṅga’ bolite habe pulaka-śarīra
+---
+
 # Lālasā-mayī Prārthanā
 
 > **lālasā** — anhelo; **mayi** — en mí; **prārthana** — oración.
@@ -49,5 +54,3 @@
 
 Mi única aspiración es obtener los pies de loto de Śrī Rūpa y Śrī Raghunāth. Narottam Dās continuamente ofrece esta oración.
 
-
-> page = 137

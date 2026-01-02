@@ -1,3 +1,8 @@
+---
+page: 167
+first_line: duṣṭa mana! tumi kisera vaiṣṇava?
+---
+
 # Vaiṣṇava Ke?
 
 > **vaiṣṇava** — devoto; **ke** — quién es.
@@ -210,7 +215,5 @@ Los tesoros más valiosos entre los predicadores del Señor son las personalidad
 
 > **śrī-dayita-dāsa** — el sirviente del amado de Rādhā, Kṛṣṇa (Śrīla Bhakti Siddhānta Saraswatī Ṭhākur); **kīrttanete** — por el canto congregacional; **āśa** — deseo; **koro** — realiza; **uchaiḥ-svare** — en voz alta; **harināma rava** — el sonido el nombre del Señor; **kīrttana-prabhāve** — por el poder del canto; **smaraṇa** — recordar; **svabhāve** — en el propio humor espiritual; **se kāle** — en ese momento; **bhajana-nirjjana** — adoración solitaria; **sambhava** — posible.
 
-Este humilde sirviente de Rādhā y de Su amado Kṛṣṇa siempre anhela el *kīrtan*, y les suplica a todos cantar con fuerza los Nombres del Señor Hari. El poder trascendental del canto en congregación automáticamente revive en uno el recuerdo del Señor y Sus Pasatiempos divinos en relación con nuestra propia forma espiritual eterna. Solo en ese momento será posible irse a un lugar apartado y ocuparse en la adoración confidencial de Sus Señorías. 
+Este humilde sirviente de Rādhā y de Su amado Kṛṣṇa siempre anhela el *kīrtan*, y les suplica a todos cantar con fuerza los Nombres del Señor Hari. El poder trascendental del canto en congregación automáticamente revive en uno el recuerdo del Señor y Sus Pasatiempos divinos en relación con nuestra propia forma espiritual eterna. Solo en ese momento será posible irse a un lugar apartado y ocuparse en la adoración confidencial de Sus Señorías.
 
-
-> page = 167

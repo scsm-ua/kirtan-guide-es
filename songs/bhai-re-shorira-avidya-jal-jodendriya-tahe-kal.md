@@ -1,3 +1,8 @@
+---
+page: 89
+first_line: bhāi-re! śarīra avidyā-jāl
+---
+
 # Śrī Prasāda-sevāya Gīti
 
 > **śrī** — divina; **prāsada** — misericordia; **sevāya** — servicio; **gīti** — canción.
@@ -33,5 +38,3 @@
 
 > **preme** — con amor; **bhore** — pleno; **ḍaka re** — ¡oh exclama!; **dayāl nitāi chaitanya** — los amigos de los caídos Nitāi y Chaitanya; **preme** — con amor; **bhore** — pleno; **ḍaka re** — ¡oh exclama!; **nitāi gaura haribol** — canta el Nombre de Nitāi y Chaitanya.
 
-
-> page = 89

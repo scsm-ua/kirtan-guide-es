@@ -1,3 +1,8 @@
+---
+page: 305
+first_line: śuddha bhakata-charaṇa-reṇu
+---
+
 # Śuddha-bhakata
 
 > **śuddha** — puro; **bhakata** — devoto.
@@ -92,5 +97,3 @@ Ver a Tulasī Devī alivia mi corazón, porque sé que es agradable a Mādhava. 
 
 Lo que sea que Bhakti Vinod obtiene que es favorable al servicio de Kṛṣṇa lo acepta todos los días con la mayor alegría.
 
-
-> page = 305

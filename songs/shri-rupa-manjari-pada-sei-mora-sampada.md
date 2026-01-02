@@ -1,3 +1,8 @@
+---
+page: 204
+first_line: śrī-rūpa-mañjarī-pada, sei mora sampada
+---
+
 # Lālasā
 
 > **lālasā** — anhelo sincero.
@@ -80,5 +85,3 @@ Hay dos clases de lotos: El blanco proviene del sol, y el rojo, de la luna. El *
 
 Esto lo compuso Narottam Dās Ṭhākur en alabanza a Śrīla Rūpa Goswāmī. De este modo, nos iluminó acerca de la región superior de la vida de *bhajan*. A nuestra *sampradāya* se le conoce como la Rūpānuga Sampradāya, y nuestro Guru-paramparā y todos estos aspectos son ajustados conforme a eso. Él escribió muchas canciones, las cuales son de un firmamento muy sustantivo, muy extático y de una fe profunda.
 
-
-> page = 204

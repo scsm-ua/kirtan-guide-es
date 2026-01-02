@@ -1,3 +1,8 @@
+---
+page: 166
+first_line: e ghora saṁsāre
+---
+
 # E ghora saṁsare
 
 > **e** — esta; **ghora** — terrible; **saṁsare** — en la existencia material.
@@ -37,5 +42,3 @@ El corazón arde en el fuego de la gratificación de los sentidos, y ese fuego q
 
 Kālidās dice: “Quienquiera que se haya refugiado en los pies de loto del Señor Chaitanya y el Señor Nityānanda, es mi refugio en la vida y en la muerte”.
 
-
-> page = 166
