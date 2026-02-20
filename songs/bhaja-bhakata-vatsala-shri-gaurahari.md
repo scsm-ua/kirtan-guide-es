@@ -76,7 +76,7 @@ Hay *purīs* dulces, *purīs* rellenos de crema, *lāḍḍus* y pastelillos de 
 #### 8
 
     rādhikāra pakka anna vividha vyañjana
-    parama ānande kṛṣṇa karena bhojana []
+    parama ānande kṛṣṇa karena bhojana
 
 > **rādhikāra** — hechos por Rādhikā; **pakka anna** — granos cocidos; **vividha** — varios; **vyañjana** — vegetales cocidos; **parama ānande** — en bienaventuranza suprema; **kṛṣṇa korena bhojana** — Kṛṣṇa come Su almuerzo.
 
