@@ -120,32 +120,34 @@ Sārvabhauma Bhaṭṭāchārya, Gopīnāth Āchārya y los seguidores en la *sa
 
 Inconcebiblemente, Śrī Śrī Nitāi-Chaitanya se han manifestado y, gracias a la misericordia de Śrī Gurudev, esta alma caída observa Su *ārati* y se une al *saṅkīrtan*.
 
+---
+
 **Nota:** Existen cuatro canciones más para el *ārati* de Sus Señorías Nitāi Chaitanya basadas en la original de Purī Dhām; en Ekachakrā Dhām, en Nṛsingha Palli, en Caracas Venezuela, y en Medellín Colombia. La estrofa que varía se presenta a continuación:
 
-Para Śrī Śrī Guru Gaura Nityānanda en Śrī Ekachakrā Dhām, India:
-
 #### 10
+
+Para Śrī Śrī Guru Gaura Nityānanda en Śrī Ekachakrā Dhām, India:
 
     nadīyā līlāra nityānanda-gauranidhi
     patita-pāvana-kṣetre milāila vidhi
 
-Para Śrī Śrī Nitāi Gaurāṅga en Śrī Nṛisingha Palli Dhām, India:
-
 #### 11
+
+Para Śrī Śrī Nitāi Gaurāṅga en Śrī Nṛisingha Palli Dhām, India:
 
     nadīyā prakāśe nityānanda-gauranidhi
     patita-pāvana-dhāme milāila vidhi
 
-Para Parama Karuṇa Nitāi Gaurachandra en Caracas, Venezuela:
-
 #### 10
+
+Para Parama Karuṇa Nitāi Gaurachandra en Caracas, Venezuela:
 
     nadīyā prakāśe nityānanda-gauranidhi
     caracas-bhakta-saṅge milāila vidhi
 
-Para Śrī Śrī Guru Gaura Nityānanda Jiu en Medellín, Colombia:
-
 #### 11
+
+Para Śrī Śrī Guru Gaura Nityānanda Jiu en Medellín, Colombia:
 
     nadīyā līlāra nityānanda-gauranidhi
     medellín-bhakta-saṅge milāila viddhi

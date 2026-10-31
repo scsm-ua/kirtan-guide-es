@@ -1,7 +1,10 @@
 ---
-inline verse: non bold
 page: 351
 first_line: śrī-sanātanānu-rūpa-jīva-sampradāyakaṁ
+styles:
+  verses:
+    inline:
+      bold: false
 ---
 
 # Śrī Śrī Premadhāma-deva-stotram

@@ -20,9 +20,9 @@ first_line: ‘doyāl nitāi chaitanya’ bo’le’ nāch re āmār man
 
 #### 2
 
-    (emon doyāl to nāi he, mār kheye prema dey)
+        (emon doyāl to nāi he, mār kheye prema dey)
     (tabe) aparādha dūre jābe, pābe prema-dhan
-    (aparādhera-bichāra to nāi he)
+        (aparādhera-bichāra to nāi he)
     takhon kṛṣṇa-nāme ruchi habe, ghuchibe bandhan
 
 > **emon** — esta; **doyāl** — misericordia; **taḥ** — de Ti; **nāi he** — ¡oh no!; **mār** — golpeado; **kheye** — experiencia; **prema** — amor divino; **dey** — otorga; **tabe** — entonces; **aparādha** — ofensas; **dūre** — lejos; **jābe** — van; **pābe** — obtendrá; **prema-dhan** — la riqueza del amor; **aparādhera** — de las ofensas; **bichāra** — consideración; **taḥ** — de Ti; **nāi** — no; **he** — ¡oh!; **takhon** — entonces; **kṛṣṇa-nāme** — del nombre de Kṛṣṇa; **ruchi** — gusto; **habe** — habrá; **ghuchibe** — destruirá; **bandhan** — cautiverio.
@@ -31,11 +31,11 @@ En ninguna parte encontraremos una personalidad tan misericordiosa como Nityāna
 
 #### 3
 
-    (anurāga to habe he)
+        (anurāga to habe he)
     tokhon anāyāse saphal habe jīvera jīvan
-    (kṛṣṇa-rati vinā jīvan to miche he )
+        (kṛṣṇa-rati vinā jīvan to miche he )
     śeṣe vṛndāvane rādhā-śyāmer pābe daraśan
-    (gaura-kṛpā hole he)
+        (gaura-kṛpā hole he)
 
 > **anurāga** — gran atracción; **taḥ** — tu; **habe** — será; **he** — ¡oh!; **tokhon** — entonces; **anāyāse** — fácilmente; **saphal** — exitosamente; **habe** — será; **jīvera** — del alma; **jīvan** — la vida; **kṛṣṇa-rati** — afecto por el señor Kṛṣṇa; **vinā** — desprovisto; **jīvan** — la vida; **taḥ** — tu; **miche** — falso; **he** — ¡oh!; **śeṣe** — al final; **vṛndāvane** — de Vṛndāvan; **rādhā-śyāmer** — de Śrī Śrī Rādhā Kṛṣṇa; **pābe** — obtendrás; **daraśan** — la visión; **gaura-kṛpā** — la misericordia de Gaura; **hole** — tendrá; **he** — ¡oh!
 

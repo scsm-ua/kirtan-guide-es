@@ -1,7 +1,10 @@
 ---
-inline verse: non bold
 page: 327
 first_line: sūtra-vṛtti-ṭippanīṣṭa-sūkṣma-vāchanādbhutaṁ
+styles:
+  verses:
+    inline:
+      bold: false
 ---
 
 # Śrī Śrī Premadhāma-deva-stotram

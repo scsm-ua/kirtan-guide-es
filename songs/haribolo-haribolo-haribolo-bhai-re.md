@@ -13,7 +13,7 @@ first_line: hari bolo hari bolo bhāi re
 
     ‘hari’ bolo, ‘hari’ bolo, ‘hari’ bolo, bhāi re
     harinām āniyāche gaurāṅga-nitāi re
-    (modera duḥkha dekhe’ re)
+        (modera duḥkha dekhe’ re)
 
 > **‘hari’ bolo** — canta Hari; **‘hari’ bolo** — canta Hari; **‘hari’ bolo** — canta Hari; **bhāi re** — ¡oh hermano!; **hari-nām** — el nombre del Señor; **āniyāche** — trajeron; **gaurāṅga-nitāi** — el Señor Nitāi y el Señor Chaitanya; **re** — ¡oh!; (**modera** — de nosotros; **duḥkha** — sufrimiento; **dekhe** — visto; **re** — ¡oh!).
 
@@ -23,7 +23,7 @@ first_line: hari bolo hari bolo bhāi re
 
     harinām vinā jīver anya dhana nāi-re
     harināme śuddha ha’lo jagāi-mādhāi re
-    (baḍo pāpī chilo re)
+        (baḍo pāpī chilo re)
 
 > **harinām** — el santo nombre del Señor Hari; **vinā** — desprovisto; **jīver** — del alma; **anya** — otro; **dhana** — riqueza; **nāi-re** — no es; **harināme** — del santo nombre del Señor; **śuddha** — puro; **ha’lo** — es; **jagāi-mādhāi** — Jagāi y Mādhāi; **re** — ¡oh!; (**baḍo** — gran; **pāpī** — pecador; **chilo** — fueron; **re** — ¡oh!).
 
@@ -32,9 +32,9 @@ first_line: hari bolo hari bolo bhāi re
 #### 3
 
     miche māyā-baddha ho’ye jīvan kāṭāi re
-    (‘āmi, āmār’ bole’ re)
-    (āśār śeṣa nāi re)
+        (‘āmi, āmār’ bole’ re)
     āśā-vaśe ghure’ ghure’ ār kothā jāi re
+        (āśār śeṣa nāi re)
 
 > **miche** — falso; **māyā** — por *māyā*; **baddha** — atado; **ho’ye** — estoy; **jīvan** — la vida; **kāṭāi** — corta; **re** — ¡oh!; (**āmi** — yo; **āmār** — mío; **bole** — decir; **re** — ¡oh!); (**āśār** — de los deseos; **śeṣa** — final; **nāi** — no; **re** — ¡oh!); **āśā** — de deseos; **vaśe** — bajo el control; **ghure** — van; **ghure** — y van; **ār** — otro; **kothā** — ¿dónde?; **jāi** — iré; **re** — ¡oh!
 
@@ -43,9 +43,9 @@ first_line: hari bolo hari bolo bhāi re
 #### 4
 
     ‘hari’ bole’ deo bhāi āśār mukhe chāi re
-    (nirāśa to’ sukho re)
+        (nirāśa to’ sukho re)
     bhoga-mokṣa-vāñchā chāḍi’ harinām gāi re
-    (śuddha-sattva ho’ye re)
+        (śuddha-sattva ho’ye re)
 
 > **‘hari’ bole** — canta Hari; **deo** — dar; **bhāi** — hermanos; **āśār** — de los deseos materiales; **mukhe** — en la cara; **chāi** — pila de cenizas; **re** — ¡oh!; (**nirāśa** — libertad de los deseos materiales; **to’** — esa; **sukho** — felicidad; **re** — ¡oh!); **bhoga** — gratificación sensorial; **mokṣa** — liberación; **vāñchā** — el deseo; **chāḍi** — renunciación; **harinām** — el nombre de Hari; **gāi** — canto; **re** — ¡oh!; (**śuddha** — puro; **sattva** — bondad; **ho’ye** — yo soy; **re** — ¡oh!).
 
@@ -54,9 +54,9 @@ first_line: hari bolo hari bolo bhāi re
 #### 5
 
     nāche’ jeo nāmer gune o saba phala pāi re
-    (tuccha phale prayās cheḍe’ re)
+        (tuccha phale prayās cheḍe’ re)
     vinod bole jāi lo’ye nāmer bālāi re
-    (nāmer bālāi cheḍe’ re)
+        (nāmer bālāi cheḍe’ re)
 
 > **nāche’ jeo** — yo danzo; **nāmer** — del nombre; **gune** — las virtudes; **o** — y; **saba** — todo; **phala** — resultados; **pāi** — obtengo; **re** — ¡oh!; (**tuccha** — insignificante; **phale** — resultados; **prayās** — esfuerzo; **cheḍe’** — detengo; **re** — ¡oh!); **vinod** — Bhaktivinod; **bole** — dice; **jāi** — voy; **lo’ye** — tomo; **nāmer** — del nombre; **bālāi** — obstáculos; **re** — ¡oh!; (**nāmer** — del nombre; **bālāi** — obstáculos; **cheḍe’** — detengo; **re** — ¡oh!).
 

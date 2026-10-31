@@ -1,7 +1,10 @@
 ---
-inline verse: non bold
 page: 344
 first_line: prema-mugdha-nṛtya-kīrtanākulāriṭāntikaṁ
+styles:
+  verses:
+    inline:
+      bold: false
 ---
 
 # Śrī Śrī Premadhāma-deva-stotram

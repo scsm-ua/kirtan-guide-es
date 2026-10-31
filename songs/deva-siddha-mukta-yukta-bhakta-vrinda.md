@@ -1,7 +1,10 @@
 ---
-inline verse: non bold
 page: 321
 first_line: deva-siddha-mukta-yukta-bhakta-vṛnda
+styles:
+  verses:
+    inline:
+      bold: false
 ---
 
 # Śrī Śrī Premadhāma-deva-stotram
