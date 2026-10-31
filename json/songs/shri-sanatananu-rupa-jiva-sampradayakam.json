@@ -1,8 +1,14 @@
 {
   "meta": {
-    "inline verse": "non bold",
     "page": 351,
-    "first_line": "śrī-sanātanānu-rūpa-jīva-sampradāyakaṁ"
+    "first_line": "śrī-sanātanānu-rūpa-jīva-sampradāyakaṁ",
+    "styles": {
+      "verses": {
+        "inline": {
+          "bold": false
+        }
+      }
+    }
   },
   "title": [
     "Śrī Śrī Premadhāma-deva-stotram"

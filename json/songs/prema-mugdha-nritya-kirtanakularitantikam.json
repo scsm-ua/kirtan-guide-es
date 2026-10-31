@@ -1,8 +1,14 @@
 {
   "meta": {
-    "inline verse": "non bold",
     "page": 344,
-    "first_line": "prema-mugdha-nṛtya-kīrtanākulāriṭāntikaṁ"
+    "first_line": "prema-mugdha-nṛtya-kīrtanākulāriṭāntikaṁ",
+    "styles": {
+      "verses": {
+        "inline": {
+          "bold": false
+        }
+      }
+    }
   },
   "title": [
     "Śrī Śrī Premadhāma-deva-stotram"
