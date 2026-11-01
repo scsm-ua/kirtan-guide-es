@@ -1,7 +1,10 @@
 ---
-inline verse: non bold
 page: 332
 first_line: dhvasta-sārvvabhauma-vāda-navya-tarka-śāṅkaraṁ
+styles:
+  verses:
+    inline:
+      bold: false
 ---
 
 # Śrī Śrī Premadhāma-deva-stotram

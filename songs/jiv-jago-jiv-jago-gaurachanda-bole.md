@@ -21,7 +21,7 @@ first_line: jīv jāgo, jīv jāgo, gorāchā̐da bale
 El Señor Gaurāṇga exclama: “¡Despierten, almas durmientes! ¡Despierten, almas durmientes! Han dormido tanto tiempo en el regazo de la bruja Māyā”.
 
     (ār kata kāl ghumāibe?)
-    (māyā-piśāchīra kole ār kata kāl ghumāibe?
+    (māyā-piśāchīra kole ār kata kāl ghumāibe?)
     (uṭha jīva, kṛṣṇa bhaja ār kata kāl ghumāibe?)
 
 > **āra kata** — ¿cuánto más; **kāla** — tiempo; **ghumāibe?** — dormirán?; **māyā-piśāchīra** — de la bruja Māyā; **kole** — regazo; **āra kata kāl ghumāibe?** — ¿cuánto tiempo másdormirán?; **uṭha** — despierta; **jīva** — alma; **kṛṣṇa bhaja** — sirve a Kṛṣṇa; **ār kata kāl ghumāibe?** — ¿cuánto más vas a dormir?

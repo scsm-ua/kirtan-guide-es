@@ -4,7 +4,14 @@
       46,
       91
     ],
-    "first_line": "jaya guru mahārāj karuṇā-sāgara"
+    "first_line": "jaya guru mahārāj karuṇā-sāgara",
+    "styles": {
+      "verses": {
+        "inline": {
+          "bold": false
+        }
+      }
+    }
   },
   "title": [
     "Śrī Śrī Nitāi Chaitanya ārati"
@@ -171,42 +178,53 @@
       ],
       "translation": [
         "Inconcebiblemente, Śrī Śrī Nitāi-Chaitanya se han manifestado y, gracias a la misericordia de Śrī Gurudev, esta alma caída observa Su *ārati* y se une al *saṅkīrtan*.",
-        "**Nota:** Existen cuatro canciones más para el *ārati* de Sus Señorías Nitāi Chaitanya basadas en la original de Purī Dhām; en Ekachakrā Dhām, en Nṛsingha Palli, en Caracas Venezuela, y en Medellín Colombia. La estrofa que varía se presenta a continuación:",
-        "Para Śrī Śrī Guru Gaura Nityānanda en Śrī Ekachakrā Dhām, India:"
+        "---",
+        "**\\* Nota:** Existen cuatro canciones más para el *ārati* de Sus Señorías Nitāi Chaitanya basadas en la original de Purī Dhām; en Ekachakrā Dhām, en Nṛsingha Palli, en Caracas Venezuela, y en Medellín Colombia. La estrofa que varía se presenta a continuación:"
       ]
     },
     {
       "number": "10",
+      "translation": [
+        "Para Śrī Śrī Guru Gaura Nityānanda en Śrī Ekachakrā Dhām, India:"
+      ]
+    },
+    {
       "text": [
         "nadīyā līlāra nityānanda-gauranidhi",
         "patita-pāvana-kṣetre milāila vidhi"
-      ],
+      ]
+    },
+    {
+      "number": "11",
       "translation": [
         "Para Śrī Śrī Nitāi Gaurāṅga en Śrī Nṛisingha Palli Dhām, India:"
       ]
     },
     {
-      "number": "11",
       "text": [
         "nadīyā prakāśe nityānanda-gauranidhi",
         "patita-pāvana-dhāme milāila vidhi"
-      ],
+      ]
+    },
+    {
+      "number": "10",
       "translation": [
         "Para Parama Karuṇa Nitāi Gaurachandra en Caracas, Venezuela:"
       ]
     },
     {
-      "number": "10",
       "text": [
         "nadīyā prakāśe nityānanda-gauranidhi",
         "caracas-bhakta-saṅge milāila vidhi"
-      ],
+      ]
+    },
+    {
+      "number": "11",
       "translation": [
         "Para Śrī Śrī Guru Gaura Nityānanda Jiu en Medellín, Colombia:"
       ]
     },
     {
-      "number": "11",
       "text": [
         "nadīyā līlāra nityānanda-gauranidhi",
         "medellín-bhakta-saṅge milāila viddhi"

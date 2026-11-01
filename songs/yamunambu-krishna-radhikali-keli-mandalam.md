@@ -1,7 +1,10 @@
 ---
-inline verse: non bold
 page: 356
 first_line: yāmunāmbu-kṛṣṇa-rādhikāli-keli-maṇḍalam
+styles:
+  verses:
+    inline:
+      bold: false
 ---
 
 # Śrī Śrī Premadhāma-deva-stotram

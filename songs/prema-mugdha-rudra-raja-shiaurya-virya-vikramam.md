@@ -1,7 +1,10 @@
 ---
-inline verse: non bold
 page: 338
 first_line: prema-mugdha-rudra-rāja-śaurya-vīrya-vikramaṁ
+styles:
+  verses:
+    inline:
+      bold: false
 ---
 
 # Śrī Śrī Premadhāma-deva-stotram

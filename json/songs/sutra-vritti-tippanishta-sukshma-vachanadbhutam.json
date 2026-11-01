@@ -1,8 +1,14 @@
 {
   "meta": {
-    "inline verse": "non bold",
     "page": 327,
-    "first_line": "sūtra-vṛtti-ṭippanīṣṭa-sūkṣma-vāchanādbhutaṁ"
+    "first_line": "sūtra-vṛtti-ṭippanīṣṭa-sūkṣma-vāchanādbhutaṁ",
+    "styles": {
+      "verses": {
+        "inline": {
+          "bold": false
+        }
+      }
+    }
   },
   "title": [
     "Śrī Śrī Premadhāma-deva-stotram"

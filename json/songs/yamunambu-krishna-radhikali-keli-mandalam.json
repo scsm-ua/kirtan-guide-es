@@ -1,8 +1,14 @@
 {
   "meta": {
-    "inline verse": "non bold",
     "page": 356,
-    "first_line": "yāmunāmbu-kṛṣṇa-rādhikāli-keli-maṇḍalam"
+    "first_line": "yāmunāmbu-kṛṣṇa-rādhikāli-keli-maṇḍalam",
+    "styles": {
+      "verses": {
+        "inline": {
+          "bold": false
+        }
+      }
+    }
   },
   "title": [
     "Śrī Śrī Premadhāma-deva-stotram"

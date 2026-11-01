@@ -72,10 +72,12 @@ Has descendido sólo para redimir a las almas caídas. Oh Señor, no encontrará
 
 ¡Oh Śrīnivās Āchārya, por favor, sé misericordioso! Narottam Dās ruega por la compañía de Rāmachandra Kavirāj.
 
-    (dayā kara prabhupāda śrī-gaura-prakāśa)
-    (tava jana kṛpā māge ei adhama dāsa)
+#### 8
+
+    dayā kara prabhupāda śrī-gaura-prakāśa
+    tava jana kṛpā māge ei adhama dāsa
 
 > **dayā kara** — otorga misericordia; **prabhupāda** — Śrīla Prabhupāda; **śrī-gaura** — de Śrī Gaura; **prakāśa** — manifestación; **tava** — tuyo; **jana** — persona; **kṛpā** — misericordia; **māge** — ora; **ei** — este; **adhama** — caído; **dāsa** — sirviente.
 
-¡Oh Śrīla Prabhupād, manifestación de Śrī Gaura! Sé misericordioso. Este caído sirviente mendiga la misericordia de sus asociados. (Por Śrīla Śrīdhar Mahārāj)
+¡Oh Śrīla Prabhupād, manifestación de Śrī Gaura! Sé misericordioso. Este caído sirviente mendiga la misericordia de sus asociados. *(Por Śrīla Śrīdhar Mahārāj)*
 
