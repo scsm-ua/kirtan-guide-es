@@ -126,7 +126,7 @@ Inconcebiblemente, Śrī Śrī Nitāi-Chaitanya se han manifestado y, gracias a 
 
 ---
 
-**Nota:** Existen cuatro canciones más para el *ārati* de Sus Señorías Nitāi Chaitanya basadas en la original de Purī Dhām; en Ekachakrā Dhām, en Nṛsingha Palli, en Caracas Venezuela, y en Medellín Colombia. La estrofa que varía se presenta a continuación:
+**\* Nota:** Existen cuatro canciones más para el *ārati* de Sus Señorías Nitāi Chaitanya basadas en la original de Purī Dhām; en Ekachakrā Dhām, en Nṛsingha Palli, en Caracas Venezuela, y en Medellín Colombia. La estrofa que varía se presenta a continuación:
 
 #### 10
 
