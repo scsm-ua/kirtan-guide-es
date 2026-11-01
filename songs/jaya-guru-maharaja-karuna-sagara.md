@@ -3,6 +3,10 @@ page:
   - 46
   - 91
 first_line: jaya guru mahārāj karuṇā-sāgara
+styles:
+  verses:
+    inline:
+      bold: false
 ---
 
 # Śrī Śrī Nitāi Chaitanya ārati
